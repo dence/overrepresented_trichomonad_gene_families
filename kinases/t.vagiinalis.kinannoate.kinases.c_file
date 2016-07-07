@@ -1,0 +1,3332 @@
+##CLUSTERS:-k:3	-g:0.1	-p:1000	-s:20	-f:contigSrt.top_17290_longest.all.maker.proteins.kinannote_kinases.fasta
+>CLUSTER:c823	p=c0	t=0	s=821
+s1	genemark-DS113787-processed-gene-0.29-mRNA-1
+s10	genemark-DS113275-processed-gene-0.83-mRNA-1
+s100	augustus_masked-DS113251-processed-gene-0.23-mRNA-1
+s101	augustus_masked-DS113269-processed-gene-0.17-mRNA-1
+s102	genemark-DS113269-processed-gene-0.91-mRNA-1
+s103	genemark-DS113269-processed-gene-0.77-mRNA-1
+s104	augustus_masked-DS113269-processed-gene-0.22-mRNA-1
+s105	genemark-DS113269-processed-gene-0.102-mRNA-1
+s106	genemark-DS113197-processed-gene-1.25-mRNA-1
+s107	augustus_masked-DS113197-processed-gene-1.20-mRNA-1
+s108	genemark-DS113806-processed-gene-0.11-mRNA-1
+s109	genemark-DS113563-processed-gene-0.35-mRNA-1
+s11	augustus_masked-DS113275-processed-gene-0.33-mRNA-1
+s110	genemark-DS113563-processed-gene-0.38-mRNA-1
+s111	augustus_masked-DS113331-processed-gene-0.13-mRNA-1
+s112	genemark-DS113331-processed-gene-0.64-mRNA-1
+s113	snap_masked-DS113473-processed-gene-0.49-mRNA-1
+s114	genemark-DS113473-processed-gene-0.24-mRNA-1
+s115	augustus_masked-DS120383-processed-gene-0.0-mRNA-1
+s116	genemark-DS113911-processed-gene-0.13-mRNA-1
+s117	snap_masked-DS114253-processed-gene-0.21-mRNA-1
+s118	genemark-DS113236-processed-gene-0.34-mRNA-1
+s119	augustus_masked-DS113236-processed-gene-0.1-mRNA-1
+s12	augustus_masked-DS113275-processed-gene-0.32-mRNA-1
+s120	augustus_masked-DS113236-processed-gene-0.0-mRNA-1
+s121	augustus_masked-DS113236-processed-gene-0.9-mRNA-1
+s122	genemark-DS113684-processed-gene-0.44-mRNA-1
+s123	augustus_masked-DS114092-processed-gene-0.1-mRNA-1
+s124	genemark-DS113231-processed-gene-0.56-mRNA-1
+s125	snap_masked-DS113231-processed-gene-1.87-mRNA-1
+s126	genemark-DS113231-processed-gene-1.66-mRNA-1
+s127	augustus_masked-DS113231-processed-gene-1.17-mRNA-1
+s128	augustus_masked-DS114186-processed-gene-0.7-mRNA-1
+s129	genemark-DS113449-processed-gene-0.37-mRNA-1
+s13	augustus_masked-DS113994-processed-gene-0.0-mRNA-1
+s130	augustus_masked-DS113669-processed-gene-0.5-mRNA-1
+s131	augustus_masked-DS113669-processed-gene-0.6-mRNA-1
+s132	snap_masked-DS113300-processed-gene-0.110-mRNA-1
+s133	augustus_masked-DS113300-processed-gene-0.6-mRNA-1
+s134	augustus_masked-DS113300-processed-gene-0.29-mRNA-1
+s135	genemark-DS114257-processed-gene-0.11-mRNA-1
+s136	genemark-DS113298-processed-gene-0.69-mRNA-1
+s137	snap_masked-DS113914-processed-gene-0.27-mRNA-1
+s138	genemark-DS113196-processed-gene-1.77-mRNA-1
+s139	augustus_masked-DS113196-processed-gene-1.38-mRNA-1
+s14	genemark-DS113606-processed-gene-0.23-mRNA-1
+s140	augustus_masked-DS113423-processed-gene-0.11-mRNA-1
+s141	genemark-DS113274-processed-gene-0.79-mRNA-1
+s142	genemark-DS113274-processed-gene-0.75-mRNA-1
+s143	genemark-DS114048-processed-gene-0.17-mRNA-1
+s144	augustus_masked-DS114048-processed-gene-0.6-mRNA-1
+s145	augustus_masked-DS113532-processed-gene-0.3-mRNA-1
+s146	genemark-DS113708-processed-gene-0.12-mRNA-1
+s147	genemark-DS113194-processed-gene-1.35-mRNA-1
+s148	genemark-DS113531-processed-gene-0.14-mRNA-1
+s149	genemark-DS113797-processed-gene-0.17-mRNA-1
+s15	genemark-DS113606-processed-gene-0.47-mRNA-1
+s150	augustus_masked-DS113253-processed-gene-0.7-mRNA-1
+s151	genemark-DS113675-processed-gene-0.24-mRNA-1
+s152	augustus_masked-DS113285-processed-gene-0.18-mRNA-1
+s153	genemark-DS113720-processed-gene-0.10-mRNA-1
+s154	snap_masked-DS113720-processed-gene-0.37-mRNA-1
+s155	augustus_masked-DS113556-processed-gene-0.5-mRNA-1
+s156	augustus_masked-DS113294-processed-gene-0.16-mRNA-1
+s157	augustus_masked-DS113796-processed-gene-0.3-mRNA-1
+s158	genemark-DS113796-processed-gene-0.32-mRNA-1
+s159	genemark-DS113386-processed-gene-0.28-mRNA-1
+s16	snap_masked-DS113434-processed-gene-0.69-mRNA-1
+s160	genemark-DS114159-processed-gene-0.6-mRNA-1
+s161	genemark-DS113585-processed-gene-0.13-mRNA-1
+s162	genemark-DS113183-processed-gene-1.62-mRNA-1
+s163	genemark-DS113183-processed-gene-2.21-mRNA-1
+s164	genemark-DS113183-processed-gene-2.39-mRNA-1
+s165	augustus_masked-DS113183-processed-gene-2.5-mRNA-1
+s166	genemark-DS113183-processed-gene-3.45-mRNA-1
+s167	augustus_masked-DS113183-processed-gene-3.11-mRNA-1
+s168	augustus_masked-DS113183-processed-gene-3.6-mRNA-1
+s169	augustus_masked-DS113183-processed-gene-3.7-mRNA-1
+s17	augustus_masked-DS113570-processed-gene-0.3-mRNA-1
+s170	augustus_masked-DS113183-processed-gene-3.13-mRNA-1
+s171	augustus_masked-DS113376-processed-gene-0.4-mRNA-1
+s172	genemark-DS113734-processed-gene-0.11-mRNA-1
+s173	augustus_masked-DS115438-processed-gene-0.0-mRNA-1
+s174	genemark-DS113241-processed-gene-0.48-mRNA-1
+s175	genemark-DS113241-processed-gene-0.83-mRNA-1
+s176	genemark-DS113241-processed-gene-0.78-mRNA-1
+s177	augustus_masked-DS113241-processed-gene-0.13-mRNA-1
+s178	snap_masked-DS113657-processed-gene-0.45-mRNA-1
+s179	maker-DS113456-snap-gene-0.56-mRNA-1
+s18	augustus_masked-DS113598-processed-gene-0.10-mRNA-1
+s180	maker-DS113456-snap-gene-0.56-mRNA-2
+s181	augustus_masked-DS113987-processed-gene-0.2-mRNA-1
+s182	genemark-DS113193-processed-gene-0.47-mRNA-1
+s183	augustus_masked-DS113722-processed-gene-0.3-mRNA-1
+s184	augustus_masked-DS113333-processed-gene-0.21-mRNA-1
+s185	genemark-DS113333-processed-gene-0.53-mRNA-1
+s186	genemark-DS113182-processed-gene-1.18-mRNA-1
+s187	augustus_masked-DS113182-processed-gene-1.59-mRNA-1
+s188	genemark-DS113255-processed-gene-0.52-mRNA-1
+s189	augustus_masked-DS113255-processed-gene-0.11-mRNA-1
+s19	augustus_masked-DS113677-processed-gene-0.7-mRNA-1
+s190	augustus_masked-DS113279-processed-gene-0.12-mRNA-1
+s191	augustus_masked-DS113279-processed-gene-0.28-mRNA-1
+s192	genemark-DS113467-processed-gene-0.26-mRNA-1
+s193	genemark-DS116332-processed-gene-0.0-mRNA-1
+s194	augustus_masked-DS113409-processed-gene-0.0-mRNA-1
+s195	genemark-DS113409-processed-gene-0.42-mRNA-1
+s196	genemark-DS113409-processed-gene-0.49-mRNA-1
+s197	genemark-DS113409-processed-gene-0.38-mRNA-1
+s198	augustus_masked-DS113409-processed-gene-0.2-mRNA-1
+s199	genemark-DS113422-processed-gene-0.57-mRNA-1
+s2	snap_masked-DS113435-processed-gene-0.78-mRNA-1
+s20	augustus_masked-DS113677-processed-gene-0.9-mRNA-1
+s200	augustus_masked-DS113422-processed-gene-0.10-mRNA-1
+s201	genemark-DS113372-processed-gene-0.14-mRNA-1
+s202	augustus_masked-DS113483-processed-gene-0.6-mRNA-1
+s203	augustus_masked-DS113371-processed-gene-0.11-mRNA-1
+s204	augustus_masked-DS115293-processed-gene-0.0-mRNA-1
+s205	augustus_masked-DS113224-processed-gene-0.4-mRNA-1
+s206	augustus_masked-DS113224-processed-gene-1.51-mRNA-1
+s207	augustus_masked-DS114210-processed-gene-0.1-mRNA-1
+s208	augustus_masked-DS113184-processed-gene-0.18-mRNA-1
+s209	augustus_masked-DS113184-processed-gene-1.36-mRNA-1
+s21	augustus_masked-DS113677-processed-gene-0.11-mRNA-1
+s210	genemark-DS113184-processed-gene-1.29-mRNA-1
+s211	genemark-DS113184-processed-gene-1.25-mRNA-1
+s212	genemark-DS113184-processed-gene-3.58-mRNA-1
+s213	augustus_masked-DS113184-processed-gene-3.85-mRNA-1
+s214	genemark-DS113184-processed-gene-3.46-mRNA-1
+s215	genemark-DS113281-processed-gene-0.50-mRNA-1
+s216	genemark-DS113281-processed-gene-0.42-mRNA-1
+s217	genemark-DS113281-processed-gene-0.43-mRNA-1
+s218	genemark-DS113281-processed-gene-0.95-mRNA-1
+s219	genemark-DS113330-processed-gene-0.13-mRNA-1
+s22	genemark-DS113677-processed-gene-0.34-mRNA-1
+s220	genemark-DS113858-processed-gene-0.16-mRNA-1
+s221	augustus_masked-DS118477-processed-gene-0.0-mRNA-1
+s222	genemark-DS114130-processed-gene-0.3-mRNA-1
+s223	genemark-DS113807-processed-gene-0.28-mRNA-1
+s224	augustus_masked-DS113732-processed-gene-0.5-mRNA-1
+s225	genemark-DS114145-processed-gene-0.8-mRNA-1
+s226	genemark-DS113432-processed-gene-0.42-mRNA-1
+s227	augustus_masked-DS113536-processed-gene-0.2-mRNA-1
+s228	augustus_masked-DS113496-processed-gene-0.6-mRNA-1
+s229	genemark-DS113227-processed-gene-0.27-mRNA-1
+s23	augustus_masked-DS113382-processed-gene-0.1-mRNA-1
+s230	augustus_masked-DS113227-processed-gene-0.2-mRNA-1
+s231	genemark-DS113227-processed-gene-1.30-mRNA-1
+s232	genemark-DS113351-processed-gene-0.40-mRNA-1
+s233	augustus_masked-DS113351-processed-gene-0.6-mRNA-1
+s234	augustus_masked-DS113678-processed-gene-0.1-mRNA-1
+s235	genemark-DS114207-processed-gene-0.9-mRNA-1
+s236	snap_masked-DS114207-processed-gene-0.29-mRNA-1
+s237	genemark-DS113773-processed-gene-0.26-mRNA-1
+s238	augustus_masked-DS115248-processed-gene-0.0-mRNA-1
+s239	augustus_masked-DS113391-processed-gene-0.3-mRNA-1
+s24	augustus_masked-DS114019-processed-gene-0.5-mRNA-1
+s240	genemark-DS113391-processed-gene-0.53-mRNA-1
+s241	augustus_masked-DS114680-processed-gene-0.0-mRNA-1
+s242	augustus_masked-DS113316-processed-gene-0.8-mRNA-1
+s243	augustus_masked-DS113316-processed-gene-0.25-mRNA-1
+s244	augustus_masked-DS113308-processed-gene-0.7-mRNA-1
+s245	maker-DS113200-augustus-gene-0.54-mRNA-1
+s246	augustus_masked-DS113200-processed-gene-0.5-mRNA-1
+s247	snap_masked-DS113200-processed-gene-1.153-mRNA-1
+s248	genemark-DS113320-processed-gene-0.44-mRNA-1
+s249	genemark-DS113627-processed-gene-0.14-mRNA-1
+s25	augustus_masked-DS115149-processed-gene-0.0-mRNA-1
+s250	genemark-DS114543-processed-gene-0.6-mRNA-1
+s251	genemark-DS113838-processed-gene-0.19-mRNA-1
+s252	augustus_masked-DS113801-processed-gene-0.0-mRNA-1
+s253	augustus_masked-DS113361-processed-gene-0.8-mRNA-1
+s254	augustus_masked-DS114558-processed-gene-0.0-mRNA-1
+s255	genemark-DS113599-processed-gene-0.33-mRNA-1
+s256	genemark-DS113365-processed-gene-0.70-mRNA-1
+s257	augustus_masked-DS113404-processed-gene-0.11-mRNA-1
+s258	augustus_masked-DS113416-processed-gene-0.0-mRNA-1
+s259	genemark-DS113416-processed-gene-0.60-mRNA-1
+s26	genemark-DS113348-processed-gene-0.23-mRNA-1
+s260	genemark-DS113985-processed-gene-0.10-mRNA-1
+s261	genemark-DS113190-processed-gene-1.30-mRNA-1
+s262	augustus_masked-DS113619-processed-gene-0.2-mRNA-1
+s263	genemark-DS113304-processed-gene-0.44-mRNA-1
+s264	genemark-DS113828-processed-gene-0.7-mRNA-1
+s265	genemark-DS113450-processed-gene-0.35-mRNA-1
+s266	genemark-DS113636-processed-gene-0.29-mRNA-1
+s267	augustus_masked-DS113248-processed-gene-0.9-mRNA-1
+s268	augustus_masked-DS113876-processed-gene-0.0-mRNA-1
+s269	augustus_masked-DS113769-processed-gene-0.1-mRNA-1
+s27	genemark-DS113348-processed-gene-0.30-mRNA-1
+s270	augustus_masked-DS113769-processed-gene-0.4-mRNA-1
+s271	genemark-DS113769-processed-gene-0.32-mRNA-1
+s272	genemark-DS113216-processed-gene-0.46-mRNA-1
+s273	maker-DS114172-snap-gene-0.20-mRNA-1
+s274	snap_masked-DS114172-processed-gene-0.19-mRNA-1
+s275	augustus_masked-DS113441-processed-gene-0.4-mRNA-1
+s276	augustus_masked-DS113441-processed-gene-0.7-mRNA-1
+s277	augustus_masked-DS113821-processed-gene-0.1-mRNA-1
+s278	augustus_masked-DS113334-processed-gene-0.8-mRNA-1
+s279	augustus_masked-DS113271-processed-gene-0.14-mRNA-1
+s28	genemark-DS113348-processed-gene-0.27-mRNA-1
+s280	augustus_masked-DS113342-processed-gene-0.7-mRNA-1
+s281	genemark-DS113238-processed-gene-0.34-mRNA-1
+s282	augustus_masked-DS113238-processed-gene-1.15-mRNA-1
+s283	genemark-DS113179-processed-gene-1.45-mRNA-1
+s284	augustus_masked-DS113179-processed-gene-1.13-mRNA-1
+s285	augustus_masked-DS113179-processed-gene-2.1-mRNA-1
+s286	genemark-DS113179-processed-gene-2.72-mRNA-1
+s287	genemark-DS113179-processed-gene-3.14-mRNA-1
+s288	augustus_masked-DS113256-processed-gene-0.2-mRNA-1
+s289	genemark-DS113256-processed-gene-0.45-mRNA-1
+s29	genemark-DS113348-processed-gene-0.25-mRNA-1
+s290	augustus_masked-DS113221-processed-gene-0.18-mRNA-1
+s291	augustus_masked-DS113392-processed-gene-0.17-mRNA-1
+s292	genemark-DS113287-processed-gene-0.26-mRNA-1
+s293	augustus_masked-DS113401-processed-gene-0.4-mRNA-1
+s294	genemark-DS113401-processed-gene-0.26-mRNA-1
+s295	genemark-DS113903-processed-gene-0.19-mRNA-1
+s296	genemark-DS114005-processed-gene-0.23-mRNA-1
+s297	genemark-DS113865-processed-gene-0.12-mRNA-1
+s298	genemark-DS113356-processed-gene-0.35-mRNA-1
+s299	genemark-DS114108-processed-gene-0.6-mRNA-1
+s3	genemark-DS113435-processed-gene-0.63-mRNA-1
+s30	genemark-DS113348-processed-gene-0.24-mRNA-1
+s300	genemark-DS113613-processed-gene-0.28-mRNA-1
+s301	genemark-DS114466-processed-gene-0.11-mRNA-1
+s302	genemark-DS113280-processed-gene-0.44-mRNA-1
+s303	augustus_masked-DS113517-processed-gene-0.7-mRNA-1
+s304	augustus_masked-DS113517-processed-gene-0.9-mRNA-1
+s305	genemark-DS113306-processed-gene-0.91-mRNA-1
+s306	augustus_masked-DS113327-processed-gene-0.4-mRNA-1
+s307	genemark-DS113327-processed-gene-0.52-mRNA-1
+s308	maker-DS113398-snap-gene-0.95-mRNA-1
+s309	genemark-DS113232-processed-gene-1.25-mRNA-1
+s31	genemark-DS113348-processed-gene-0.67-mRNA-1
+s310	augustus_masked-DS113709-processed-gene-0.2-mRNA-1
+s311	augustus_masked-DS114036-processed-gene-0.5-mRNA-1
+s312	augustus_masked-DS113215-processed-gene-1.5-mRNA-1
+s313	genemark-DS114254-processed-gene-0.10-mRNA-1
+s314	augustus_masked-DS113735-processed-gene-0.2-mRNA-1
+s315	augustus_masked-DS113584-processed-gene-0.2-mRNA-1
+s316	genemark-DS113526-processed-gene-0.40-mRNA-1
+s317	augustus_masked-DS113260-processed-gene-0.4-mRNA-1
+s318	augustus_masked-DS113900-processed-gene-0.3-mRNA-1
+s319	augustus_masked-DS113900-processed-gene-0.6-mRNA-1
+s32	augustus_masked-DS113348-processed-gene-0.16-mRNA-1
+s320	genemark-DS113366-processed-gene-0.19-mRNA-1
+s321	genemark-DS113366-processed-gene-0.18-mRNA-1
+s322	genemark-DS113366-processed-gene-0.52-mRNA-1
+s323	genemark-DS113366-processed-gene-0.53-mRNA-1
+s324	genemark-DS113366-processed-gene-0.55-mRNA-1
+s325	augustus_masked-DS113219-processed-gene-0.52-mRNA-1
+s326	augustus_masked-DS113219-processed-gene-1.0-mRNA-1
+s327	genemark-DS113219-processed-gene-1.60-mRNA-1
+s328	augustus_masked-DS113446-processed-gene-0.17-mRNA-1
+s329	genemark-DS113840-processed-gene-0.12-mRNA-1
+s33	genemark-DS113180-processed-gene-0.53-mRNA-1
+s330	genemark-DS113267-processed-gene-0.98-mRNA-1
+s331	augustus_masked-DS113267-processed-gene-0.20-mRNA-1
+s332	genemark-DS113704-processed-gene-0.12-mRNA-1
+s333	genemark-DS113704-processed-gene-0.33-mRNA-1
+s334	augustus_masked-DS113814-processed-gene-0.0-mRNA-1
+s335	augustus_masked-DS113254-processed-gene-0.20-mRNA-1
+s336	augustus_masked-DS113254-processed-gene-0.23-mRNA-1
+s337	augustus_masked-DS113364-processed-gene-0.1-mRNA-1
+s338	augustus_masked-DS113364-processed-gene-0.8-mRNA-1
+s339	genemark-DS113384-processed-gene-0.41-mRNA-1
+s34	snap_masked-DS113180-processed-gene-2.87-mRNA-1
+s340	genemark-DS113771-processed-gene-0.29-mRNA-1
+s341	genemark-DS113705-processed-gene-0.13-mRNA-1
+s342	augustus_masked-DS113705-processed-gene-0.6-mRNA-1
+s343	genemark-DS113906-processed-gene-0.21-mRNA-1
+s344	genemark-DS115673-processed-gene-0.2-mRNA-1
+s345	snap_masked-DS120915-processed-gene-0.2-mRNA-1
+s346	genemark-DS113199-processed-gene-0.40-mRNA-1
+s347	genemark-DS113199-processed-gene-1.9-mRNA-1
+s348	augustus_masked-DS113199-processed-gene-1.82-mRNA-1
+s349	genemark-DS114090-processed-gene-0.14-mRNA-1
+s35	augustus_masked-DS113292-processed-gene-0.4-mRNA-1
+s350	augustus_masked-DS114090-processed-gene-0.4-mRNA-1
+s351	maker-DS114090-snap-gene-0.30-mRNA-1
+s352	augustus_masked-DS113319-processed-gene-0.2-mRNA-1
+s353	augustus_masked-DS113319-processed-gene-0.12-mRNA-1
+s354	genemark-DS113403-processed-gene-0.22-mRNA-1
+s355	genemark-DS113206-processed-gene-0.21-mRNA-1
+s356	genemark-DS113206-processed-gene-1.78-mRNA-1
+s357	genemark-DS113206-processed-gene-1.73-mRNA-1
+s358	genemark-DS114256-processed-gene-0.12-mRNA-1
+s359	genemark-DS114256-processed-gene-0.20-mRNA-1
+s36	augustus_masked-DS113292-processed-gene-0.0-mRNA-1
+s360	augustus_masked-DS113286-processed-gene-0.10-mRNA-1
+s361	augustus_masked-DS113286-processed-gene-0.29-mRNA-1
+s362	augustus_masked-DS113286-processed-gene-0.21-mRNA-1
+s363	genemark-DS114138-processed-gene-0.5-mRNA-1
+s364	augustus_masked-DS113399-processed-gene-0.18-mRNA-1
+s365	genemark-DS113402-processed-gene-0.19-mRNA-1
+s366	genemark-DS113402-processed-gene-0.26-mRNA-1
+s367	snap_masked-DS113440-processed-gene-0.52-mRNA-1
+s368	genemark-DS113475-processed-gene-0.34-mRNA-1
+s369	genemark-DS113770-processed-gene-0.34-mRNA-1
+s37	genemark-DS113485-processed-gene-0.28-mRNA-1
+s370	genemark-DS113770-processed-gene-0.30-mRNA-1
+s371	genemark-DS113862-processed-gene-0.7-mRNA-1
+s372	genemark-DS113862-processed-gene-0.14-mRNA-1
+s373	genemark-DS114577-processed-gene-0.7-mRNA-1
+s374	genemark-DS113233-processed-gene-1.37-mRNA-1
+s375	genemark-DS113233-processed-gene-1.51-mRNA-1
+s376	augustus_masked-DS113960-processed-gene-0.3-mRNA-1
+s377	genemark-DS113626-processed-gene-0.13-mRNA-1
+s378	augustus_masked-DS113626-processed-gene-0.2-mRNA-1
+s379	augustus_masked-DS113177-processed-gene-1.46-mRNA-1
+s38	augustus_masked-DS113485-processed-gene-0.15-mRNA-1
+s380	augustus_masked-DS113177-processed-gene-2.13-mRNA-1
+s381	augustus_masked-DS113177-processed-gene-3.10-mRNA-1
+s382	genemark-DS113177-processed-gene-4.103-mRNA-1
+s383	augustus_masked-DS113177-processed-gene-4.33-mRNA-1
+s384	augustus_masked-DS113377-processed-gene-0.1-mRNA-1
+s385	augustus_masked-DS114180-processed-gene-0.2-mRNA-1
+s386	genemark-DS113543-processed-gene-0.29-mRNA-1
+s387	genemark-DS113543-processed-gene-0.39-mRNA-1
+s388	genemark-DS113905-processed-gene-0.20-mRNA-1
+s389	genemark-DS113317-processed-gene-0.37-mRNA-1
+s39	genemark-DS113346-processed-gene-0.19-mRNA-1
+s390	augustus_masked-DS113317-processed-gene-0.13-mRNA-1
+s391	genemark-DS113692-processed-gene-0.13-mRNA-1
+s392	genemark-DS113727-processed-gene-0.24-mRNA-1
+s393	maker-DS113755-snap-gene-0.48-mRNA-1
+s394	genemark-DS114427-processed-gene-0.9-mRNA-1
+s395	maker-DS114086-snap-gene-0.27-mRNA-1
+s396	augustus_masked-DS113445-processed-gene-0.5-mRNA-1
+s397	augustus_masked-DS114169-processed-gene-0.1-mRNA-1
+s398	augustus_masked-DS114169-processed-gene-0.0-mRNA-1
+s399	augustus_masked-DS113714-processed-gene-0.4-mRNA-1
+s4	genemark-DS113381-processed-gene-0.35-mRNA-1
+s40	genemark-DS113346-processed-gene-0.73-mRNA-1
+s400	augustus_masked-DS113714-processed-gene-0.6-mRNA-1
+s401	augustus_masked-DS113504-processed-gene-0.5-mRNA-1
+s402	genemark-DS113504-processed-gene-0.34-mRNA-1
+s403	augustus_masked-DS113630-processed-gene-0.4-mRNA-1
+s404	genemark-DS113630-processed-gene-0.29-mRNA-1
+s405	genemark-DS115054-processed-gene-0.2-mRNA-1
+s406	augustus_masked-DS113575-processed-gene-0.1-mRNA-1
+s407	augustus_masked-DS114249-processed-gene-0.0-mRNA-1
+s408	genemark-DS114249-processed-gene-0.8-mRNA-1
+s409	augustus_masked-DS113530-processed-gene-0.2-mRNA-1
+s41	genemark-DS113786-processed-gene-0.31-mRNA-1
+s410	augustus_masked-DS113222-processed-gene-0.1-mRNA-1
+s411	snap_masked-DS113222-processed-gene-0.78-mRNA-1
+s412	genemark-DS113222-processed-gene-1.45-mRNA-1
+s413	augustus_masked-DS113222-processed-gene-1.8-mRNA-1
+s414	augustus_masked-DS113222-processed-gene-1.24-mRNA-1
+s415	genemark-DS113222-processed-gene-1.71-mRNA-1
+s416	augustus_masked-DS113234-processed-gene-0.0-mRNA-1
+s417	genemark-DS113228-processed-gene-1.23-mRNA-1
+s418	genemark-DS113228-processed-gene-1.51-mRNA-1
+s419	genemark-DS113868-processed-gene-0.30-mRNA-1
+s42	genemark-DS113947-processed-gene-0.20-mRNA-1
+s420	snap_masked-DS113535-processed-gene-0.54-mRNA-1
+s421	augustus_masked-DS113405-processed-gene-0.0-mRNA-1
+s422	genemark-DS113405-processed-gene-0.62-mRNA-1
+s423	genemark-DS113336-processed-gene-0.51-mRNA-1
+s424	snap_masked-DS113924-processed-gene-0.42-mRNA-1
+s425	genemark-DS113230-processed-gene-0.53-mRNA-1
+s426	genemark-DS113854-processed-gene-0.29-mRNA-1
+s427	augustus_masked-DS114261-processed-gene-0.1-mRNA-1
+s428	genemark-DS113357-processed-gene-0.54-mRNA-1
+s429	augustus_masked-DS113237-processed-gene-0.2-mRNA-1
+s43	augustus_masked-DS114075-processed-gene-0.4-mRNA-1
+s430	genemark-DS113237-processed-gene-0.27-mRNA-1
+s431	genemark-DS113237-processed-gene-0.34-mRNA-1
+s432	genemark-DS113288-processed-gene-0.32-mRNA-1
+s433	augustus_masked-DS113288-processed-gene-0.28-mRNA-1
+s434	augustus_masked-DS113573-processed-gene-0.10-mRNA-1
+s435	augustus_masked-DS113833-processed-gene-0.7-mRNA-1
+s436	genemark-DS113198-processed-gene-0.34-mRNA-1
+s437	genemark-DS113252-processed-gene-0.26-mRNA-1
+s438	genemark-DS113252-processed-gene-0.73-mRNA-1
+s439	genemark-DS113541-processed-gene-0.43-mRNA-1
+s44	genemark-DS113698-processed-gene-0.7-mRNA-1
+s440	genemark-DS113261-processed-gene-0.57-mRNA-1
+s441	genemark-DS113654-processed-gene-0.9-mRNA-1
+s442	augustus_masked-DS113207-processed-gene-0.8-mRNA-1
+s443	genemark-DS113207-processed-gene-1.48-mRNA-1
+s444	genemark-DS113207-processed-gene-1.76-mRNA-1
+s445	genemark-DS113207-processed-gene-1.81-mRNA-1
+s446	snap_masked-DS113457-processed-gene-0.76-mRNA-1
+s447	augustus_masked-DS113754-processed-gene-0.10-mRNA-1
+s448	genemark-DS113553-processed-gene-0.40-mRNA-1
+s449	genemark-DS114199-processed-gene-0.3-mRNA-1
+s45	augustus_masked-DS119183-processed-gene-0.0-mRNA-1
+s450	snap_masked-DS113185-processed-gene-2.83-mRNA-1
+s451	augustus_masked-DS113185-processed-gene-3.16-mRNA-1
+s452	augustus_masked-DS113185-processed-gene-3.14-mRNA-1
+s453	genemark-DS113625-processed-gene-0.23-mRNA-1
+s454	augustus_masked-DS113625-processed-gene-0.4-mRNA-1
+s455	genemark-DS113283-processed-gene-0.40-mRNA-1
+s456	genemark-DS113283-processed-gene-0.76-mRNA-1
+s457	genemark-DS113283-processed-gene-0.70-mRNA-1
+s458	genemark-DS114185-processed-gene-0.12-mRNA-1
+s459	augustus_masked-DS114185-processed-gene-0.8-mRNA-1
+s46	augustus_masked-DS113332-processed-gene-0.20-mRNA-1
+s460	augustus_masked-DS113243-processed-gene-0.24-mRNA-1
+s461	maker-DS113243-snap-gene-0.138-mRNA-1
+s462	genemark-DS113383-processed-gene-0.55-mRNA-1
+s463	genemark-DS113250-processed-gene-0.53-mRNA-1
+s464	genemark-DS113250-processed-gene-0.80-mRNA-1
+s465	genemark-DS114029-processed-gene-0.13-mRNA-1
+s466	augustus_masked-DS113943-processed-gene-0.0-mRNA-1
+s467	genemark-DS113335-processed-gene-0.69-mRNA-1
+s468	snap_masked-DS113749-processed-gene-0.39-mRNA-1
+s469	genemark-DS113558-processed-gene-0.19-mRNA-1
+s47	genemark-DS114178-processed-gene-0.13-mRNA-1
+s470	genemark-DS113558-processed-gene-0.35-mRNA-1
+s471	genemark-DS114259-processed-gene-0.7-mRNA-1
+s472	snap_masked-DS113829-processed-gene-0.46-mRNA-1
+s473	genemark-DS113629-processed-gene-0.31-mRNA-1
+s474	genemark-DS114127-processed-gene-0.18-mRNA-1
+s475	augustus_masked-DS114127-processed-gene-0.3-mRNA-1
+s476	augustus_masked-DS113694-processed-gene-0.0-mRNA-1
+s477	genemark-DS113707-processed-gene-0.11-mRNA-1
+s478	genemark-DS115407-processed-gene-0.1-mRNA-1
+s479	augustus_masked-DS113725-processed-gene-0.9-mRNA-1
+s48	genemark-DS113510-processed-gene-0.49-mRNA-1
+s480	genemark-DS113742-processed-gene-0.28-mRNA-1
+s481	augustus_masked-DS113846-processed-gene-0.5-mRNA-1
+s482	augustus_masked-DS113846-processed-gene-0.9-mRNA-1
+s483	genemark-DS115188-processed-gene-0.5-mRNA-1
+s484	genemark-DS113643-processed-gene-0.20-mRNA-1
+s485	genemark-DS113643-processed-gene-0.33-mRNA-1
+s486	augustus_masked-DS113643-processed-gene-0.9-mRNA-1
+s487	genemark-DS113810-processed-gene-0.12-mRNA-1
+s488	genemark-DS113607-processed-gene-0.18-mRNA-1
+s489	augustus_masked-DS113607-processed-gene-0.2-mRNA-1
+s49	augustus_masked-DS115641-processed-gene-0.0-mRNA-1
+s490	augustus_masked-DS113646-processed-gene-0.13-mRNA-1
+s491	genemark-DS113246-processed-gene-0.41-mRNA-1
+s492	augustus_masked-DS113459-processed-gene-0.4-mRNA-1
+s493	genemark-DS113459-processed-gene-0.46-mRNA-1
+s494	genemark-DS113340-processed-gene-0.32-mRNA-1
+s495	augustus_masked-DS114718-processed-gene-0.2-mRNA-1
+s496	genemark-DS113502-processed-gene-0.30-mRNA-1
+s497	augustus_masked-DS113463-processed-gene-0.5-mRNA-1
+s498	augustus_masked-DS113487-processed-gene-0.9-mRNA-1
+s499	genemark-DS113874-processed-gene-0.7-mRNA-1
+s5	genemark-DS113381-processed-gene-0.63-mRNA-1
+s50	augustus_masked-DS113650-processed-gene-0.1-mRNA-1
+s500	augustus_masked-DS113874-processed-gene-0.3-mRNA-1
+s501	genemark-DS113378-processed-gene-0.26-mRNA-1
+s502	augustus_masked-DS114152-processed-gene-0.2-mRNA-1
+s503	augustus_masked-DS113664-processed-gene-0.6-mRNA-1
+s504	augustus_masked-DS113565-processed-gene-0.0-mRNA-1
+s505	genemark-DS113565-processed-gene-0.22-mRNA-1
+s506	genemark-DS113616-processed-gene-0.13-mRNA-1
+s507	genemark-DS113616-processed-gene-0.11-mRNA-1
+s508	genemark-DS113554-processed-gene-0.11-mRNA-1
+s509	genemark-DS113554-processed-gene-0.12-mRNA-1
+s51	genemark-DS114336-processed-gene-0.8-mRNA-1
+s510	genemark-DS113554-processed-gene-0.29-mRNA-1
+s511	genemark-DS113299-processed-gene-0.17-mRNA-1
+s512	genemark-DS113380-processed-gene-0.37-mRNA-1
+s513	genemark-DS113489-processed-gene-0.37-mRNA-1
+s514	genemark-DS113489-processed-gene-0.56-mRNA-1
+s515	genemark-DS113633-processed-gene-0.23-mRNA-1
+s516	genemark-DS113518-processed-gene-0.45-mRNA-1
+s517	genemark-DS113368-processed-gene-0.39-mRNA-1
+s518	augustus_masked-DS113632-processed-gene-0.1-mRNA-1
+s519	genemark-DS113608-processed-gene-0.39-mRNA-1
+s52	genemark-DS114226-processed-gene-0.10-mRNA-1
+s520	genemark-DS113188-processed-gene-1.21-mRNA-1
+s521	genemark-DS113188-processed-gene-1.22-mRNA-1
+s522	genemark-DS113247-processed-gene-0.65-mRNA-1
+s523	augustus_masked-DS113412-processed-gene-0.17-mRNA-1
+s524	augustus_masked-DS113412-processed-gene-0.19-mRNA-1
+s525	genemark-DS113809-processed-gene-0.10-mRNA-1
+s526	genemark-DS113809-processed-gene-0.18-mRNA-1
+s527	augustus_masked-DS113214-processed-gene-0.2-mRNA-1
+s528	genemark-DS113214-processed-gene-0.28-mRNA-1
+s529	augustus_masked-DS113214-processed-gene-0.10-mRNA-1
+s53	augustus_masked-DS113493-processed-gene-0.7-mRNA-1
+s530	augustus_masked-DS113214-processed-gene-1.65-mRNA-1
+s531	genemark-DS113525-processed-gene-0.32-mRNA-1
+s532	genemark-DS113525-processed-gene-0.34-mRNA-1
+s533	genemark-DS114170-processed-gene-0.5-mRNA-1
+s534	augustus_masked-DS113355-processed-gene-0.1-mRNA-1
+s535	snap_masked-DS113355-processed-gene-0.91-mRNA-1
+s536	genemark-DS113355-processed-gene-0.49-mRNA-1
+s537	genemark-DS113201-processed-gene-0.23-mRNA-1
+s538	genemark-DS113201-processed-gene-1.77-mRNA-1
+s539	genemark-DS113201-processed-gene-1.46-mRNA-1
+s54	genemark-DS113469-processed-gene-0.42-mRNA-1
+s540	maker-DS113201-augustus-gene-1.173-mRNA-1
+s541	augustus_masked-DS113201-processed-gene-1.32-mRNA-1
+s542	genemark-DS113341-processed-gene-0.76-mRNA-1
+s543	genemark-DS113341-processed-gene-0.64-mRNA-1
+s544	genemark-DS113341-processed-gene-0.72-mRNA-1
+s545	augustus_masked-DS113653-processed-gene-0.10-mRNA-1
+s546	genemark-DS113212-processed-gene-0.58-mRNA-1
+s547	genemark-DS113212-processed-gene-1.48-mRNA-1
+s548	augustus_masked-DS113212-processed-gene-1.15-mRNA-1
+s549	augustus_masked-DS113370-processed-gene-0.13-mRNA-1
+s55	augustus_masked-DS113527-processed-gene-0.4-mRNA-1
+s550	genemark-DS113370-processed-gene-0.62-mRNA-1
+s551	augustus_masked-DS114454-processed-gene-0.3-mRNA-1
+s552	genemark-DS114435-processed-gene-0.2-mRNA-1
+s553	genemark-DS113641-processed-gene-0.29-mRNA-1
+s554	augustus_masked-DS113494-processed-gene-0.2-mRNA-1
+s555	genemark-DS113507-processed-gene-0.22-mRNA-1
+s556	augustus_masked-DS113939-processed-gene-0.1-mRNA-1
+s557	augustus_masked-DS113497-processed-gene-0.3-mRNA-1
+s558	genemark-DS113497-processed-gene-0.58-mRNA-1
+s559	genemark-DS113497-processed-gene-0.54-mRNA-1
+s56	snap_masked-DS113699-processed-gene-0.43-mRNA-1
+s560	augustus_masked-DS113264-processed-gene-0.29-mRNA-1
+s561	genemark-DS113264-processed-gene-0.80-mRNA-1
+s562	genemark-DS114098-processed-gene-0.8-mRNA-1
+s563	augustus_masked-DS113270-processed-gene-0.11-mRNA-1
+s564	augustus_masked-DS113266-processed-gene-0.32-mRNA-1
+s565	augustus_masked-DS113958-processed-gene-0.5-mRNA-1
+s566	genemark-DS113225-processed-gene-0.31-mRNA-1
+s567	augustus_masked-DS113225-processed-gene-1.11-mRNA-1
+s568	augustus_masked-DS113225-processed-gene-1.21-mRNA-1
+s569	augustus_masked-DS113437-processed-gene-0.6-mRNA-1
+s57	snap_masked-DS113738-processed-gene-0.38-mRNA-1
+s570	genemark-DS113359-processed-gene-0.59-mRNA-1
+s571	genemark-DS113359-processed-gene-0.63-mRNA-1
+s572	augustus_masked-DS113359-processed-gene-0.10-mRNA-1
+s573	maker-DS114221-snap-gene-0.19-mRNA-1
+s574	genemark-DS113869-processed-gene-0.18-mRNA-1
+s575	genemark-DS113444-processed-gene-0.40-mRNA-1
+s576	genemark-DS113676-processed-gene-0.8-mRNA-1
+s577	genemark-DS113277-processed-gene-0.66-mRNA-1
+s578	augustus_masked-DS113329-processed-gene-0.4-mRNA-1
+s579	genemark-DS113329-processed-gene-0.28-mRNA-1
+s58	augustus_masked-DS113766-processed-gene-0.5-mRNA-1
+s580	genemark-DS113329-processed-gene-0.61-mRNA-1
+s581	genemark-DS114033-processed-gene-0.15-mRNA-1
+s582	augustus_masked-DS113733-processed-gene-0.2-mRNA-1
+s583	snap_masked-DS113733-processed-gene-0.54-mRNA-1
+s584	genemark-DS113712-processed-gene-0.20-mRNA-1
+s585	genemark-DS113724-processed-gene-0.17-mRNA-1
+s586	augustus_masked-DS113884-processed-gene-0.3-mRNA-1
+s587	genemark-DS113388-processed-gene-0.35-mRNA-1
+s588	augustus_masked-DS113344-processed-gene-0.12-mRNA-1
+s589	genemark-DS113344-processed-gene-0.48-mRNA-1
+s59	snap_masked-DS113519-processed-gene-0.54-mRNA-1
+s590	augustus_masked-DS113344-processed-gene-0.7-mRNA-1
+s591	augustus_masked-DS113209-processed-gene-0.12-mRNA-1
+s592	genemark-DS113209-processed-gene-1.45-mRNA-1
+s593	genemark-DS113209-processed-gene-1.43-mRNA-1
+s594	augustus_masked-DS113374-processed-gene-0.11-mRNA-1
+s595	genemark-DS113220-processed-gene-0.27-mRNA-1
+s596	augustus_masked-DS113220-processed-gene-1.65-mRNA-1
+s597	augustus_masked-DS129363-processed-gene-0.2-mRNA-1
+s598	snap_masked-DS113235-processed-gene-0.61-mRNA-1
+s599	genemark-DS113235-processed-gene-1.29-mRNA-1
+s6	genemark-DS113552-processed-gene-0.11-mRNA-1
+s60	augustus_masked-DS113886-processed-gene-0.3-mRNA-1
+s600	genemark-DS113235-processed-gene-1.25-mRNA-1
+s601	genemark-DS113415-processed-gene-0.36-mRNA-1
+s602	genemark-DS114268-processed-gene-0.0-mRNA-1
+s603	augustus_masked-DS114294-processed-gene-0.0-mRNA-1
+s604	genemark-DS113178-processed-gene-1.36-mRNA-1
+s605	augustus_masked-DS113178-processed-gene-3.43-mRNA-1
+s606	augustus_masked-DS113178-processed-gene-4.4-mRNA-1
+s607	genemark-DS113178-processed-gene-4.37-mRNA-1
+s608	maker-DS113680-snap-gene-0.39-mRNA-1
+s609	genemark-DS113680-processed-gene-0.6-mRNA-1
+s61	genemark-DS113791-processed-gene-0.21-mRNA-1
+s610	genemark-DS113680-processed-gene-0.32-mRNA-1
+s611	augustus_masked-DS113979-processed-gene-0.13-mRNA-1
+s612	augustus_masked-DS114561-processed-gene-0.1-mRNA-1
+s613	genemark-DS113192-processed-gene-1.16-mRNA-1
+s614	augustus_masked-DS113192-processed-gene-1.47-mRNA-1
+s615	augustus_masked-DS113863-processed-gene-0.5-mRNA-1
+s616	genemark-DS113762-processed-gene-0.10-mRNA-1
+s617	snap_masked-DS113495-processed-gene-0.47-mRNA-1
+s618	genemark-DS113495-processed-gene-0.11-mRNA-1
+s619	genemark-DS113495-processed-gene-0.40-mRNA-1
+s62	genemark-DS113791-processed-gene-0.34-mRNA-1
+s620	genemark-DS113805-processed-gene-0.11-mRNA-1
+s621	genemark-DS114851-processed-gene-0.4-mRNA-1
+s622	snap_masked-DS114123-processed-gene-0.20-mRNA-1
+s623	genemark-DS113406-processed-gene-0.35-mRNA-1
+s624	snap_masked-DS114217-processed-gene-0.13-mRNA-1
+s625	genemark-DS113217-processed-gene-0.67-mRNA-1
+s626	genemark-DS113217-processed-gene-0.61-mRNA-1
+s627	augustus_masked-DS113217-processed-gene-1.8-mRNA-1
+s628	augustus_masked-DS114131-processed-gene-0.3-mRNA-1
+s629	augustus_masked-DS113878-processed-gene-0.7-mRNA-1
+s63	augustus_masked-DS114881-processed-gene-0.0-mRNA-1
+s630	augustus_masked-DS113745-processed-gene-0.9-mRNA-1
+s631	genemark-DS114133-processed-gene-0.9-mRNA-1
+s632	genemark-DS113259-processed-gene-0.62-mRNA-1
+s633	genemark-DS113259-processed-gene-0.57-mRNA-1
+s634	augustus_masked-DS113259-processed-gene-0.7-mRNA-1
+s635	augustus_masked-DS113259-processed-gene-0.35-mRNA-1
+s636	augustus_masked-DS113259-processed-gene-0.19-mRNA-1
+s637	augustus_masked-DS113259-processed-gene-0.2-mRNA-1
+s638	genemark-DS113523-processed-gene-0.17-mRNA-1
+s639	genemark-DS113523-processed-gene-0.19-mRNA-1
+s64	genemark-DS113323-processed-gene-0.49-mRNA-1
+s640	augustus_masked-DS113631-processed-gene-0.13-mRNA-1
+s641	augustus_masked-DS114550-processed-gene-0.1-mRNA-1
+s642	augustus_masked-DS113700-processed-gene-0.0-mRNA-1
+s643	augustus_masked-DS113486-processed-gene-0.14-mRNA-1
+s644	genemark-DS113938-processed-gene-0.15-mRNA-1
+s645	genemark-DS113347-processed-gene-0.75-mRNA-1
+s646	genemark-DS113347-processed-gene-0.70-mRNA-1
+s647	augustus_masked-DS113522-processed-gene-0.6-mRNA-1
+s648	augustus_masked-DS113522-processed-gene-0.14-mRNA-1
+s649	genemark-DS113223-processed-gene-1.46-mRNA-1
+s65	genemark-DS113323-processed-gene-0.82-mRNA-1
+s650	genemark-DS114432-processed-gene-0.1-mRNA-1
+s651	genemark-DS113314-processed-gene-0.55-mRNA-1
+s652	augustus_masked-DS113645-processed-gene-0.13-mRNA-1
+s653	genemark-DS113538-processed-gene-0.19-mRNA-1
+s654	genemark-DS113538-processed-gene-0.31-mRNA-1
+s655	genemark-DS113819-processed-gene-0.9-mRNA-1
+s656	genemark-DS113819-processed-gene-0.10-mRNA-1
+s657	genemark-DS113191-processed-gene-2.83-mRNA-1
+s658	genemark-DS113191-processed-gene-2.87-mRNA-1
+s659	augustus_masked-DS113191-processed-gene-2.18-mRNA-1
+s66	augustus_masked-DS113656-processed-gene-0.7-mRNA-1
+s660	augustus_masked-DS113639-processed-gene-0.5-mRNA-1
+s661	augustus_masked-DS113205-processed-gene-0.10-mRNA-1
+s662	augustus_masked-DS113205-processed-gene-0.18-mRNA-1
+s663	genemark-DS113433-processed-gene-0.48-mRNA-1
+s664	snap_masked-DS113757-processed-gene-0.40-mRNA-1
+s665	augustus_masked-DS113757-processed-gene-0.7-mRNA-1
+s666	genemark-DS113877-processed-gene-0.10-mRNA-1
+s667	genemark-DS114165-processed-gene-0.16-mRNA-1
+s668	genemark-DS113731-processed-gene-0.21-mRNA-1
+s669	genemark-DS113586-processed-gene-0.48-mRNA-1
+s67	augustus_masked-DS113258-processed-gene-0.6-mRNA-1
+s670	augustus_masked-DS113345-processed-gene-0.5-mRNA-1
+s671	genemark-DS113345-processed-gene-0.44-mRNA-1
+s672	augustus_masked-DS113448-processed-gene-0.20-mRNA-1
+s673	augustus_masked-DS114045-processed-gene-0.1-mRNA-1
+s674	genemark-DS113744-processed-gene-0.23-mRNA-1
+s675	genemark-DS113461-processed-gene-0.23-mRNA-1
+s676	augustus_masked-DS113461-processed-gene-0.9-mRNA-1
+s677	genemark-DS113276-processed-gene-0.53-mRNA-1
+s678	augustus_masked-DS113276-processed-gene-0.16-mRNA-1
+s679	genemark-DS113921-processed-gene-0.27-mRNA-1
+s68	augustus_masked-DS113258-processed-gene-0.7-mRNA-1
+s680	augustus_masked-DS113628-processed-gene-0.6-mRNA-1
+s681	genemark-DS113282-processed-gene-0.76-mRNA-1
+s682	genemark-DS113617-processed-gene-0.44-mRNA-1
+s683	augustus_masked-DS115055-processed-gene-0.0-mRNA-1
+s684	genemark-DS113820-processed-gene-0.24-mRNA-1
+s685	augustus_masked-DS113310-processed-gene-0.20-mRNA-1
+s686	augustus_masked-DS113301-processed-gene-0.30-mRNA-1
+s687	genemark-DS113394-processed-gene-0.42-mRNA-1
+s688	augustus_masked-DS113203-processed-gene-0.8-mRNA-1
+s689	augustus_masked-DS113203-processed-gene-0.7-mRNA-1
+s69	genemark-DS113258-processed-gene-0.112-mRNA-1
+s690	genemark-DS113991-processed-gene-0.12-mRNA-1
+s691	augustus_masked-DS113991-processed-gene-0.5-mRNA-1
+s692	genemark-DS113202-processed-gene-0.52-mRNA-1
+s693	augustus_masked-DS113202-processed-gene-0.9-mRNA-1
+s694	augustus_masked-DS113202-processed-gene-1.20-mRNA-1
+s695	genemark-DS113753-processed-gene-0.9-mRNA-1
+s696	genemark-DS114498-processed-gene-0.11-mRNA-1
+s697	augustus_masked-DS113545-processed-gene-0.0-mRNA-1
+s698	augustus_masked-DS113296-processed-gene-0.6-mRNA-1
+s699	augustus_masked-DS113296-processed-gene-0.2-mRNA-1
+s7	genemark-DS113552-processed-gene-0.16-mRNA-1
+s70	genemark-DS113258-processed-gene-0.84-mRNA-1
+s700	genemark-DS113296-processed-gene-0.53-mRNA-1
+s701	snap_masked-DS113296-processed-gene-0.94-mRNA-1
+s702	augustus_masked-DS113229-processed-gene-1.5-mRNA-1
+s703	genemark-DS113229-processed-gene-1.70-mRNA-1
+s704	genemark-DS113588-processed-gene-0.26-mRNA-1
+s705	genemark-DS113482-processed-gene-0.51-mRNA-1
+s706	augustus_masked-DS113816-processed-gene-0.1-mRNA-1
+s707	genemark-DS113898-processed-gene-0.16-mRNA-1
+s708	snap_masked-DS113514-processed-gene-0.58-mRNA-1
+s709	genemark-DS113514-processed-gene-0.51-mRNA-1
+s71	augustus_masked-DS113181-processed-gene-1.51-mRNA-1
+s710	augustus_masked-DS113491-processed-gene-0.3-mRNA-1
+s711	augustus_masked-DS113894-processed-gene-0.9-mRNA-1
+s712	augustus_masked-DS113894-processed-gene-0.8-mRNA-1
+s713	augustus_masked-DS113186-processed-gene-1.43-mRNA-1
+s714	genemark-DS113186-processed-gene-3.21-mRNA-1
+s715	genemark-DS114555-processed-gene-0.10-mRNA-1
+s716	augustus_masked-DS113367-processed-gene-0.8-mRNA-1
+s717	augustus_masked-DS113367-processed-gene-0.0-mRNA-1
+s718	augustus_masked-DS113373-processed-gene-0.14-mRNA-1
+s719	augustus_masked-DS113721-processed-gene-0.6-mRNA-1
+s72	augustus_masked-DS113181-processed-gene-1.47-mRNA-1
+s720	augustus_masked-DS113478-processed-gene-0.5-mRNA-1
+s721	genemark-DS113478-processed-gene-0.30-mRNA-1
+s722	augustus_masked-DS113478-processed-gene-0.11-mRNA-1
+s723	augustus_masked-DS113478-processed-gene-0.15-mRNA-1
+s724	maker-DS113477-augustus-gene-0.59-mRNA-1
+s725	genemark-DS114744-processed-gene-0.3-mRNA-1
+s726	genemark-DS113490-processed-gene-0.9-mRNA-1
+s727	genemark-DS113490-processed-gene-0.8-mRNA-1
+s728	genemark-DS113427-processed-gene-0.23-mRNA-1
+s729	augustus_masked-DS113427-processed-gene-0.11-mRNA-1
+s73	genemark-DS113181-processed-gene-3.33-mRNA-1
+s730	genemark-DS113427-processed-gene-0.36-mRNA-1
+s731	snap_masked-DS113350-processed-gene-0.71-mRNA-1
+s732	genemark-DS113249-processed-gene-0.63-mRNA-1
+s733	genemark-DS113249-processed-gene-0.107-mRNA-1
+s734	augustus_masked-DS113187-processed-gene-1.40-mRNA-1
+s735	augustus_masked-DS113187-processed-gene-2.14-mRNA-1
+s736	augustus_masked-DS113746-processed-gene-0.5-mRNA-1
+s737	maker-DS114322-snap-gene-0.17-mRNA-1
+s738	genemark-DS113410-processed-gene-0.47-mRNA-1
+s739	genemark-DS113484-processed-gene-0.19-mRNA-1
+s74	augustus_masked-DS113181-processed-gene-3.3-mRNA-1
+s740	genemark-DS113484-processed-gene-0.16-mRNA-1
+s741	genemark-DS113484-processed-gene-0.33-mRNA-1
+s742	augustus_masked-DS113411-processed-gene-0.4-mRNA-1
+s743	genemark-DS113411-processed-gene-0.32-mRNA-1
+s744	snap_masked-DS113817-processed-gene-0.30-mRNA-1
+s745	augustus_masked-DS115754-processed-gene-0.3-mRNA-1
+s746	genemark-DS113210-processed-gene-0.18-mRNA-1
+s747	snap_masked-DS113210-processed-gene-1.98-mRNA-1
+s748	snap_masked-DS113210-processed-gene-1.111-mRNA-1
+s749	genemark-DS113397-processed-gene-0.57-mRNA-1
+s75	genemark-DS113291-processed-gene-0.99-mRNA-1
+s750	augustus_masked-DS113396-processed-gene-0.0-mRNA-1
+s751	augustus_masked-DS113548-processed-gene-0.3-mRNA-1
+s752	augustus_masked-DS113548-processed-gene-0.8-mRNA-1
+s753	snap_masked-DS113548-processed-gene-0.42-mRNA-1
+s754	maker-DS114056-snap-gene-0.30-mRNA-1
+s755	augustus_masked-DS113420-processed-gene-0.2-mRNA-1
+s756	augustus_masked-DS113352-processed-gene-0.8-mRNA-1
+s757	genemark-DS113385-processed-gene-0.48-mRNA-1
+s758	genemark-DS113311-processed-gene-0.47-mRNA-1
+s759	augustus_masked-DS113311-processed-gene-0.2-mRNA-1
+s76	augustus_masked-DS113291-processed-gene-0.3-mRNA-1
+s760	augustus_masked-DS113311-processed-gene-0.22-mRNA-1
+s761	augustus_masked-DS113853-processed-gene-0.0-mRNA-1
+s762	genemark-DS113853-processed-gene-0.19-mRNA-1
+s763	genemark-DS114328-processed-gene-0.3-mRNA-1
+s764	genemark-DS114037-processed-gene-0.17-mRNA-1
+s765	genemark-DS113195-processed-gene-1.66-mRNA-1
+s766	genemark-DS113244-processed-gene-0.36-mRNA-1
+s767	genemark-DS113244-processed-gene-0.44-mRNA-1
+s768	augustus_masked-DS113244-processed-gene-0.17-mRNA-1
+s769	snap_masked-DS113262-processed-gene-0.103-mRNA-1
+s77	maker-DS113785-snap-gene-0.48-mRNA-1
+s770	augustus_masked-DS113240-processed-gene-0.20-mRNA-1
+s771	augustus_masked-DS113240-processed-gene-0.0-mRNA-1
+s772	genemark-DS113845-processed-gene-0.15-mRNA-1
+s773	genemark-DS113845-processed-gene-0.27-mRNA-1
+s774	genemark-DS113668-processed-gene-0.14-mRNA-1
+s775	genemark-DS114330-processed-gene-0.11-mRNA-1
+s776	augustus_masked-DS114017-processed-gene-0.0-mRNA-1
+s777	augustus_masked-DS113763-processed-gene-0.0-mRNA-1
+s778	augustus_masked-DS113624-processed-gene-0.0-mRNA-1
+s779	genemark-DS113418-processed-gene-0.53-mRNA-1
+s78	genemark-DS113743-processed-gene-0.7-mRNA-1
+s780	augustus_masked-DS113418-processed-gene-0.13-mRNA-1
+s781	genemark-DS113226-processed-gene-1.23-mRNA-1
+s782	genemark-DS114483-processed-gene-0.5-mRNA-1
+s783	genemark-DS114232-processed-gene-0.0-mRNA-1
+s784	genemark-DS113245-processed-gene-0.45-mRNA-1
+s785	genemark-DS113208-processed-gene-1.26-mRNA-1
+s786	genemark-DS113273-processed-gene-0.98-mRNA-1
+s787	genemark-DS113273-processed-gene-0.72-mRNA-1
+s788	augustus_masked-DS113505-processed-gene-0.5-mRNA-1
+s789	genemark-DS113218-processed-gene-0.42-mRNA-1
+s79	genemark-DS113872-processed-gene-0.26-mRNA-1
+s790	augustus_masked-DS114168-processed-gene-0.3-mRNA-1
+s791	augustus_masked-DS114168-processed-gene-0.5-mRNA-1
+s792	genemark-DS113672-processed-gene-0.25-mRNA-1
+s793	genemark-DS113672-processed-gene-0.31-mRNA-1
+s794	augustus_masked-DS113343-processed-gene-0.5-mRNA-1
+s795	augustus_masked-DS113343-processed-gene-0.18-mRNA-1
+s796	genemark-DS113337-processed-gene-0.31-mRNA-1
+s797	augustus_masked-DS114968-processed-gene-0.0-mRNA-1
+s798	genemark-DS113465-processed-gene-0.20-mRNA-1
+s799	genemark-DS113465-processed-gene-0.34-mRNA-1
+s8	genemark-DS113552-processed-gene-0.26-mRNA-1
+s80	genemark-DS113691-processed-gene-0.17-mRNA-1
+s800	snap_masked-DS113880-processed-gene-0.22-mRNA-1
+s801	augustus_masked-DS113693-processed-gene-0.0-mRNA-1
+s802	genemark-DS115094-processed-gene-0.3-mRNA-1
+s803	augustus_masked-DS114003-processed-gene-0.2-mRNA-1
+s804	genemark-DS114003-processed-gene-0.23-mRNA-1
+s805	genemark-DS114082-processed-gene-0.21-mRNA-1
+s806	maker-DS114021-augustus-gene-0.20-mRNA-1
+s807	genemark-DS114021-processed-gene-0.9-mRNA-1
+s808	genemark-DS114481-processed-gene-0.11-mRNA-1
+s809	augustus_masked-DS113718-processed-gene-0.0-mRNA-1
+s81	genemark-DS113691-processed-gene-0.33-mRNA-1
+s810	snap_masked-DS113718-processed-gene-0.34-mRNA-1
+s811	maker-DS113718-augustus-gene-0.42-mRNA-1
+s812	augustus_masked-DS113479-processed-gene-0.4-mRNA-1
+s813	augustus_masked-DS118263-processed-gene-0.0-mRNA-1
+s814	augustus_masked-DS113782-processed-gene-0.1-mRNA-1
+s815	genemark-DS113369-processed-gene-0.44-mRNA-1
+s816	genemark-DS113661-processed-gene-0.25-mRNA-1
+s817	genemark-DS113305-processed-gene-0.45-mRNA-1
+s818	augustus_masked-DS113758-processed-gene-0.2-mRNA-1
+s819	genemark-DS113462-processed-gene-0.64-mRNA-1
+s82	genemark-DS114233-processed-gene-0.9-mRNA-1
+s820	genemark-DS113512-processed-gene-0.15-mRNA-1
+s821	genemark-DS113512-processed-gene-0.13-mRNA-1
+s83	augustus_masked-DS114233-processed-gene-0.3-mRNA-1
+s84	augustus_masked-DS113713-processed-gene-0.0-mRNA-1
+s85	augustus_masked-DS113713-processed-gene-0.14-mRNA-1
+s86	snap_masked-DS114062-processed-gene-0.23-mRNA-1
+s87	augustus_masked-DS113325-processed-gene-0.9-mRNA-1
+s88	genemark-DS113325-processed-gene-0.34-mRNA-1
+s89	augustus_masked-DS113325-processed-gene-0.3-mRNA-1
+s9	genemark-DS113275-processed-gene-0.70-mRNA-1
+s90	genemark-DS113325-processed-gene-0.72-mRNA-1
+s91	genemark-DS113257-processed-gene-0.82-mRNA-1
+s92	genemark-DS113257-processed-gene-0.69-mRNA-1
+s93	augustus_masked-DS113257-processed-gene-0.37-mRNA-1
+s94	genemark-DS113257-processed-gene-0.102-mRNA-1
+s95	genemark-DS113257-processed-gene-0.87-mRNA-1
+s96	genemark-DS114214-processed-gene-0.11-mRNA-1
+s97	augustus_masked-DS114273-processed-gene-0.2-mRNA-1
+s98	genemark-DS113318-processed-gene-0.60-mRNA-1
+s99	augustus_masked-DS114002-processed-gene-0.0-mRNA-1
+>CLUSTER:c1161	p=c823	t=0.2	s=192
+s1	genemark-DS113787-processed-gene-0.29-mRNA-1
+s10	genemark-DS113275-processed-gene-0.83-mRNA-1
+s109	genemark-DS113563-processed-gene-0.35-mRNA-1
+s116	genemark-DS113911-processed-gene-0.13-mRNA-1
+s117	snap_masked-DS114253-processed-gene-0.21-mRNA-1
+s127	augustus_masked-DS113231-processed-gene-1.17-mRNA-1
+s13	augustus_masked-DS113994-processed-gene-0.0-mRNA-1
+s133	augustus_masked-DS113300-processed-gene-0.6-mRNA-1
+s135	genemark-DS114257-processed-gene-0.11-mRNA-1
+s147	genemark-DS113194-processed-gene-1.35-mRNA-1
+s15	genemark-DS113606-processed-gene-0.47-mRNA-1
+s150	augustus_masked-DS113253-processed-gene-0.7-mRNA-1
+s154	snap_masked-DS113720-processed-gene-0.37-mRNA-1
+s160	genemark-DS114159-processed-gene-0.6-mRNA-1
+s164	genemark-DS113183-processed-gene-2.39-mRNA-1
+s171	augustus_masked-DS113376-processed-gene-0.4-mRNA-1
+s174	genemark-DS113241-processed-gene-0.48-mRNA-1
+s175	genemark-DS113241-processed-gene-0.83-mRNA-1
+s181	augustus_masked-DS113987-processed-gene-0.2-mRNA-1
+s183	augustus_masked-DS113722-processed-gene-0.3-mRNA-1
+s185	genemark-DS113333-processed-gene-0.53-mRNA-1
+s187	augustus_masked-DS113182-processed-gene-1.59-mRNA-1
+s188	genemark-DS113255-processed-gene-0.52-mRNA-1
+s189	augustus_masked-DS113255-processed-gene-0.11-mRNA-1
+s195	genemark-DS113409-processed-gene-0.42-mRNA-1
+s200	augustus_masked-DS113422-processed-gene-0.10-mRNA-1
+s203	augustus_masked-DS113371-processed-gene-0.11-mRNA-1
+s212	genemark-DS113184-processed-gene-3.58-mRNA-1
+s215	genemark-DS113281-processed-gene-0.50-mRNA-1
+s218	genemark-DS113281-processed-gene-0.95-mRNA-1
+s219	genemark-DS113330-processed-gene-0.13-mRNA-1
+s222	genemark-DS114130-processed-gene-0.3-mRNA-1
+s223	genemark-DS113807-processed-gene-0.28-mRNA-1
+s225	genemark-DS114145-processed-gene-0.8-mRNA-1
+s227	augustus_masked-DS113536-processed-gene-0.2-mRNA-1
+s233	augustus_masked-DS113351-processed-gene-0.6-mRNA-1
+s242	augustus_masked-DS113316-processed-gene-0.8-mRNA-1
+s244	augustus_masked-DS113308-processed-gene-0.7-mRNA-1
+s245	maker-DS113200-augustus-gene-0.54-mRNA-1
+s246	augustus_masked-DS113200-processed-gene-0.5-mRNA-1
+s247	snap_masked-DS113200-processed-gene-1.153-mRNA-1
+s251	genemark-DS113838-processed-gene-0.19-mRNA-1
+s258	augustus_masked-DS113416-processed-gene-0.0-mRNA-1
+s260	genemark-DS113985-processed-gene-0.10-mRNA-1
+s263	genemark-DS113304-processed-gene-0.44-mRNA-1
+s264	genemark-DS113828-processed-gene-0.7-mRNA-1
+s270	augustus_masked-DS113769-processed-gene-0.4-mRNA-1
+s272	genemark-DS113216-processed-gene-0.46-mRNA-1
+s281	genemark-DS113238-processed-gene-0.34-mRNA-1
+s292	genemark-DS113287-processed-gene-0.26-mRNA-1
+s296	genemark-DS114005-processed-gene-0.23-mRNA-1
+s298	genemark-DS113356-processed-gene-0.35-mRNA-1
+s300	genemark-DS113613-processed-gene-0.28-mRNA-1
+s309	genemark-DS113232-processed-gene-1.25-mRNA-1
+s311	augustus_masked-DS114036-processed-gene-0.5-mRNA-1
+s314	augustus_masked-DS113735-processed-gene-0.2-mRNA-1
+s316	genemark-DS113526-processed-gene-0.40-mRNA-1
+s317	augustus_masked-DS113260-processed-gene-0.4-mRNA-1
+s320	genemark-DS113366-processed-gene-0.19-mRNA-1
+s327	genemark-DS113219-processed-gene-1.60-mRNA-1
+s329	genemark-DS113840-processed-gene-0.12-mRNA-1
+s330	genemark-DS113267-processed-gene-0.98-mRNA-1
+s331	augustus_masked-DS113267-processed-gene-0.20-mRNA-1
+s332	genemark-DS113704-processed-gene-0.12-mRNA-1
+s340	genemark-DS113771-processed-gene-0.29-mRNA-1
+s342	augustus_masked-DS113705-processed-gene-0.6-mRNA-1
+s354	genemark-DS113403-processed-gene-0.22-mRNA-1
+s356	genemark-DS113206-processed-gene-1.78-mRNA-1
+s366	genemark-DS113402-processed-gene-0.26-mRNA-1
+s368	genemark-DS113475-processed-gene-0.34-mRNA-1
+s375	genemark-DS113233-processed-gene-1.51-mRNA-1
+s377	genemark-DS113626-processed-gene-0.13-mRNA-1
+s38	augustus_masked-DS113485-processed-gene-0.15-mRNA-1
+s380	augustus_masked-DS113177-processed-gene-2.13-mRNA-1
+s382	genemark-DS113177-processed-gene-4.103-mRNA-1
+s389	genemark-DS113317-processed-gene-0.37-mRNA-1
+s391	genemark-DS113692-processed-gene-0.13-mRNA-1
+s394	genemark-DS114427-processed-gene-0.9-mRNA-1
+s395	maker-DS114086-snap-gene-0.27-mRNA-1
+s401	augustus_masked-DS113504-processed-gene-0.5-mRNA-1
+s403	augustus_masked-DS113630-processed-gene-0.4-mRNA-1
+s413	augustus_masked-DS113222-processed-gene-1.8-mRNA-1
+s414	augustus_masked-DS113222-processed-gene-1.24-mRNA-1
+s42	genemark-DS113947-processed-gene-0.20-mRNA-1
+s424	snap_masked-DS113924-processed-gene-0.42-mRNA-1
+s426	genemark-DS113854-processed-gene-0.29-mRNA-1
+s429	augustus_masked-DS113237-processed-gene-0.2-mRNA-1
+s431	genemark-DS113237-processed-gene-0.34-mRNA-1
+s432	genemark-DS113288-processed-gene-0.32-mRNA-1
+s434	augustus_masked-DS113573-processed-gene-0.10-mRNA-1
+s435	augustus_masked-DS113833-processed-gene-0.7-mRNA-1
+s438	genemark-DS113252-processed-gene-0.73-mRNA-1
+s451	augustus_masked-DS113185-processed-gene-3.16-mRNA-1
+s452	augustus_masked-DS113185-processed-gene-3.14-mRNA-1
+s46	augustus_masked-DS113332-processed-gene-0.20-mRNA-1
+s461	maker-DS113243-snap-gene-0.138-mRNA-1
+s468	snap_masked-DS113749-processed-gene-0.39-mRNA-1
+s478	genemark-DS115407-processed-gene-0.1-mRNA-1
+s48	genemark-DS113510-processed-gene-0.49-mRNA-1
+s485	genemark-DS113643-processed-gene-0.33-mRNA-1
+s487	genemark-DS113810-processed-gene-0.12-mRNA-1
+s496	genemark-DS113502-processed-gene-0.30-mRNA-1
+s498	augustus_masked-DS113487-processed-gene-0.9-mRNA-1
+s5	genemark-DS113381-processed-gene-0.63-mRNA-1
+s507	genemark-DS113616-processed-gene-0.11-mRNA-1
+s513	genemark-DS113489-processed-gene-0.37-mRNA-1
+s516	genemark-DS113518-processed-gene-0.45-mRNA-1
+s52	genemark-DS114226-processed-gene-0.10-mRNA-1
+s520	genemark-DS113188-processed-gene-1.21-mRNA-1
+s524	augustus_masked-DS113412-processed-gene-0.19-mRNA-1
+s527	augustus_masked-DS113214-processed-gene-0.2-mRNA-1
+s529	augustus_masked-DS113214-processed-gene-0.10-mRNA-1
+s53	augustus_masked-DS113493-processed-gene-0.7-mRNA-1
+s530	augustus_masked-DS113214-processed-gene-1.65-mRNA-1
+s531	genemark-DS113525-processed-gene-0.32-mRNA-1
+s535	snap_masked-DS113355-processed-gene-0.91-mRNA-1
+s540	maker-DS113201-augustus-gene-1.173-mRNA-1
+s544	genemark-DS113341-processed-gene-0.72-mRNA-1
+s548	augustus_masked-DS113212-processed-gene-1.15-mRNA-1
+s553	genemark-DS113641-processed-gene-0.29-mRNA-1
+s554	augustus_masked-DS113494-processed-gene-0.2-mRNA-1
+s555	genemark-DS113507-processed-gene-0.22-mRNA-1
+s560	augustus_masked-DS113264-processed-gene-0.29-mRNA-1
+s564	augustus_masked-DS113266-processed-gene-0.32-mRNA-1
+s566	genemark-DS113225-processed-gene-0.31-mRNA-1
+s567	augustus_masked-DS113225-processed-gene-1.11-mRNA-1
+s568	augustus_masked-DS113225-processed-gene-1.21-mRNA-1
+s572	augustus_masked-DS113359-processed-gene-0.10-mRNA-1
+s573	maker-DS114221-snap-gene-0.19-mRNA-1
+s576	genemark-DS113676-processed-gene-0.8-mRNA-1
+s577	genemark-DS113277-processed-gene-0.66-mRNA-1
+s584	genemark-DS113712-processed-gene-0.20-mRNA-1
+s585	genemark-DS113724-processed-gene-0.17-mRNA-1
+s587	genemark-DS113388-processed-gene-0.35-mRNA-1
+s598	snap_masked-DS113235-processed-gene-0.61-mRNA-1
+s6	genemark-DS113552-processed-gene-0.11-mRNA-1
+s600	genemark-DS113235-processed-gene-1.25-mRNA-1
+s604	genemark-DS113178-processed-gene-1.36-mRNA-1
+s607	genemark-DS113178-processed-gene-4.37-mRNA-1
+s62	genemark-DS113791-processed-gene-0.34-mRNA-1
+s623	genemark-DS113406-processed-gene-0.35-mRNA-1
+s627	augustus_masked-DS113217-processed-gene-1.8-mRNA-1
+s633	genemark-DS113259-processed-gene-0.57-mRNA-1
+s646	genemark-DS113347-processed-gene-0.70-mRNA-1
+s648	augustus_masked-DS113522-processed-gene-0.14-mRNA-1
+s649	genemark-DS113223-processed-gene-1.46-mRNA-1
+s654	genemark-DS113538-processed-gene-0.31-mRNA-1
+s657	genemark-DS113191-processed-gene-2.83-mRNA-1
+s66	augustus_masked-DS113656-processed-gene-0.7-mRNA-1
+s662	augustus_masked-DS113205-processed-gene-0.18-mRNA-1
+s664	snap_masked-DS113757-processed-gene-0.40-mRNA-1
+s665	augustus_masked-DS113757-processed-gene-0.7-mRNA-1
+s672	augustus_masked-DS113448-processed-gene-0.20-mRNA-1
+s677	genemark-DS113276-processed-gene-0.53-mRNA-1
+s681	genemark-DS113282-processed-gene-0.76-mRNA-1
+s686	augustus_masked-DS113301-processed-gene-0.30-mRNA-1
+s689	augustus_masked-DS113203-processed-gene-0.7-mRNA-1
+s692	genemark-DS113202-processed-gene-0.52-mRNA-1
+s694	augustus_masked-DS113202-processed-gene-1.20-mRNA-1
+s704	genemark-DS113588-processed-gene-0.26-mRNA-1
+s707	genemark-DS113898-processed-gene-0.16-mRNA-1
+s711	augustus_masked-DS113894-processed-gene-0.9-mRNA-1
+s713	augustus_masked-DS113186-processed-gene-1.43-mRNA-1
+s714	genemark-DS113186-processed-gene-3.21-mRNA-1
+s717	augustus_masked-DS113367-processed-gene-0.0-mRNA-1
+s72	augustus_masked-DS113181-processed-gene-1.47-mRNA-1
+s720	augustus_masked-DS113478-processed-gene-0.5-mRNA-1
+s724	maker-DS113477-augustus-gene-0.59-mRNA-1
+s737	maker-DS114322-snap-gene-0.17-mRNA-1
+s740	genemark-DS113484-processed-gene-0.16-mRNA-1
+s746	genemark-DS113210-processed-gene-0.18-mRNA-1
+s757	genemark-DS113385-processed-gene-0.48-mRNA-1
+s76	augustus_masked-DS113291-processed-gene-0.3-mRNA-1
+s765	genemark-DS113195-processed-gene-1.66-mRNA-1
+s769	snap_masked-DS113262-processed-gene-0.103-mRNA-1
+s77	maker-DS113785-snap-gene-0.48-mRNA-1
+s771	augustus_masked-DS113240-processed-gene-0.0-mRNA-1
+s772	genemark-DS113845-processed-gene-0.15-mRNA-1
+s775	genemark-DS114330-processed-gene-0.11-mRNA-1
+s779	genemark-DS113418-processed-gene-0.53-mRNA-1
+s791	augustus_masked-DS114168-processed-gene-0.5-mRNA-1
+s792	genemark-DS113672-processed-gene-0.25-mRNA-1
+s798	genemark-DS113465-processed-gene-0.20-mRNA-1
+s802	genemark-DS115094-processed-gene-0.3-mRNA-1
+s812	augustus_masked-DS113479-processed-gene-0.4-mRNA-1
+s813	augustus_masked-DS118263-processed-gene-0.0-mRNA-1
+s814	augustus_masked-DS113782-processed-gene-0.1-mRNA-1
+s816	genemark-DS113661-processed-gene-0.25-mRNA-1
+s84	augustus_masked-DS113713-processed-gene-0.0-mRNA-1
+s88	genemark-DS113325-processed-gene-0.34-mRNA-1
+s93	augustus_masked-DS113257-processed-gene-0.37-mRNA-1
+s97	augustus_masked-DS114273-processed-gene-0.2-mRNA-1
+>CLUSTER:c1200	p=c823	t=0.2	s=23
+s100	augustus_masked-DS113251-processed-gene-0.23-mRNA-1
+s101	augustus_masked-DS113269-processed-gene-0.17-mRNA-1
+s161	genemark-DS113585-processed-gene-0.13-mRNA-1
+s179	maker-DS113456-snap-gene-0.56-mRNA-1
+s180	maker-DS113456-snap-gene-0.56-mRNA-2
+s214	genemark-DS113184-processed-gene-3.46-mRNA-1
+s261	genemark-DS113190-processed-gene-1.30-mRNA-1
+s271	genemark-DS113769-processed-gene-0.32-mRNA-1
+s289	genemark-DS113256-processed-gene-0.45-mRNA-1
+s303	augustus_masked-DS113517-processed-gene-0.7-mRNA-1
+s363	genemark-DS114138-processed-gene-0.5-mRNA-1
+s376	augustus_masked-DS113960-processed-gene-0.3-mRNA-1
+s462	genemark-DS113383-processed-gene-0.55-mRNA-1
+s466	augustus_masked-DS113943-processed-gene-0.0-mRNA-1
+s479	augustus_masked-DS113725-processed-gene-0.9-mRNA-1
+s480	genemark-DS113742-processed-gene-0.28-mRNA-1
+s490	augustus_masked-DS113646-processed-gene-0.13-mRNA-1
+s552	genemark-DS114435-processed-gene-0.2-mRNA-1
+s562	genemark-DS114098-processed-gene-0.8-mRNA-1
+s599	genemark-DS113235-processed-gene-1.29-mRNA-1
+s767	genemark-DS113244-processed-gene-0.44-mRNA-1
+s773	genemark-DS113845-processed-gene-0.27-mRNA-1
+s89	augustus_masked-DS113325-processed-gene-0.3-mRNA-1
+>CLUSTER:c1157	p=c823	t=0.2	s=20
+s176	genemark-DS113241-processed-gene-0.78-mRNA-1
+s204	augustus_masked-DS115293-processed-gene-0.0-mRNA-1
+s27	genemark-DS113348-processed-gene-0.30-mRNA-1
+s307	genemark-DS113327-processed-gene-0.52-mRNA-1
+s324	genemark-DS113366-processed-gene-0.55-mRNA-1
+s369	genemark-DS113770-processed-gene-0.34-mRNA-1
+s388	genemark-DS113905-processed-gene-0.20-mRNA-1
+s412	genemark-DS113222-processed-gene-1.45-mRNA-1
+s453	genemark-DS113625-processed-gene-0.23-mRNA-1
+s454	augustus_masked-DS113625-processed-gene-0.4-mRNA-1
+s47	genemark-DS114178-processed-gene-0.13-mRNA-1
+s474	genemark-DS114127-processed-gene-0.18-mRNA-1
+s475	augustus_masked-DS114127-processed-gene-0.3-mRNA-1
+s517	genemark-DS113368-processed-gene-0.39-mRNA-1
+s660	augustus_masked-DS113639-processed-gene-0.5-mRNA-1
+s682	genemark-DS113617-processed-gene-0.44-mRNA-1
+s684	genemark-DS113820-processed-gene-0.24-mRNA-1
+s696	genemark-DS114498-processed-gene-0.11-mRNA-1
+s745	augustus_masked-DS115754-processed-gene-0.3-mRNA-1
+s795	augustus_masked-DS113343-processed-gene-0.18-mRNA-1
+>CLUSTER:c1173	p=c823	t=0.2	s=19
+s121	augustus_masked-DS113236-processed-gene-0.9-mRNA-1
+s143	genemark-DS114048-processed-gene-0.17-mRNA-1
+s144	augustus_masked-DS114048-processed-gene-0.6-mRNA-1
+s198	augustus_masked-DS113409-processed-gene-0.2-mRNA-1
+s21	augustus_masked-DS113677-processed-gene-0.11-mRNA-1
+s273	maker-DS114172-snap-gene-0.20-mRNA-1
+s274	snap_masked-DS114172-processed-gene-0.19-mRNA-1
+s293	augustus_masked-DS113401-processed-gene-0.4-mRNA-1
+s407	augustus_masked-DS114249-processed-gene-0.0-mRNA-1
+s408	genemark-DS114249-processed-gene-0.8-mRNA-1
+s459	augustus_masked-DS114185-processed-gene-0.8-mRNA-1
+s55	augustus_masked-DS113527-processed-gene-0.4-mRNA-1
+s590	augustus_masked-DS113344-processed-gene-0.7-mRNA-1
+s639	genemark-DS113523-processed-gene-0.19-mRNA-1
+s683	augustus_masked-DS115055-processed-gene-0.0-mRNA-1
+s744	snap_masked-DS113817-processed-gene-0.30-mRNA-1
+s78	genemark-DS113743-processed-gene-0.7-mRNA-1
+s783	genemark-DS114232-processed-gene-0.0-mRNA-1
+s87	augustus_masked-DS113325-processed-gene-0.9-mRNA-1
+>CLUSTER:c1113	p=c823	t=0.2	s=14
+s129	genemark-DS113449-processed-gene-0.37-mRNA-1
+s234	augustus_masked-DS113678-processed-gene-0.1-mRNA-1
+s255	genemark-DS113599-processed-gene-0.33-mRNA-1
+s304	augustus_masked-DS113517-processed-gene-0.9-mRNA-1
+s341	genemark-DS113705-processed-gene-0.13-mRNA-1
+s365	genemark-DS113402-processed-gene-0.19-mRNA-1
+s416	augustus_masked-DS113234-processed-gene-0.0-mRNA-1
+s456	genemark-DS113283-processed-gene-0.76-mRNA-1
+s500	augustus_masked-DS113874-processed-gene-0.3-mRNA-1
+s521	genemark-DS113188-processed-gene-1.22-mRNA-1
+s687	genemark-DS113394-processed-gene-0.42-mRNA-1
+s803	augustus_masked-DS114003-processed-gene-0.2-mRNA-1
+s91	genemark-DS113257-processed-gene-0.82-mRNA-1
+s96	genemark-DS114214-processed-gene-0.11-mRNA-1
+>CLUSTER:c1198	p=c823	t=0.2	s=12
+s16	snap_masked-DS113434-processed-gene-0.69-mRNA-1
+s202	augustus_masked-DS113483-processed-gene-0.6-mRNA-1
+s35	augustus_masked-DS113292-processed-gene-0.4-mRNA-1
+s470	genemark-DS113558-processed-gene-0.35-mRNA-1
+s569	augustus_masked-DS113437-processed-gene-0.6-mRNA-1
+s594	augustus_masked-DS113374-processed-gene-0.11-mRNA-1
+s693	augustus_masked-DS113202-processed-gene-0.9-mRNA-1
+s703	genemark-DS113229-processed-gene-1.70-mRNA-1
+s712	augustus_masked-DS113894-processed-gene-0.8-mRNA-1
+s768	augustus_masked-DS113244-processed-gene-0.17-mRNA-1
+s790	augustus_masked-DS114168-processed-gene-0.3-mRNA-1
+s796	genemark-DS113337-processed-gene-0.31-mRNA-1
+>CLUSTER:c1102	p=c823	t=0.2	s=8
+s155	augustus_masked-DS113556-processed-gene-0.5-mRNA-1
+s525	genemark-DS113809-processed-gene-0.10-mRNA-1
+s602	genemark-DS114268-processed-gene-0.0-mRNA-1
+s635	augustus_masked-DS113259-processed-gene-0.35-mRNA-1
+s668	genemark-DS113731-processed-gene-0.21-mRNA-1
+s725	genemark-DS114744-processed-gene-0.3-mRNA-1
+s732	genemark-DS113249-processed-gene-0.63-mRNA-1
+s751	augustus_masked-DS113548-processed-gene-0.3-mRNA-1
+>CLUSTER:c1199	p=c823	t=0.2	s=7
+s107	augustus_masked-DS113197-processed-gene-1.20-mRNA-1
+s17	augustus_masked-DS113570-processed-gene-0.3-mRNA-1
+s205	augustus_masked-DS113224-processed-gene-0.4-mRNA-1
+s425	genemark-DS113230-processed-gene-0.53-mRNA-1
+s702	augustus_masked-DS113229-processed-gene-1.5-mRNA-1
+s71	augustus_masked-DS113181-processed-gene-1.51-mRNA-1
+s801	augustus_masked-DS113693-processed-gene-0.0-mRNA-1
+>CLUSTER:c1163	p=c823	t=0.2	s=6
+s148	genemark-DS113531-processed-gene-0.14-mRNA-1
+s22	genemark-DS113677-processed-gene-0.34-mRNA-1
+s25	augustus_masked-DS115149-processed-gene-0.0-mRNA-1
+s4	genemark-DS113381-processed-gene-0.35-mRNA-1
+s45	augustus_masked-DS119183-processed-gene-0.0-mRNA-1
+s636	augustus_masked-DS113259-processed-gene-0.19-mRNA-1
+>CLUSTER:c1175	p=c823	t=0.2	s=6
+s156	augustus_masked-DS113294-processed-gene-0.16-mRNA-1
+s157	augustus_masked-DS113796-processed-gene-0.3-mRNA-1
+s282	augustus_masked-DS113238-processed-gene-1.15-mRNA-1
+s476	augustus_masked-DS113694-processed-gene-0.0-mRNA-1
+s489	augustus_masked-DS113607-processed-gene-0.2-mRNA-1
+s666	genemark-DS113877-processed-gene-0.10-mRNA-1
+>CLUSTER:c1168	p=c823	t=0.2	s=6
+s120	augustus_masked-DS113236-processed-gene-0.0-mRNA-1
+s250	genemark-DS114543-processed-gene-0.6-mRNA-1
+s495	augustus_masked-DS114718-processed-gene-0.2-mRNA-1
+s739	genemark-DS113484-processed-gene-0.19-mRNA-1
+s752	augustus_masked-DS113548-processed-gene-0.8-mRNA-1
+s805	genemark-DS114082-processed-gene-0.21-mRNA-1
+>CLUSTER:c1151	p=c823	t=0.2	s=5
+s232	genemark-DS113351-processed-gene-0.40-mRNA-1
+s269	augustus_masked-DS113769-processed-gene-0.1-mRNA-1
+s486	augustus_masked-DS113643-processed-gene-0.9-mRNA-1
+s780	augustus_masked-DS113418-processed-gene-0.13-mRNA-1
+s9	genemark-DS113275-processed-gene-0.70-mRNA-1
+>CLUSTER:c1201	p=c823	t=0.2	s=5
+s128	augustus_masked-DS114186-processed-gene-0.7-mRNA-1
+s254	augustus_masked-DS114558-processed-gene-0.0-mRNA-1
+s310	augustus_masked-DS113709-processed-gene-0.2-mRNA-1
+s400	augustus_masked-DS113714-processed-gene-0.6-mRNA-1
+s784	genemark-DS113245-processed-gene-0.45-mRNA-1
+>CLUSTER:c1181	p=c823	t=0.2	s=5
+s318	augustus_masked-DS113900-processed-gene-0.3-mRNA-1
+s565	augustus_masked-DS113958-processed-gene-0.5-mRNA-1
+s661	augustus_masked-DS113205-processed-gene-0.10-mRNA-1
+s722	augustus_masked-DS113478-processed-gene-0.11-mRNA-1
+s794	augustus_masked-DS113343-processed-gene-0.5-mRNA-1
+>CLUSTER:c1182	p=c823	t=0.2	s=5
+s124	genemark-DS113231-processed-gene-0.56-mRNA-1
+s325	augustus_masked-DS113219-processed-gene-0.52-mRNA-1
+s348	augustus_masked-DS113199-processed-gene-1.82-mRNA-1
+s352	augustus_masked-DS113319-processed-gene-0.2-mRNA-1
+s578	augustus_masked-DS113329-processed-gene-0.4-mRNA-1
+>CLUSTER:c1190	p=c823	t=0.2	s=5
+s482	augustus_masked-DS113846-processed-gene-0.9-mRNA-1
+s49	augustus_masked-DS115641-processed-gene-0.0-mRNA-1
+s685	augustus_masked-DS113310-processed-gene-0.20-mRNA-1
+s688	augustus_masked-DS113203-processed-gene-0.8-mRNA-1
+s701	snap_masked-DS113296-processed-gene-0.94-mRNA-1
+>CLUSTER:c1146	p=c823	t=0.2	s=5
+s142	genemark-DS113274-processed-gene-0.75-mRNA-1
+s178	snap_masked-DS113657-processed-gene-0.45-mRNA-1
+s283	genemark-DS113179-processed-gene-1.45-mRNA-1
+s319	augustus_masked-DS113900-processed-gene-0.6-mRNA-1
+s519	genemark-DS113608-processed-gene-0.39-mRNA-1
+>CLUSTER:c1132	p=c823	t=0.2	s=4
+s396	augustus_masked-DS113445-processed-gene-0.5-mRNA-1
+s421	augustus_masked-DS113405-processed-gene-0.0-mRNA-1
+s439	genemark-DS113541-processed-gene-0.43-mRNA-1
+s728	genemark-DS113427-processed-gene-0.23-mRNA-1
+>CLUSTER:c1158	p=c823	t=0.2	s=4
+s158	genemark-DS113796-processed-gene-0.32-mRNA-1
+s196	genemark-DS113409-processed-gene-0.49-mRNA-1
+s217	genemark-DS113281-processed-gene-0.43-mRNA-1
+s808	genemark-DS114481-processed-gene-0.11-mRNA-1
+>CLUSTER:c1160	p=c823	t=0.2	s=4
+s235	genemark-DS114207-processed-gene-0.9-mRNA-1
+s523	augustus_masked-DS113412-processed-gene-0.17-mRNA-1
+s57	snap_masked-DS113738-processed-gene-0.38-mRNA-1
+s708	snap_masked-DS113514-processed-gene-0.58-mRNA-1
+>CLUSTER:c1195	p=c823	t=0.2	s=4
+s125	snap_masked-DS113231-processed-gene-1.87-mRNA-1
+s23	augustus_masked-DS113382-processed-gene-0.1-mRNA-1
+s32	augustus_masked-DS113348-processed-gene-0.16-mRNA-1
+s41	genemark-DS113786-processed-gene-0.31-mRNA-1
+>CLUSTER:c1189	p=c823	t=0.2	s=4
+s406	augustus_masked-DS113575-processed-gene-0.1-mRNA-1
+s619	genemark-DS113495-processed-gene-0.40-mRNA-1
+s667	genemark-DS114165-processed-gene-0.16-mRNA-1
+s758	genemark-DS113311-processed-gene-0.47-mRNA-1
+>CLUSTER:c1145	p=c823	t=0.2	s=4
+s145	augustus_masked-DS113532-processed-gene-0.3-mRNA-1
+s450	snap_masked-DS113185-processed-gene-2.83-mRNA-1
+s770	augustus_masked-DS113240-processed-gene-0.20-mRNA-1
+s99	augustus_masked-DS114002-processed-gene-0.0-mRNA-1
+>CLUSTER:c1170	p=c823	t=0.2	s=4
+s111	augustus_masked-DS113331-processed-gene-0.13-mRNA-1
+s545	augustus_masked-DS113653-processed-gene-0.10-mRNA-1
+s586	augustus_masked-DS113884-processed-gene-0.3-mRNA-1
+s616	genemark-DS113762-processed-gene-0.10-mRNA-1
+>CLUSTER:c1115	p=c823	t=0.2	s=3
+s467	genemark-DS113335-processed-gene-0.69-mRNA-1
+s575	genemark-DS113444-processed-gene-0.40-mRNA-1
+s735	augustus_masked-DS113187-processed-gene-2.14-mRNA-1
+>CLUSTER:c1194	p=c823	t=0.2	s=3
+s136	genemark-DS113298-processed-gene-0.69-mRNA-1
+s706	augustus_masked-DS113816-processed-gene-0.1-mRNA-1
+s809	augustus_masked-DS113718-processed-gene-0.0-mRNA-1
+>CLUSTER:c1149	p=c823	t=0.2	s=3
+s334	augustus_masked-DS113814-processed-gene-0.0-mRNA-1
+s502	augustus_masked-DS114152-processed-gene-0.2-mRNA-1
+s592	genemark-DS113209-processed-gene-1.45-mRNA-1
+>CLUSTER:c1129	p=c823	t=0.2	s=3
+s123	augustus_masked-DS114092-processed-gene-0.1-mRNA-1
+s36	augustus_masked-DS113292-processed-gene-0.0-mRNA-1
+s603	augustus_masked-DS114294-processed-gene-0.0-mRNA-1
+>CLUSTER:c1139	p=c823	t=0.2	s=3
+s259	genemark-DS113416-processed-gene-0.60-mRNA-1
+s280	augustus_masked-DS113342-processed-gene-0.7-mRNA-1
+s483	genemark-DS115188-processed-gene-0.5-mRNA-1
+>CLUSTER:c1111	p=c823	t=0.2	s=3
+s397	augustus_masked-DS114169-processed-gene-0.1-mRNA-1
+s551	augustus_masked-DS114454-processed-gene-0.3-mRNA-1
+s624	snap_masked-DS114217-processed-gene-0.13-mRNA-1
+>CLUSTER:c1183	p=c823	t=0.2	s=3
+s19	augustus_masked-DS113677-processed-gene-0.7-mRNA-1
+s433	augustus_masked-DS113288-processed-gene-0.28-mRNA-1
+s774	genemark-DS113668-processed-gene-0.14-mRNA-1
+>CLUSTER:c1159	p=c823	t=0.2	s=3
+s103	genemark-DS113269-processed-gene-0.77-mRNA-1
+s11	augustus_masked-DS113275-processed-gene-0.33-mRNA-1
+s347	genemark-DS113199-processed-gene-1.9-mRNA-1
+>CLUSTER:c1174	p=c823	t=0.2	s=3
+s167	augustus_masked-DS113183-processed-gene-3.11-mRNA-1
+s211	genemark-DS113184-processed-gene-1.25-mRNA-1
+s83	augustus_masked-DS114233-processed-gene-0.3-mRNA-1
+>CLUSTER:c1106	p=c823	t=0.2	s=3
+s132	snap_masked-DS113300-processed-gene-0.110-mRNA-1
+s705	genemark-DS113482-processed-gene-0.51-mRNA-1
+s787	genemark-DS113273-processed-gene-0.72-mRNA-1
+>CLUSTER:c1186	p=c823	t=0.2	s=3
+s339	genemark-DS113384-processed-gene-0.41-mRNA-1
+s614	augustus_masked-DS113192-processed-gene-1.47-mRNA-1
+s761	augustus_masked-DS113853-processed-gene-0.0-mRNA-1
+>CLUSTER:c1176	p=c823	t=0.2	s=3
+s201	genemark-DS113372-processed-gene-0.14-mRNA-1
+s229	genemark-DS113227-processed-gene-0.27-mRNA-1
+s493	genemark-DS113459-processed-gene-0.46-mRNA-1
+>CLUSTER:c1154	p=c823	t=0.2	s=3
+s301	genemark-DS114466-processed-gene-0.11-mRNA-1
+s748	snap_masked-DS113210-processed-gene-1.111-mRNA-1
+s94	genemark-DS113257-processed-gene-0.102-mRNA-1
+>CLUSTER:c1187	p=c823	t=0.2	s=3
+s209	augustus_masked-DS113184-processed-gene-1.36-mRNA-1
+s481	augustus_masked-DS113846-processed-gene-0.5-mRNA-1
+s60	augustus_masked-DS113886-processed-gene-0.3-mRNA-1
+>CLUSTER:c1155	p=c823	t=0.2	s=3
+s170	augustus_masked-DS113183-processed-gene-3.13-mRNA-1
+s257	augustus_masked-DS113404-processed-gene-0.11-mRNA-1
+s541	augustus_masked-DS113201-processed-gene-1.32-mRNA-1
+>CLUSTER:c1128	p=c823	t=0.2	s=3
+s417	genemark-DS113228-processed-gene-1.23-mRNA-1
+s427	augustus_masked-DS114261-processed-gene-0.1-mRNA-1
+s557	augustus_masked-DS113497-processed-gene-0.3-mRNA-1
+>CLUSTER:c1103	p=c823	t=0.2	s=3
+s253	augustus_masked-DS113361-processed-gene-0.8-mRNA-1
+s285	augustus_masked-DS113179-processed-gene-2.1-mRNA-1
+s378	augustus_masked-DS113626-processed-gene-0.2-mRNA-1
+>CLUSTER:c1169	p=c823	t=0.2	s=3
+s140	augustus_masked-DS113423-processed-gene-0.11-mRNA-1
+s165	augustus_masked-DS113183-processed-gene-2.5-mRNA-1
+s268	augustus_masked-DS113876-processed-gene-0.0-mRNA-1
+>CLUSTER:c1144	p=c823	t=0.2	s=3
+s190	augustus_masked-DS113279-processed-gene-0.12-mRNA-1
+s278	augustus_masked-DS113334-processed-gene-0.8-mRNA-1
+s596	augustus_masked-DS113220-processed-gene-1.65-mRNA-1
+>CLUSTER:c1123	p=c823	t=0.2	s=3
+s230	augustus_masked-DS113227-processed-gene-0.2-mRNA-1
+s338	augustus_masked-DS113364-processed-gene-0.8-mRNA-1
+s716	augustus_masked-DS113367-processed-gene-0.8-mRNA-1
+>CLUSTER:c1126	p=c823	t=0.2	s=2
+s210	genemark-DS113184-processed-gene-1.29-mRNA-1
+s409	augustus_masked-DS113530-processed-gene-0.2-mRNA-1
+>CLUSTER:c1109	p=c823	t=0.2	s=2
+s262	augustus_masked-DS113619-processed-gene-0.2-mRNA-1
+s85	augustus_masked-DS113713-processed-gene-0.14-mRNA-1
+>CLUSTER:c1141	p=c823	t=0.2	s=2
+s484	genemark-DS113643-processed-gene-0.20-mRNA-1
+s817	genemark-DS113305-processed-gene-0.45-mRNA-1
+>CLUSTER:c1178	p=c823	t=0.2	s=2
+s710	augustus_masked-DS113491-processed-gene-0.3-mRNA-1
+s86	snap_masked-DS114062-processed-gene-0.23-mRNA-1
+>CLUSTER:c1172	p=c823	t=0.2	s=2
+s297	genemark-DS113865-processed-gene-0.12-mRNA-1
+s622	snap_masked-DS114123-processed-gene-0.20-mRNA-1
+>CLUSTER:c1156	p=c823	t=0.2	s=2
+s192	genemark-DS113467-processed-gene-0.26-mRNA-1
+s267	augustus_masked-DS113248-processed-gene-0.9-mRNA-1
+>CLUSTER:c1171	p=c823	t=0.2	s=2
+s337	augustus_masked-DS113364-processed-gene-0.1-mRNA-1
+s678	augustus_masked-DS113276-processed-gene-0.16-mRNA-1
+>CLUSTER:c1110	p=c823	t=0.2	s=2
+s360	augustus_masked-DS113286-processed-gene-0.10-mRNA-1
+s750	augustus_masked-DS113396-processed-gene-0.0-mRNA-1
+>CLUSTER:c1179	p=c823	t=0.2	s=2
+s747	snap_masked-DS113210-processed-gene-1.98-mRNA-1
+s785	genemark-DS113208-processed-gene-1.26-mRNA-1
+>CLUSTER:c1127	p=c823	t=0.2	s=2
+s364	augustus_masked-DS113399-processed-gene-0.18-mRNA-1
+s571	genemark-DS113359-processed-gene-0.63-mRNA-1
+>CLUSTER:c1104	p=c823	t=0.2	s=2
+s638	genemark-DS113523-processed-gene-0.17-mRNA-1
+s719	augustus_masked-DS113721-processed-gene-0.6-mRNA-1
+>CLUSTER:c1140	p=c823	t=0.2	s=2
+s287	genemark-DS113179-processed-gene-3.14-mRNA-1
+s398	augustus_masked-DS114169-processed-gene-0.0-mRNA-1
+>CLUSTER:c1184	p=c823	t=0.2	s=2
+s402	genemark-DS113504-processed-gene-0.34-mRNA-1
+s457	genemark-DS113283-processed-gene-0.70-mRNA-1
+>CLUSTER:c1118	p=c823	t=0.2	s=2
+s208	augustus_masked-DS113184-processed-gene-0.18-mRNA-1
+s75	genemark-DS113291-processed-gene-0.99-mRNA-1
+>CLUSTER:c1150	p=c823	t=0.2	s=2
+s63	augustus_masked-DS114881-processed-gene-0.0-mRNA-1
+s90	genemark-DS113325-processed-gene-0.72-mRNA-1
+>CLUSTER:c1192	p=c823	t=0.2	s=2
+s141	genemark-DS113274-processed-gene-0.79-mRNA-1
+s632	genemark-DS113259-processed-gene-0.62-mRNA-1
+>CLUSTER:c1142	p=c823	t=0.2	s=2
+s3	genemark-DS113435-processed-gene-0.63-mRNA-1
+s511	genemark-DS113299-processed-gene-0.17-mRNA-1
+>CLUSTER:c1193	p=c823	t=0.2	s=2
+s786	genemark-DS113273-processed-gene-0.98-mRNA-1
+s804	genemark-DS114003-processed-gene-0.23-mRNA-1
+>CLUSTER:c1165	p=c823	t=0.2	s=2
+s102	genemark-DS113269-processed-gene-0.91-mRNA-1
+s64	genemark-DS113323-processed-gene-0.49-mRNA-1
+>CLUSTER:c1148	p=c823	t=0.2	s=2
+s207	augustus_masked-DS114210-processed-gene-0.1-mRNA-1
+s497	augustus_masked-DS113463-processed-gene-0.5-mRNA-1
+>CLUSTER:c1116	p=c823	t=0.2	s=2
+s436	genemark-DS113198-processed-gene-0.34-mRNA-1
+s597	augustus_masked-DS129363-processed-gene-0.2-mRNA-1
+>CLUSTER:c1134	p=c823	t=0.2	s=2
+s191	augustus_masked-DS113279-processed-gene-0.28-mRNA-1
+s20	augustus_masked-DS113677-processed-gene-0.9-mRNA-1
+>CLUSTER:c1133	p=c823	t=0.2	s=2
+s379	augustus_masked-DS113177-processed-gene-1.46-mRNA-1
+s723	augustus_masked-DS113478-processed-gene-0.15-mRNA-1
+>CLUSTER:c1162	p=c823	t=0.2	s=2
+s61	genemark-DS113791-processed-gene-0.21-mRNA-1
+s645	genemark-DS113347-processed-gene-0.75-mRNA-1
+>CLUSTER:c1136	p=c823	t=0.2	s=2
+s533	genemark-DS114170-processed-gene-0.5-mRNA-1
+s625	genemark-DS113217-processed-gene-0.67-mRNA-1
+>CLUSTER:c1120	p=c823	t=0.2	s=2
+s410	augustus_masked-DS113222-processed-gene-0.1-mRNA-1
+s98	genemark-DS113318-processed-gene-0.60-mRNA-1
+>CLUSTER:c1135	p=c823	t=0.2	s=2
+s418	genemark-DS113228-processed-gene-1.51-mRNA-1
+s669	genemark-DS113586-processed-gene-0.48-mRNA-1
+>CLUSTER:c1164	p=c823	t=0.2	s=2
+s312	augustus_masked-DS113215-processed-gene-1.5-mRNA-1
+s821	genemark-DS113512-processed-gene-0.13-mRNA-1
+>CLUSTER:c1167	p=c823	t=0.2	s=2
+s241	augustus_masked-DS114680-processed-gene-0.0-mRNA-1
+s777	augustus_masked-DS113763-processed-gene-0.0-mRNA-1
+>CLUSTER:c1105	p=c823	t=0.2	s=2
+s294	genemark-DS113401-processed-gene-0.26-mRNA-1
+s776	augustus_masked-DS114017-processed-gene-0.0-mRNA-1
+>CLUSTER:c1191	p=c823	t=0.2	s=2
+s350	augustus_masked-DS114090-processed-gene-0.4-mRNA-1
+s680	augustus_masked-DS113628-processed-gene-0.6-mRNA-1
+>CLUSTER:c1119	p=c823	t=0.2	s=2
+s313	genemark-DS114254-processed-gene-0.10-mRNA-1
+s44	genemark-DS113698-processed-gene-0.7-mRNA-1
+>CLUSTER:c1114	p=c823	t=0.2	s=2
+s344	genemark-DS115673-processed-gene-0.2-mRNA-1
+s386	genemark-DS113543-processed-gene-0.29-mRNA-1
+>CLUSTER:c1188	p=c823	t=0.2	s=2
+s315	augustus_masked-DS113584-processed-gene-0.2-mRNA-1
+s547	genemark-DS113212-processed-gene-1.48-mRNA-1
+>CLUSTER:c1121	p=c823	t=0.2	s=2
+s110	genemark-DS113563-processed-gene-0.38-mRNA-1
+s815	genemark-DS113369-processed-gene-0.44-mRNA-1
+>CLUSTER:c1180	p=c823	t=0.2	s=2
+s221	augustus_masked-DS118477-processed-gene-0.0-mRNA-1
+s491	genemark-DS113246-processed-gene-0.41-mRNA-1
+>CLUSTER:c1177	p=c823	t=0.2	s=2
+s335	augustus_masked-DS113254-processed-gene-0.20-mRNA-1
+s580	genemark-DS113329-processed-gene-0.61-mRNA-1
+>CLUSTER:c1143	p=c823	t=0.2	s=2
+s162	genemark-DS113183-processed-gene-1.62-mRNA-1
+s34	snap_masked-DS113180-processed-gene-2.87-mRNA-1
+>CLUSTER:c1108	p=c823	t=0.2	s=2
+s362	augustus_masked-DS113286-processed-gene-0.21-mRNA-1
+s7	genemark-DS113552-processed-gene-0.16-mRNA-1
+>CLUSTER:c1147	p=c823	t=0.2	s=2
+s177	augustus_masked-DS113241-processed-gene-0.13-mRNA-1
+s549	augustus_masked-DS113370-processed-gene-0.13-mRNA-1
+>CLUSTER:c1124	p=c823	t=0.2	s=2
+s411	snap_masked-DS113222-processed-gene-0.78-mRNA-1
+s615	augustus_masked-DS113863-processed-gene-0.5-mRNA-1
+>CLUSTER:c1130	p=c823	t=0.2	s=2
+s50	augustus_masked-DS113650-processed-gene-0.1-mRNA-1
+s68	augustus_masked-DS113258-processed-gene-0.7-mRNA-1
+>CLUSTER:c1153	p=c823	t=0.2	s=2
+s228	augustus_masked-DS113496-processed-gene-0.6-mRNA-1
+s385	augustus_masked-DS114180-processed-gene-0.2-mRNA-1
+>CLUSTER:c1112	p=c823	t=0.2	s=2
+s115	augustus_masked-DS120383-processed-gene-0.0-mRNA-1
+s697	augustus_masked-DS113545-processed-gene-0.0-mRNA-1
+>CLUSTER:c1122	p=c823	t=0.2	s=2
+s243	augustus_masked-DS113316-processed-gene-0.25-mRNA-1
+s359	genemark-DS114256-processed-gene-0.20-mRNA-1
+>CLUSTER:c1196	p=c823	t=0.2	s=2
+s122	genemark-DS113684-processed-gene-0.44-mRNA-1
+s357	genemark-DS113206-processed-gene-1.73-mRNA-1
+>CLUSTER:c1166	p=c823	t=0.2	s=2
+s449	genemark-DS114199-processed-gene-0.3-mRNA-1
+s601	genemark-DS113415-processed-gene-0.36-mRNA-1
+>CLUSTER:c1137	p=c823	t=0.2	s=2
+s349	genemark-DS114090-processed-gene-0.14-mRNA-1
+s755	augustus_masked-DS113420-processed-gene-0.2-mRNA-1
+>CLUSTER:c1131	p=c823	t=0.2	s=2
+s213	augustus_masked-DS113184-processed-gene-3.85-mRNA-1
+s74	augustus_masked-DS113181-processed-gene-3.3-mRNA-1
+>CLUSTER:c1117	p=c823	t=0.2	s=2
+s508	genemark-DS113554-processed-gene-0.11-mRNA-1
+s509	genemark-DS113554-processed-gene-0.12-mRNA-1
+>CLUSTER:c1152	p=c823	t=0.2	s=2
+s163	genemark-DS113183-processed-gene-2.21-mRNA-1
+s173	augustus_masked-DS115438-processed-gene-0.0-mRNA-1
+>CLUSTER:c1107	p=c823	t=0.2	s=2
+s782	genemark-DS114483-processed-gene-0.5-mRNA-1
+s819	genemark-DS113462-processed-gene-0.64-mRNA-1
+>CLUSTER:c1125	p=c823	t=0.2	s=2
+s182	genemark-DS113193-processed-gene-0.47-mRNA-1
+s345	snap_masked-DS120915-processed-gene-0.2-mRNA-1
+>CLUSTER:c1185	p=c823	t=0.2	s=2
+s642	augustus_masked-DS113700-processed-gene-0.0-mRNA-1
+s651	genemark-DS113314-processed-gene-0.55-mRNA-1
+>CLUSTER:c1138	p=c823	t=0.2	s=2
+s589	genemark-DS113344-processed-gene-0.48-mRNA-1
+s818	augustus_masked-DS113758-processed-gene-0.2-mRNA-1
+>CLUSTER:c1197	p=c823	t=0.2	s=2
+s305	genemark-DS113306-processed-gene-0.91-mRNA-1
+s59	snap_masked-DS113519-processed-gene-0.54-mRNA-1
+>CLUSTER:c857	p=c823	t=0.2	s=1
+s275	augustus_masked-DS113441-processed-gene-0.4-mRNA-1
+>CLUSTER:c1001	p=c823	t=0.2	s=1
+s797	augustus_masked-DS114968-processed-gene-0.0-mRNA-1
+>CLUSTER:c851	p=c823	t=0.2	s=1
+s810	snap_masked-DS113718-processed-gene-0.34-mRNA-1
+>CLUSTER:c839	p=c823	t=0.2	s=1
+s709	genemark-DS113514-processed-gene-0.51-mRNA-1
+>CLUSTER:c1012	p=c823	t=0.2	s=1
+s423	genemark-DS113336-processed-gene-0.51-mRNA-1
+>CLUSTER:c1091	p=c823	t=0.2	s=1
+s70	genemark-DS113258-processed-gene-0.84-mRNA-1
+>CLUSTER:c961	p=c823	t=0.2	s=1
+s126	genemark-DS113231-processed-gene-1.66-mRNA-1
+>CLUSTER:c894	p=c823	t=0.2	s=1
+s653	genemark-DS113538-processed-gene-0.19-mRNA-1
+>CLUSTER:c939	p=c823	t=0.2	s=1
+s559	genemark-DS113497-processed-gene-0.54-mRNA-1
+>CLUSTER:c1042	p=c823	t=0.2	s=1
+s617	snap_masked-DS113495-processed-gene-0.47-mRNA-1
+>CLUSTER:c844	p=c823	t=0.2	s=1
+s256	genemark-DS113365-processed-gene-0.70-mRNA-1
+>CLUSTER:c940	p=c823	t=0.2	s=1
+s81	genemark-DS113691-processed-gene-0.33-mRNA-1
+>CLUSTER:c1089	p=c823	t=0.2	s=1
+s308	maker-DS113398-snap-gene-0.95-mRNA-1
+>CLUSTER:c1082	p=c823	t=0.2	s=1
+s762	genemark-DS113853-processed-gene-0.19-mRNA-1
+>CLUSTER:c869	p=c823	t=0.2	s=1
+s793	genemark-DS113672-processed-gene-0.31-mRNA-1
+>CLUSTER:c982	p=c823	t=0.2	s=1
+s759	augustus_masked-DS113311-processed-gene-0.2-mRNA-1
+>CLUSTER:c1026	p=c823	t=0.2	s=1
+s781	genemark-DS113226-processed-gene-1.23-mRNA-1
+>CLUSTER:c833	p=c823	t=0.2	s=1
+s674	genemark-DS113744-processed-gene-0.23-mRNA-1
+>CLUSTER:c919	p=c823	t=0.2	s=1
+s608	maker-DS113680-snap-gene-0.39-mRNA-1
+>CLUSTER:c987	p=c823	t=0.2	s=1
+s634	augustus_masked-DS113259-processed-gene-0.7-mRNA-1
+>CLUSTER:c1015	p=c823	t=0.2	s=1
+s277	augustus_masked-DS113821-processed-gene-0.1-mRNA-1
+>CLUSTER:c1069	p=c823	t=0.2	s=1
+s153	genemark-DS113720-processed-gene-0.10-mRNA-1
+>CLUSTER:c925	p=c823	t=0.2	s=1
+s216	genemark-DS113281-processed-gene-0.42-mRNA-1
+>CLUSTER:c1030	p=c823	t=0.2	s=1
+s670	augustus_masked-DS113345-processed-gene-0.5-mRNA-1
+>CLUSTER:c906	p=c823	t=0.2	s=1
+s671	genemark-DS113345-processed-gene-0.44-mRNA-1
+>CLUSTER:c1053	p=c823	t=0.2	s=1
+s65	genemark-DS113323-processed-gene-0.82-mRNA-1
+>CLUSTER:c903	p=c823	t=0.2	s=1
+s658	genemark-DS113191-processed-gene-2.87-mRNA-1
+>CLUSTER:c921	p=c823	t=0.2	s=1
+s718	augustus_masked-DS113373-processed-gene-0.14-mRNA-1
+>CLUSTER:c875	p=c823	t=0.2	s=1
+s469	genemark-DS113558-processed-gene-0.19-mRNA-1
+>CLUSTER:c863	p=c823	t=0.2	s=1
+s367	snap_masked-DS113440-processed-gene-0.52-mRNA-1
+>CLUSTER:c965	p=c823	t=0.2	s=1
+s8	genemark-DS113552-processed-gene-0.26-mRNA-1
+>CLUSTER:c1013	p=c823	t=0.2	s=1
+s30	genemark-DS113348-processed-gene-0.24-mRNA-1
+>CLUSTER:c975	p=c823	t=0.2	s=1
+s238	augustus_masked-DS115248-processed-gene-0.0-mRNA-1
+>CLUSTER:c960	p=c823	t=0.2	s=1
+s721	genemark-DS113478-processed-gene-0.30-mRNA-1
+>CLUSTER:c1002	p=c823	t=0.2	s=1
+s351	maker-DS114090-snap-gene-0.30-mRNA-1
+>CLUSTER:c1041	p=c823	t=0.2	s=1
+s43	augustus_masked-DS114075-processed-gene-0.4-mRNA-1
+>CLUSTER:c892	p=c823	t=0.2	s=1
+s729	augustus_masked-DS113427-processed-gene-0.11-mRNA-1
+>CLUSTER:c1050	p=c823	t=0.2	s=1
+s166	genemark-DS113183-processed-gene-3.45-mRNA-1
+>CLUSTER:c1090	p=c823	t=0.2	s=1
+s503	augustus_masked-DS113664-processed-gene-0.6-mRNA-1
+>CLUSTER:c1071	p=c823	t=0.2	s=1
+s249	genemark-DS113627-processed-gene-0.14-mRNA-1
+>CLUSTER:c1098	p=c823	t=0.2	s=1
+s539	genemark-DS113201-processed-gene-1.46-mRNA-1
+>CLUSTER:c826	p=c823	t=0.2	s=1
+s609	genemark-DS113680-processed-gene-0.6-mRNA-1
+>CLUSTER:c843	p=c823	t=0.2	s=1
+s652	augustus_masked-DS113645-processed-gene-0.13-mRNA-1
+>CLUSTER:c988	p=c823	t=0.2	s=1
+s152	augustus_masked-DS113285-processed-gene-0.18-mRNA-1
+>CLUSTER:c981	p=c823	t=0.2	s=1
+s561	genemark-DS113264-processed-gene-0.80-mRNA-1
+>CLUSTER:c989	p=c823	t=0.2	s=1
+s579	genemark-DS113329-processed-gene-0.28-mRNA-1
+>CLUSTER:c1085	p=c823	t=0.2	s=1
+s197	genemark-DS113409-processed-gene-0.38-mRNA-1
+>CLUSTER:c958	p=c823	t=0.2	s=1
+s104	augustus_masked-DS113269-processed-gene-0.22-mRNA-1
+>CLUSTER:c883	p=c823	t=0.2	s=1
+s383	augustus_masked-DS113177-processed-gene-4.33-mRNA-1
+>CLUSTER:c918	p=c823	t=0.2	s=1
+s628	augustus_masked-DS114131-processed-gene-0.3-mRNA-1
+>CLUSTER:c1025	p=c823	t=0.2	s=1
+s558	genemark-DS113497-processed-gene-0.58-mRNA-1
+>CLUSTER:c920	p=c823	t=0.2	s=1
+s306	augustus_masked-DS113327-processed-gene-0.4-mRNA-1
+>CLUSTER:c865	p=c823	t=0.2	s=1
+s606	augustus_masked-DS113178-processed-gene-4.4-mRNA-1
+>CLUSTER:c1063	p=c823	t=0.2	s=1
+s118	genemark-DS113236-processed-gene-0.34-mRNA-1
+>CLUSTER:c1097	p=c823	t=0.2	s=1
+s18	augustus_masked-DS113598-processed-gene-0.10-mRNA-1
+>CLUSTER:c876	p=c823	t=0.2	s=1
+s106	genemark-DS113197-processed-gene-1.25-mRNA-1
+>CLUSTER:c1070	p=c823	t=0.2	s=1
+s399	augustus_masked-DS113714-processed-gene-0.4-mRNA-1
+>CLUSTER:c862	p=c823	t=0.2	s=1
+s321	genemark-DS113366-processed-gene-0.18-mRNA-1
+>CLUSTER:c1036	p=c823	t=0.2	s=1
+s591	augustus_masked-DS113209-processed-gene-0.12-mRNA-1
+>CLUSTER:c1054	p=c823	t=0.2	s=1
+s355	genemark-DS113206-processed-gene-0.21-mRNA-1
+>CLUSTER:c1010	p=c823	t=0.2	s=1
+s279	augustus_masked-DS113271-processed-gene-0.14-mRNA-1
+>CLUSTER:c1101	p=c823	t=0.2	s=1
+s550	genemark-DS113370-processed-gene-0.62-mRNA-1
+>CLUSTER:c1016	p=c823	t=0.2	s=1
+s151	genemark-DS113675-processed-gene-0.24-mRNA-1
+>CLUSTER:c964	p=c823	t=0.2	s=1
+s184	augustus_masked-DS113333-processed-gene-0.21-mRNA-1
+>CLUSTER:c1055	p=c823	t=0.2	s=1
+s734	augustus_masked-DS113187-processed-gene-1.40-mRNA-1
+>CLUSTER:c1100	p=c823	t=0.2	s=1
+s159	genemark-DS113386-processed-gene-0.28-mRNA-1
+>CLUSTER:c979	p=c823	t=0.2	s=1
+s820	genemark-DS113512-processed-gene-0.15-mRNA-1
+>CLUSTER:c942	p=c823	t=0.2	s=1
+s690	genemark-DS113991-processed-gene-0.12-mRNA-1
+>CLUSTER:c878	p=c823	t=0.2	s=1
+s766	genemark-DS113244-processed-gene-0.36-mRNA-1
+>CLUSTER:c908	p=c823	t=0.2	s=1
+s139	augustus_masked-DS113196-processed-gene-1.38-mRNA-1
+>CLUSTER:c905	p=c823	t=0.2	s=1
+s444	genemark-DS113207-processed-gene-1.76-mRNA-1
+>CLUSTER:c882	p=c823	t=0.2	s=1
+s488	genemark-DS113607-processed-gene-0.18-mRNA-1
+>CLUSTER:c1084	p=c823	t=0.2	s=1
+s119	augustus_masked-DS113236-processed-gene-0.1-mRNA-1
+>CLUSTER:c1044	p=c823	t=0.2	s=1
+s146	genemark-DS113708-processed-gene-0.12-mRNA-1
+>CLUSTER:c1039	p=c823	t=0.2	s=1
+s276	augustus_masked-DS113441-processed-gene-0.7-mRNA-1
+>CLUSTER:c1096	p=c823	t=0.2	s=1
+s463	genemark-DS113250-processed-gene-0.53-mRNA-1
+>CLUSTER:c877	p=c823	t=0.2	s=1
+s611	augustus_masked-DS113979-processed-gene-0.13-mRNA-1
+>CLUSTER:c825	p=c823	t=0.2	s=1
+s543	genemark-DS113341-processed-gene-0.64-mRNA-1
+>CLUSTER:c834	p=c823	t=0.2	s=1
+s29	genemark-DS113348-processed-gene-0.25-mRNA-1
+>CLUSTER:c957	p=c823	t=0.2	s=1
+s506	genemark-DS113616-processed-gene-0.13-mRNA-1
+>CLUSTER:c849	p=c823	t=0.2	s=1
+s374	genemark-DS113233-processed-gene-1.37-mRNA-1
+>CLUSTER:c944	p=c823	t=0.2	s=1
+s404	genemark-DS113630-processed-gene-0.29-mRNA-1
+>CLUSTER:c1019	p=c823	t=0.2	s=1
+s504	augustus_masked-DS113565-processed-gene-0.0-mRNA-1
+>CLUSTER:c924	p=c823	t=0.2	s=1
+s494	genemark-DS113340-processed-gene-0.32-mRNA-1
+>CLUSTER:c891	p=c823	t=0.2	s=1
+s24	augustus_masked-DS114019-processed-gene-0.5-mRNA-1
+>CLUSTER:c1061	p=c823	t=0.2	s=1
+s473	genemark-DS113629-processed-gene-0.31-mRNA-1
+>CLUSTER:c893	p=c823	t=0.2	s=1
+s442	augustus_masked-DS113207-processed-gene-0.8-mRNA-1
+>CLUSTER:c1056	p=c823	t=0.2	s=1
+s372	genemark-DS113862-processed-gene-0.14-mRNA-1
+>CLUSTER:c842	p=c823	t=0.2	s=1
+s691	augustus_masked-DS113991-processed-gene-0.5-mRNA-1
+>CLUSTER:c917	p=c823	t=0.2	s=1
+s428	genemark-DS113357-processed-gene-0.54-mRNA-1
+>CLUSTER:c1068	p=c823	t=0.2	s=1
+s381	augustus_masked-DS113177-processed-gene-3.10-mRNA-1
+>CLUSTER:c864	p=c823	t=0.2	s=1
+s237	genemark-DS113773-processed-gene-0.26-mRNA-1
+>CLUSTER:c1017	p=c823	t=0.2	s=1
+s240	genemark-DS113391-processed-gene-0.53-mRNA-1
+>CLUSTER:c963	p=c823	t=0.2	s=1
+s220	genemark-DS113858-processed-gene-0.16-mRNA-1
+>CLUSTER:c1008	p=c823	t=0.2	s=1
+s618	genemark-DS113495-processed-gene-0.11-mRNA-1
+>CLUSTER:c1024	p=c823	t=0.2	s=1
+s605	augustus_masked-DS113178-processed-gene-3.43-mRNA-1
+>CLUSTER:c997	p=c823	t=0.2	s=1
+s387	genemark-DS113543-processed-gene-0.39-mRNA-1
+>CLUSTER:c854	p=c823	t=0.2	s=1
+s358	genemark-DS114256-processed-gene-0.12-mRNA-1
+>CLUSTER:c931	p=c823	t=0.2	s=1
+s588	augustus_masked-DS113344-processed-gene-0.12-mRNA-1
+>CLUSTER:c916	p=c823	t=0.2	s=1
+s756	augustus_masked-DS113352-processed-gene-0.8-mRNA-1
+>CLUSTER:c1034	p=c823	t=0.2	s=1
+s69	genemark-DS113258-processed-gene-0.112-mRNA-1
+>CLUSTER:c1060	p=c823	t=0.2	s=1
+s448	genemark-DS113553-processed-gene-0.40-mRNA-1
+>CLUSTER:c996	p=c823	t=0.2	s=1
+s754	maker-DS114056-snap-gene-0.30-mRNA-1
+>CLUSTER:c1078	p=c823	t=0.2	s=1
+s788	augustus_masked-DS113505-processed-gene-0.5-mRNA-1
+>CLUSTER:c1018	p=c823	t=0.2	s=1
+s422	genemark-DS113405-processed-gene-0.62-mRNA-1
+>CLUSTER:c835	p=c823	t=0.2	s=1
+s455	genemark-DS113283-processed-gene-0.40-mRNA-1
+>CLUSTER:c1059	p=c823	t=0.2	s=1
+s286	genemark-DS113179-processed-gene-2.72-mRNA-1
+>CLUSTER:c962	p=c823	t=0.2	s=1
+s676	augustus_masked-DS113461-processed-gene-0.9-mRNA-1
+>CLUSTER:c973	p=c823	t=0.2	s=1
+s505	genemark-DS113565-processed-gene-0.22-mRNA-1
+>CLUSTER:c941	p=c823	t=0.2	s=1
+s621	genemark-DS114851-processed-gene-0.4-mRNA-1
+>CLUSTER:c1011	p=c823	t=0.2	s=1
+s447	augustus_masked-DS113754-processed-gene-0.10-mRNA-1
+>CLUSTER:c1046	p=c823	t=0.2	s=1
+s326	augustus_masked-DS113219-processed-gene-1.0-mRNA-1
+>CLUSTER:c984	p=c823	t=0.2	s=1
+s353	augustus_masked-DS113319-processed-gene-0.12-mRNA-1
+>CLUSTER:c879	p=c823	t=0.2	s=1
+s655	genemark-DS113819-processed-gene-0.9-mRNA-1
+>CLUSTER:c922	p=c823	t=0.2	s=1
+s445	genemark-DS113207-processed-gene-1.81-mRNA-1
+>CLUSTER:c907	p=c823	t=0.2	s=1
+s384	augustus_masked-DS113377-processed-gene-0.1-mRNA-1
+>CLUSTER:c938	p=c823	t=0.2	s=1
+s420	snap_masked-DS113535-processed-gene-0.54-mRNA-1
+>CLUSTER:c943	p=c823	t=0.2	s=1
+s336	augustus_masked-DS113254-processed-gene-0.23-mRNA-1
+>CLUSTER:c895	p=c823	t=0.2	s=1
+s328	augustus_masked-DS113446-processed-gene-0.17-mRNA-1
+>CLUSTER:c923	p=c823	t=0.2	s=1
+s695	genemark-DS113753-processed-gene-0.9-mRNA-1
+>CLUSTER:c1062	p=c823	t=0.2	s=1
+s82	genemark-DS114233-processed-gene-0.9-mRNA-1
+>CLUSTER:c1095	p=c823	t=0.2	s=1
+s764	genemark-DS114037-processed-gene-0.17-mRNA-1
+>CLUSTER:c956	p=c823	t=0.2	s=1
+s631	genemark-DS114133-processed-gene-0.9-mRNA-1
+>CLUSTER:c848	p=c823	t=0.2	s=1
+s630	augustus_masked-DS113745-processed-gene-0.9-mRNA-1
+>CLUSTER:c1057	p=c823	t=0.2	s=1
+s534	augustus_masked-DS113355-processed-gene-0.1-mRNA-1
+>CLUSTER:c867	p=c823	t=0.2	s=1
+s673	augustus_masked-DS114045-processed-gene-0.1-mRNA-1
+>CLUSTER:c1033	p=c823	t=0.2	s=1
+s430	genemark-DS113237-processed-gene-0.27-mRNA-1
+>CLUSTER:c1007	p=c823	t=0.2	s=1
+s370	genemark-DS113770-processed-gene-0.30-mRNA-1
+>CLUSTER:c896	p=c823	t=0.2	s=1
+s650	genemark-DS114432-processed-gene-0.1-mRNA-1
+>CLUSTER:c937	p=c823	t=0.2	s=1
+s675	genemark-DS113461-processed-gene-0.23-mRNA-1
+>CLUSTER:c1076	p=c823	t=0.2	s=1
+s392	genemark-DS113727-processed-gene-0.24-mRNA-1
+>CLUSTER:c855	p=c823	t=0.2	s=1
+s542	genemark-DS113341-processed-gene-0.76-mRNA-1
+>CLUSTER:c841	p=c823	t=0.2	s=1
+s699	augustus_masked-DS113296-processed-gene-0.2-mRNA-1
+>CLUSTER:c932	p=c823	t=0.2	s=1
+s538	genemark-DS113201-processed-gene-1.77-mRNA-1
+>CLUSTER:c915	p=c823	t=0.2	s=1
+s743	genemark-DS113411-processed-gene-0.32-mRNA-1
+>CLUSTER:c1023	p=c823	t=0.2	s=1
+s613	genemark-DS113192-processed-gene-1.16-mRNA-1
+>CLUSTER:c1079	p=c823	t=0.2	s=1
+s226	genemark-DS113432-processed-gene-0.42-mRNA-1
+>CLUSTER:c969	p=c823	t=0.2	s=1
+s472	snap_masked-DS113829-processed-gene-0.46-mRNA-1
+>CLUSTER:c828	p=c823	t=0.2	s=1
+s288	augustus_masked-DS113256-processed-gene-0.2-mRNA-1
+>CLUSTER:c900	p=c823	t=0.2	s=1
+s266	genemark-DS113636-processed-gene-0.29-mRNA-1
+>CLUSTER:c1043	p=c823	t=0.2	s=1
+s464	genemark-DS113250-processed-gene-0.80-mRNA-1
+>CLUSTER:c1087	p=c823	t=0.2	s=1
+s134	augustus_masked-DS113300-processed-gene-0.29-mRNA-1
+>CLUSTER:c1037	p=c823	t=0.2	s=1
+s390	augustus_masked-DS113317-processed-gene-0.13-mRNA-1
+>CLUSTER:c976	p=c823	t=0.2	s=1
+s231	genemark-DS113227-processed-gene-1.30-mRNA-1
+>CLUSTER:c1094	p=c823	t=0.2	s=1
+s526	genemark-DS113809-processed-gene-0.18-mRNA-1
+>CLUSTER:c955	p=c823	t=0.2	s=1
+s522	genemark-DS113247-processed-gene-0.65-mRNA-1
+>CLUSTER:c912	p=c823	t=0.2	s=1
+s593	genemark-DS113209-processed-gene-1.43-mRNA-1
+>CLUSTER:c914	p=c823	t=0.2	s=1
+s58	augustus_masked-DS113766-processed-gene-0.5-mRNA-1
+>CLUSTER:c1006	p=c823	t=0.2	s=1
+s199	genemark-DS113422-processed-gene-0.57-mRNA-1
+>CLUSTER:c1032	p=c823	t=0.2	s=1
+s252	augustus_masked-DS113801-processed-gene-0.0-mRNA-1
+>CLUSTER:c836	p=c823	t=0.2	s=1
+s663	genemark-DS113433-processed-gene-0.48-mRNA-1
+>CLUSTER:c983	p=c823	t=0.2	s=1
+s56	snap_masked-DS113699-processed-gene-0.43-mRNA-1
+>CLUSTER:c887	p=c823	t=0.2	s=1
+s726	genemark-DS113490-processed-gene-0.9-mRNA-1
+>CLUSTER:c866	p=c823	t=0.2	s=1
+s574	genemark-DS113869-processed-gene-0.18-mRNA-1
+>CLUSTER:c952	p=c823	t=0.2	s=1
+s194	augustus_masked-DS113409-processed-gene-0.0-mRNA-1
+>CLUSTER:c1067	p=c823	t=0.2	s=1
+s114	genemark-DS113473-processed-gene-0.24-mRNA-1
+>CLUSTER:c1077	p=c823	t=0.2	s=1
+s656	genemark-DS113819-processed-gene-0.10-mRNA-1
+>CLUSTER:c888	p=c823	t=0.2	s=1
+s186	genemark-DS113182-processed-gene-1.18-mRNA-1
+>CLUSTER:c968	p=c823	t=0.2	s=1
+s679	genemark-DS113921-processed-gene-0.27-mRNA-1
+>CLUSTER:c994	p=c823	t=0.2	s=1
+s514	genemark-DS113489-processed-gene-0.56-mRNA-1
+>CLUSTER:c847	p=c823	t=0.2	s=1
+s736	augustus_masked-DS113746-processed-gene-0.5-mRNA-1
+>CLUSTER:c1086	p=c823	t=0.2	s=1
+s333	genemark-DS113704-processed-gene-0.33-mRNA-1
+>CLUSTER:c999	p=c823	t=0.2	s=1
+s570	genemark-DS113359-processed-gene-0.59-mRNA-1
+>CLUSTER:c946	p=c823	t=0.2	s=1
+s799	genemark-DS113465-processed-gene-0.34-mRNA-1
+>CLUSTER:c971	p=c823	t=0.2	s=1
+s477	genemark-DS113707-processed-gene-0.11-mRNA-1
+>CLUSTER:c1022	p=c823	t=0.2	s=1
+s537	genemark-DS113201-processed-gene-0.23-mRNA-1
+>CLUSTER:c881	p=c823	t=0.2	s=1
+s265	genemark-DS113450-processed-gene-0.35-mRNA-1
+>CLUSTER:c852	p=c823	t=0.2	s=1
+s2	snap_masked-DS113435-processed-gene-0.78-mRNA-1
+>CLUSTER:c929	p=c823	t=0.2	s=1
+s239	augustus_masked-DS113391-processed-gene-0.3-mRNA-1
+>CLUSTER:c992	p=c823	t=0.2	s=1
+s371	genemark-DS113862-processed-gene-0.7-mRNA-1
+>CLUSTER:c870	p=c823	t=0.2	s=1
+s112	genemark-DS113331-processed-gene-0.64-mRNA-1
+>CLUSTER:c1081	p=c823	t=0.2	s=1
+s54	genemark-DS113469-processed-gene-0.42-mRNA-1
+>CLUSTER:c935	p=c823	t=0.2	s=1
+s405	genemark-DS115054-processed-gene-0.2-mRNA-1
+>CLUSTER:c1045	p=c823	t=0.2	s=1
+s12	augustus_masked-DS113275-processed-gene-0.32-mRNA-1
+>CLUSTER:c1058	p=c823	t=0.2	s=1
+s31	genemark-DS113348-processed-gene-0.67-mRNA-1
+>CLUSTER:c827	p=c823	t=0.2	s=1
+s168	augustus_masked-DS113183-processed-gene-3.6-mRNA-1
+>CLUSTER:c1031	p=c823	t=0.2	s=1
+s492	augustus_masked-DS113459-processed-gene-0.4-mRNA-1
+>CLUSTER:c897	p=c823	t=0.2	s=1
+s323	genemark-DS113366-processed-gene-0.53-mRNA-1
+>CLUSTER:c861	p=c823	t=0.2	s=1
+s302	genemark-DS113280-processed-gene-0.44-mRNA-1
+>CLUSTER:c1005	p=c823	t=0.2	s=1
+s753	snap_masked-DS113548-processed-gene-0.42-mRNA-1
+>CLUSTER:c913	p=c823	t=0.2	s=1
+s105	genemark-DS113269-processed-gene-0.102-mRNA-1
+>CLUSTER:c868	p=c823	t=0.2	s=1
+s28	genemark-DS113348-processed-gene-0.27-mRNA-1
+>CLUSTER:c830	p=c823	t=0.2	s=1
+s193	genemark-DS116332-processed-gene-0.0-mRNA-1
+>CLUSTER:c954	p=c823	t=0.2	s=1
+s131	augustus_masked-DS113669-processed-gene-0.6-mRNA-1
+>CLUSTER:c840	p=c823	t=0.2	s=1
+s727	genemark-DS113490-processed-gene-0.8-mRNA-1
+>CLUSTER:c967	p=c823	t=0.2	s=1
+s284	augustus_masked-DS113179-processed-gene-1.13-mRNA-1
+>CLUSTER:c1004	p=c823	t=0.2	s=1
+s37	genemark-DS113485-processed-gene-0.28-mRNA-1
+>CLUSTER:c930	p=c823	t=0.2	s=1
+s731	snap_masked-DS113350-processed-gene-0.71-mRNA-1
+>CLUSTER:c886	p=c823	t=0.2	s=1
+s532	genemark-DS113525-processed-gene-0.34-mRNA-1
+>CLUSTER:c837	p=c823	t=0.2	s=1
+s644	genemark-DS113938-processed-gene-0.15-mRNA-1
+>CLUSTER:c945	p=c823	t=0.2	s=1
+s295	genemark-DS113903-processed-gene-0.19-mRNA-1
+>CLUSTER:c1074	p=c823	t=0.2	s=1
+s510	genemark-DS113554-processed-gene-0.29-mRNA-1
+>CLUSTER:c880	p=c823	t=0.2	s=1
+s807	genemark-DS114021-processed-gene-0.9-mRNA-1
+>CLUSTER:c853	p=c823	t=0.2	s=1
+s536	genemark-DS113355-processed-gene-0.49-mRNA-1
+>CLUSTER:c972	p=c823	t=0.2	s=1
+s361	augustus_masked-DS113286-processed-gene-0.29-mRNA-1
+>CLUSTER:c858	p=c823	t=0.2	s=1
+s806	maker-DS114021-augustus-gene-0.20-mRNA-1
+>CLUSTER:c995	p=c823	t=0.2	s=1
+s458	genemark-DS114185-processed-gene-0.12-mRNA-1
+>CLUSTER:c871	p=c823	t=0.2	s=1
+s626	genemark-DS113217-processed-gene-0.61-mRNA-1
+>CLUSTER:c998	p=c823	t=0.2	s=1
+s137	snap_masked-DS113914-processed-gene-0.27-mRNA-1
+>CLUSTER:c1048	p=c823	t=0.2	s=1
+s373	genemark-DS114577-processed-gene-0.7-mRNA-1
+>CLUSTER:c936	p=c823	t=0.2	s=1
+s322	genemark-DS113366-processed-gene-0.52-mRNA-1
+>CLUSTER:c846	p=c823	t=0.2	s=1
+s647	augustus_masked-DS113522-processed-gene-0.6-mRNA-1
+>CLUSTER:c974	p=c823	t=0.2	s=1
+s612	augustus_masked-DS114561-processed-gene-0.1-mRNA-1
+>CLUSTER:c1080	p=c823	t=0.2	s=1
+s290	augustus_masked-DS113221-processed-gene-0.18-mRNA-1
+>CLUSTER:c909	p=c823	t=0.2	s=1
+s629	augustus_masked-DS113878-processed-gene-0.7-mRNA-1
+>CLUSTER:c928	p=c823	t=0.2	s=1
+s92	genemark-DS113257-processed-gene-0.69-mRNA-1
+>CLUSTER:c933	p=c823	t=0.2	s=1
+s73	genemark-DS113181-processed-gene-3.33-mRNA-1
+>CLUSTER:c1065	p=c823	t=0.2	s=1
+s778	augustus_masked-DS113624-processed-gene-0.0-mRNA-1
+>CLUSTER:c985	p=c823	t=0.2	s=1
+s546	genemark-DS113212-processed-gene-0.58-mRNA-1
+>CLUSTER:c1099	p=c823	t=0.2	s=1
+s437	genemark-DS113252-processed-gene-0.26-mRNA-1
+>CLUSTER:c1014	p=c823	t=0.2	s=1
+s80	genemark-DS113691-processed-gene-0.17-mRNA-1
+>CLUSTER:c831	p=c823	t=0.2	s=1
+s138	genemark-DS113196-processed-gene-1.77-mRNA-1
+>CLUSTER:c966	p=c823	t=0.2	s=1
+s346	genemark-DS113199-processed-gene-0.40-mRNA-1
+>CLUSTER:c993	p=c823	t=0.2	s=1
+s583	snap_masked-DS113733-processed-gene-0.54-mRNA-1
+>CLUSTER:c902	p=c823	t=0.2	s=1
+s741	genemark-DS113484-processed-gene-0.33-mRNA-1
+>CLUSTER:c990	p=c823	t=0.2	s=1
+s643	augustus_masked-DS113486-processed-gene-0.14-mRNA-1
+>CLUSTER:c949	p=c823	t=0.2	s=1
+s206	augustus_masked-DS113224-processed-gene-1.51-mRNA-1
+>CLUSTER:c1051	p=c823	t=0.2	s=1
+s26	genemark-DS113348-processed-gene-0.23-mRNA-1
+>CLUSTER:c1003	p=c823	t=0.2	s=1
+s419	genemark-DS113868-processed-gene-0.30-mRNA-1
+>CLUSTER:c1000	p=c823	t=0.2	s=1
+s130	augustus_masked-DS113669-processed-gene-0.5-mRNA-1
+>CLUSTER:c1028	p=c823	t=0.2	s=1
+s700	genemark-DS113296-processed-gene-0.53-mRNA-1
+>CLUSTER:c859	p=c823	t=0.2	s=1
+s441	genemark-DS113654-processed-gene-0.9-mRNA-1
+>CLUSTER:c953	p=c823	t=0.2	s=1
+s39	genemark-DS113346-processed-gene-0.19-mRNA-1
+>CLUSTER:c910	p=c823	t=0.2	s=1
+s443	genemark-DS113207-processed-gene-1.48-mRNA-1
+>CLUSTER:c898	p=c823	t=0.2	s=1
+s501	genemark-DS113378-processed-gene-0.26-mRNA-1
+>CLUSTER:c1075	p=c823	t=0.2	s=1
+s415	genemark-DS113222-processed-gene-1.71-mRNA-1
+>CLUSTER:c889	p=c823	t=0.2	s=1
+s79	genemark-DS113872-processed-gene-0.26-mRNA-1
+>CLUSTER:c1093	p=c823	t=0.2	s=1
+s465	genemark-DS114029-processed-gene-0.13-mRNA-1
+>CLUSTER:c950	p=c823	t=0.2	s=1
+s563	augustus_masked-DS113270-processed-gene-0.11-mRNA-1
+>CLUSTER:c1035	p=c823	t=0.2	s=1
+s528	genemark-DS113214-processed-gene-0.28-mRNA-1
+>CLUSTER:c1083	p=c823	t=0.2	s=1
+s581	genemark-DS114033-processed-gene-0.15-mRNA-1
+>CLUSTER:c824	p=c823	t=0.2	s=1
+s637	augustus_masked-DS113259-processed-gene-0.2-mRNA-1
+>CLUSTER:c948	p=c823	t=0.2	s=1
+s715	genemark-DS114555-processed-gene-0.10-mRNA-1
+>CLUSTER:c978	p=c823	t=0.2	s=1
+s446	snap_masked-DS113457-processed-gene-0.76-mRNA-1
+>CLUSTER:c1040	p=c823	t=0.2	s=1
+s40	genemark-DS113346-processed-gene-0.73-mRNA-1
+>CLUSTER:c980	p=c823	t=0.2	s=1
+s659	augustus_masked-DS113191-processed-gene-2.18-mRNA-1
+>CLUSTER:c872	p=c823	t=0.2	s=1
+s393	maker-DS113755-snap-gene-0.48-mRNA-1
+>CLUSTER:c1073	p=c823	t=0.2	s=1
+s582	augustus_masked-DS113733-processed-gene-0.2-mRNA-1
+>CLUSTER:c1009	p=c823	t=0.2	s=1
+s460	augustus_masked-DS113243-processed-gene-0.24-mRNA-1
+>CLUSTER:c885	p=c823	t=0.2	s=1
+s800	snap_masked-DS113880-processed-gene-0.22-mRNA-1
+>CLUSTER:c838	p=c823	t=0.2	s=1
+s440	genemark-DS113261-processed-gene-0.57-mRNA-1
+>CLUSTER:c1029	p=c823	t=0.2	s=1
+s172	genemark-DS113734-processed-gene-0.11-mRNA-1
+>CLUSTER:c1047	p=c823	t=0.2	s=1
+s789	genemark-DS113218-processed-gene-0.42-mRNA-1
+>CLUSTER:c1064	p=c823	t=0.2	s=1
+s108	genemark-DS113806-processed-gene-0.11-mRNA-1
+>CLUSTER:c1038	p=c823	t=0.2	s=1
+s640	augustus_masked-DS113631-processed-gene-0.13-mRNA-1
+>CLUSTER:c991	p=c823	t=0.2	s=1
+s595	genemark-DS113220-processed-gene-0.27-mRNA-1
+>CLUSTER:c927	p=c823	t=0.2	s=1
+s620	genemark-DS113805-processed-gene-0.11-mRNA-1
+>CLUSTER:c850	p=c823	t=0.2	s=1
+s610	genemark-DS113680-processed-gene-0.32-mRNA-1
+>CLUSTER:c1066	p=c823	t=0.2	s=1
+s763	genemark-DS114328-processed-gene-0.3-mRNA-1
+>CLUSTER:c911	p=c823	t=0.2	s=1
+s760	augustus_masked-DS113311-processed-gene-0.22-mRNA-1
+>CLUSTER:c970	p=c823	t=0.2	s=1
+s14	genemark-DS113606-processed-gene-0.23-mRNA-1
+>CLUSTER:c901	p=c823	t=0.2	s=1
+s224	augustus_masked-DS113732-processed-gene-0.5-mRNA-1
+>CLUSTER:c829	p=c823	t=0.2	s=1
+s248	genemark-DS113320-processed-gene-0.44-mRNA-1
+>CLUSTER:c845	p=c823	t=0.2	s=1
+s33	genemark-DS113180-processed-gene-0.53-mRNA-1
+>CLUSTER:c1088	p=c823	t=0.2	s=1
+s149	genemark-DS113797-processed-gene-0.17-mRNA-1
+>CLUSTER:c884	p=c823	t=0.2	s=1
+s236	snap_masked-DS114207-processed-gene-0.29-mRNA-1
+>CLUSTER:c856	p=c823	t=0.2	s=1
+s299	genemark-DS114108-processed-gene-0.6-mRNA-1
+>CLUSTER:c1027	p=c823	t=0.2	s=1
+s749	genemark-DS113397-processed-gene-0.57-mRNA-1
+>CLUSTER:c904	p=c823	t=0.2	s=1
+s641	augustus_masked-DS114550-processed-gene-0.1-mRNA-1
+>CLUSTER:c951	p=c823	t=0.2	s=1
+s169	augustus_masked-DS113183-processed-gene-3.7-mRNA-1
+>CLUSTER:c986	p=c823	t=0.2	s=1
+s499	genemark-DS113874-processed-gene-0.7-mRNA-1
+>CLUSTER:c934	p=c823	t=0.2	s=1
+s67	augustus_masked-DS113258-processed-gene-0.6-mRNA-1
+>CLUSTER:c1072	p=c823	t=0.2	s=1
+s343	genemark-DS113906-processed-gene-0.21-mRNA-1
+>CLUSTER:c959	p=c823	t=0.2	s=1
+s556	augustus_masked-DS113939-processed-gene-0.1-mRNA-1
+>CLUSTER:c1021	p=c823	t=0.2	s=1
+s733	genemark-DS113249-processed-gene-0.107-mRNA-1
+>CLUSTER:c874	p=c823	t=0.2	s=1
+s51	genemark-DS114336-processed-gene-0.8-mRNA-1
+>CLUSTER:c1052	p=c823	t=0.2	s=1
+s113	snap_masked-DS113473-processed-gene-0.49-mRNA-1
+>CLUSTER:c977	p=c823	t=0.2	s=1
+s515	genemark-DS113633-processed-gene-0.23-mRNA-1
+>CLUSTER:c899	p=c823	t=0.2	s=1
+s738	genemark-DS113410-processed-gene-0.47-mRNA-1
+>CLUSTER:c947	p=c823	t=0.2	s=1
+s742	augustus_masked-DS113411-processed-gene-0.4-mRNA-1
+>CLUSTER:c873	p=c823	t=0.2	s=1
+s698	augustus_masked-DS113296-processed-gene-0.6-mRNA-1
+>CLUSTER:c832	p=c823	t=0.2	s=1
+s811	maker-DS113718-augustus-gene-0.42-mRNA-1
+>CLUSTER:c1049	p=c823	t=0.2	s=1
+s518	augustus_masked-DS113632-processed-gene-0.1-mRNA-1
+>CLUSTER:c860	p=c823	t=0.2	s=1
+s471	genemark-DS114259-processed-gene-0.7-mRNA-1
+>CLUSTER:c890	p=c823	t=0.2	s=1
+s730	genemark-DS113427-processed-gene-0.36-mRNA-1
+>CLUSTER:c1020	p=c823	t=0.2	s=1
+s512	genemark-DS113380-processed-gene-0.37-mRNA-1
+>CLUSTER:c926	p=c823	t=0.2	s=1
+s95	genemark-DS113257-processed-gene-0.87-mRNA-1
+>CLUSTER:c1092	p=c823	t=0.2	s=1
+s291	augustus_masked-DS113392-processed-gene-0.17-mRNA-1
+>CLUSTER:c1403	p=c1161	t=0.3	s=5
+s46	augustus_masked-DS113332-processed-gene-0.20-mRNA-1
+s531	genemark-DS113525-processed-gene-0.32-mRNA-1
+s672	augustus_masked-DS113448-processed-gene-0.20-mRNA-1
+s717	augustus_masked-DS113367-processed-gene-0.0-mRNA-1
+s97	augustus_masked-DS114273-processed-gene-0.2-mRNA-1
+>CLUSTER:c1452	p=c1201	t=0.3	s=4
+s128	augustus_masked-DS114186-processed-gene-0.7-mRNA-1
+s310	augustus_masked-DS113709-processed-gene-0.2-mRNA-1
+s400	augustus_masked-DS113714-processed-gene-0.6-mRNA-1
+s784	genemark-DS113245-processed-gene-0.45-mRNA-1
+>CLUSTER:c1425	p=c1198	t=0.3	s=4
+s16	snap_masked-DS113434-processed-gene-0.69-mRNA-1
+s35	augustus_masked-DS113292-processed-gene-0.4-mRNA-1
+s569	augustus_masked-DS113437-processed-gene-0.6-mRNA-1
+s796	genemark-DS113337-processed-gene-0.31-mRNA-1
+>CLUSTER:c1383	p=c1161	t=0.3	s=4
+s219	genemark-DS113330-processed-gene-0.13-mRNA-1
+s242	augustus_masked-DS113316-processed-gene-0.8-mRNA-1
+s270	augustus_masked-DS113769-processed-gene-0.4-mRNA-1
+s720	augustus_masked-DS113478-processed-gene-0.5-mRNA-1
+>CLUSTER:c1550	p=c1182	t=0.3	s=4
+s124	genemark-DS113231-processed-gene-0.56-mRNA-1
+s325	augustus_masked-DS113219-processed-gene-0.52-mRNA-1
+s352	augustus_masked-DS113319-processed-gene-0.2-mRNA-1
+s578	augustus_masked-DS113329-processed-gene-0.4-mRNA-1
+>CLUSTER:c1521	p=c1175	t=0.3	s=3
+s476	augustus_masked-DS113694-processed-gene-0.0-mRNA-1
+s489	augustus_masked-DS113607-processed-gene-0.2-mRNA-1
+s666	genemark-DS113877-processed-gene-0.10-mRNA-1
+>CLUSTER:c1225	p=c1158	t=0.3	s=3
+s158	genemark-DS113796-processed-gene-0.32-mRNA-1
+s217	genemark-DS113281-processed-gene-0.43-mRNA-1
+s808	genemark-DS114481-processed-gene-0.11-mRNA-1
+>CLUSTER:c1520	p=c1175	t=0.3	s=3
+s156	augustus_masked-DS113294-processed-gene-0.16-mRNA-1
+s157	augustus_masked-DS113796-processed-gene-0.3-mRNA-1
+s282	augustus_masked-DS113238-processed-gene-1.15-mRNA-1
+>CLUSTER:c1227	p=c1145	t=0.3	s=3
+s450	snap_masked-DS113185-processed-gene-2.83-mRNA-1
+s770	augustus_masked-DS113240-processed-gene-0.20-mRNA-1
+s99	augustus_masked-DS114002-processed-gene-0.0-mRNA-1
+>CLUSTER:c1391	p=c1161	t=0.3	s=3
+s395	maker-DS114086-snap-gene-0.27-mRNA-1
+s573	maker-DS114221-snap-gene-0.19-mRNA-1
+s775	genemark-DS114330-processed-gene-0.11-mRNA-1
+>CLUSTER:c1599	p=c1170	t=0.3	s=3
+s111	augustus_masked-DS113331-processed-gene-0.13-mRNA-1
+s545	augustus_masked-DS113653-processed-gene-0.10-mRNA-1
+s616	genemark-DS113762-processed-gene-0.10-mRNA-1
+>CLUSTER:c1507	p=c1181	t=0.3	s=3
+s318	augustus_masked-DS113900-processed-gene-0.3-mRNA-1
+s565	augustus_masked-DS113958-processed-gene-0.5-mRNA-1
+s722	augustus_masked-DS113478-processed-gene-0.11-mRNA-1
+>CLUSTER:c1387	p=c1161	t=0.3	s=3
+s154	snap_masked-DS113720-processed-gene-0.37-mRNA-1
+s435	augustus_masked-DS113833-processed-gene-0.7-mRNA-1
+s461	maker-DS113243-snap-gene-0.138-mRNA-1
+>CLUSTER:c1493	p=c1106	t=0.3	s=2
+s132	snap_masked-DS113300-processed-gene-0.110-mRNA-1
+s705	genemark-DS113482-processed-gene-0.51-mRNA-1
+>CLUSTER:c1464	p=c1195	t=0.3	s=2
+s23	augustus_masked-DS113382-processed-gene-0.1-mRNA-1
+s41	genemark-DS113786-processed-gene-0.31-mRNA-1
+>CLUSTER:c1404	p=c1161	t=0.3	s=2
+s247	snap_masked-DS113200-processed-gene-1.153-mRNA-1
+s694	augustus_masked-DS113202-processed-gene-1.20-mRNA-1
+>CLUSTER:c1395	p=c1161	t=0.3	s=2
+s587	genemark-DS113388-processed-gene-0.35-mRNA-1
+s681	genemark-DS113282-processed-gene-0.76-mRNA-1
+>CLUSTER:c1448	p=c1183	t=0.3	s=2
+s433	augustus_masked-DS113288-processed-gene-0.28-mRNA-1
+s774	genemark-DS113668-processed-gene-0.14-mRNA-1
+>CLUSTER:c1424	p=c1198	t=0.3	s=2
+s470	genemark-DS113558-processed-gene-0.35-mRNA-1
+s790	augustus_masked-DS114168-processed-gene-0.3-mRNA-1
+>CLUSTER:c1389	p=c1161	t=0.3	s=2
+s757	genemark-DS113385-processed-gene-0.48-mRNA-1
+s814	augustus_masked-DS113782-processed-gene-0.1-mRNA-1
+>CLUSTER:c1213	p=c1190	t=0.3	s=2
+s482	augustus_masked-DS113846-processed-gene-0.9-mRNA-1
+s701	snap_masked-DS113296-processed-gene-0.94-mRNA-1
+>CLUSTER:c1474	p=c1199	t=0.3	s=2
+s205	augustus_masked-DS113224-processed-gene-0.4-mRNA-1
+s71	augustus_masked-DS113181-processed-gene-1.51-mRNA-1
+>CLUSTER:c1401	p=c1161	t=0.3	s=2
+s567	augustus_masked-DS113225-processed-gene-1.11-mRNA-1
+s633	genemark-DS113259-processed-gene-0.57-mRNA-1
+>CLUSTER:c1393	p=c1161	t=0.3	s=2
+s150	augustus_masked-DS113253-processed-gene-0.7-mRNA-1
+s5	genemark-DS113381-processed-gene-0.63-mRNA-1
+>CLUSTER:c1386	p=c1161	t=0.3	s=2
+s711	augustus_masked-DS113894-processed-gene-0.9-mRNA-1
+s769	snap_masked-DS113262-processed-gene-0.103-mRNA-1
+>CLUSTER:c1534	p=c1102	t=0.3	s=2
+s155	augustus_masked-DS113556-processed-gene-0.5-mRNA-1
+s732	genemark-DS113249-processed-gene-0.63-mRNA-1
+>CLUSTER:c1217	p=c1186	t=0.3	s=2
+s339	genemark-DS113384-processed-gene-0.41-mRNA-1
+s614	augustus_masked-DS113192-processed-gene-1.47-mRNA-1
+>CLUSTER:c1406	p=c1161	t=0.3	s=2
+s689	augustus_masked-DS113203-processed-gene-0.7-mRNA-1
+s692	genemark-DS113202-processed-gene-0.52-mRNA-1
+>CLUSTER:c1476	p=c1128	t=0.3	s=2
+s427	augustus_masked-DS114261-processed-gene-0.1-mRNA-1
+s557	augustus_masked-DS113497-processed-gene-0.3-mRNA-1
+>CLUSTER:c1402	p=c1161	t=0.3	s=2
+s330	genemark-DS113267-processed-gene-0.98-mRNA-1
+s566	genemark-DS113225-processed-gene-0.31-mRNA-1
+>CLUSTER:c1392	p=c1161	t=0.3	s=2
+s298	genemark-DS113356-processed-gene-0.35-mRNA-1
+s507	genemark-DS113616-processed-gene-0.11-mRNA-1
+>CLUSTER:c1209	p=c1194	t=0.3	s=2
+s706	augustus_masked-DS113816-processed-gene-0.1-mRNA-1
+s809	augustus_masked-DS113718-processed-gene-0.0-mRNA-1
+>CLUSTER:c1491	p=c1113	t=0.3	s=2
+s521	genemark-DS113188-processed-gene-1.22-mRNA-1
+s91	genemark-DS113257-processed-gene-0.82-mRNA-1
+>CLUSTER:c1203	p=c1115	t=0.3	s=2
+s467	genemark-DS113335-processed-gene-0.69-mRNA-1
+s735	augustus_masked-DS113187-processed-gene-2.14-mRNA-1
+>CLUSTER:c1399	p=c1161	t=0.3	s=2
+s424	snap_masked-DS113924-processed-gene-0.42-mRNA-1
+s516	genemark-DS113518-processed-gene-0.45-mRNA-1
+>CLUSTER:c1405	p=c1161	t=0.3	s=2
+s258	augustus_masked-DS113416-processed-gene-0.0-mRNA-1
+s498	augustus_masked-DS113487-processed-gene-0.9-mRNA-1
+>CLUSTER:c1572	p=c1200	t=0.3	s=2
+s179	maker-DS113456-snap-gene-0.56-mRNA-1
+s180	maker-DS113456-snap-gene-0.56-mRNA-2
+>CLUSTER:c1245	p=c1151	t=0.3	s=2
+s780	augustus_masked-DS113418-processed-gene-0.13-mRNA-1
+s9	genemark-DS113275-processed-gene-0.70-mRNA-1
+>CLUSTER:c1388	p=c1161	t=0.3	s=2
+s311	augustus_masked-DS114036-processed-gene-0.5-mRNA-1
+s487	genemark-DS113810-processed-gene-0.12-mRNA-1
+>CLUSTER:c1390	p=c1161	t=0.3	s=2
+s187	augustus_masked-DS113182-processed-gene-1.59-mRNA-1
+s188	genemark-DS113255-processed-gene-0.52-mRNA-1
+>CLUSTER:c1385	p=c1161	t=0.3	s=2
+s116	genemark-DS113911-processed-gene-0.13-mRNA-1
+s438	genemark-DS113252-processed-gene-0.73-mRNA-1
+>CLUSTER:c1398	p=c1161	t=0.3	s=2
+s227	augustus_masked-DS113536-processed-gene-0.2-mRNA-1
+s623	genemark-DS113406-processed-gene-0.35-mRNA-1
+>CLUSTER:c1496	p=c1146	t=0.3	s=2
+s283	genemark-DS113179-processed-gene-1.45-mRNA-1
+s319	augustus_masked-DS113900-processed-gene-0.6-mRNA-1
+>CLUSTER:c1400	p=c1161	t=0.3	s=2
+s296	genemark-DS114005-processed-gene-0.23-mRNA-1
+s554	augustus_masked-DS113494-processed-gene-0.2-mRNA-1
+>CLUSTER:c1384	p=c1161	t=0.3	s=2
+s264	genemark-DS113828-processed-gene-0.7-mRNA-1
+s281	genemark-DS113238-processed-gene-0.34-mRNA-1
+>CLUSTER:c1468	p=c1155	t=0.3	s=2
+s257	augustus_masked-DS113404-processed-gene-0.11-mRNA-1
+s541	augustus_masked-DS113201-processed-gene-1.32-mRNA-1
+>CLUSTER:c1397	p=c1161	t=0.3	s=2
+s203	augustus_masked-DS113371-processed-gene-0.11-mRNA-1
+s38	augustus_masked-DS113485-processed-gene-0.15-mRNA-1
+>CLUSTER:c1235	p=c1160	t=0.3	s=2
+s523	augustus_masked-DS113412-processed-gene-0.17-mRNA-1
+s57	snap_masked-DS113738-processed-gene-0.38-mRNA-1
+>CLUSTER:c1223	p=c1149	t=0.3	s=2
+s502	augustus_masked-DS114152-processed-gene-0.2-mRNA-1
+s592	genemark-DS113209-processed-gene-1.45-mRNA-1
+>CLUSTER:c1396	p=c1161	t=0.3	s=2
+s223	genemark-DS113807-processed-gene-0.28-mRNA-1
+s677	genemark-DS113276-processed-gene-0.53-mRNA-1
+>CLUSTER:c1454	p=c1187	t=0.3	s=2
+s481	augustus_masked-DS113846-processed-gene-0.5-mRNA-1
+s60	augustus_masked-DS113886-processed-gene-0.3-mRNA-1
+>CLUSTER:c1232	p=c1139	t=0.3	s=2
+s259	genemark-DS113416-processed-gene-0.60-mRNA-1
+s280	augustus_masked-DS113342-processed-gene-0.7-mRNA-1
+>CLUSTER:c1394	p=c1161	t=0.3	s=2
+s366	genemark-DS113402-processed-gene-0.26-mRNA-1
+s544	genemark-DS113341-processed-gene-0.72-mRNA-1
+>CLUSTER:c1495	p=c1146	t=0.3	s=2
+s142	genemark-DS113274-processed-gene-0.75-mRNA-1
+s178	snap_masked-DS113657-processed-gene-0.45-mRNA-1
+>CLUSTER:c1506	p=c1181	t=0.3	s=2
+s661	augustus_masked-DS113205-processed-gene-0.10-mRNA-1
+s794	augustus_masked-DS113343-processed-gene-0.5-mRNA-1
+>CLUSTER:c1435	p=c1173	t=0.3	s=1
+s144	augustus_masked-DS114048-processed-gene-0.6-mRNA-1
+>CLUSTER:c1375	p=c1161	t=0.3	s=1
+s813	augustus_masked-DS118263-processed-gene-0.0-mRNA-1
+>CLUSTER:c1473	p=c1199	t=0.3	s=1
+s425	genemark-DS113230-processed-gene-0.53-mRNA-1
+>CLUSTER:c1247	p=c1161	t=0.3	s=1
+s6	genemark-DS113552-processed-gene-0.11-mRNA-1
+>CLUSTER:c1556	p=c1200	t=0.3	s=1
+s552	genemark-DS114435-processed-gene-0.2-mRNA-1
+>CLUSTER:c1565	p=c1200	t=0.3	s=1
+s363	genemark-DS114138-processed-gene-0.5-mRNA-1
+>CLUSTER:c1231	p=c1139	t=0.3	s=1
+s483	genemark-DS115188-processed-gene-0.5-mRNA-1
+>CLUSTER:c1215	p=c1141	t=0.3	s=1
+s817	genemark-DS113305-processed-gene-0.45-mRNA-1
+>CLUSTER:c1438	p=c1173	t=0.3	s=1
+s408	genemark-DS114249-processed-gene-0.8-mRNA-1
+>CLUSTER:c1325	p=c1161	t=0.3	s=1
+s389	genemark-DS113317-processed-gene-0.37-mRNA-1
+>CLUSTER:c1571	p=c1200	t=0.3	s=1
+s100	augustus_masked-DS113251-processed-gene-0.23-mRNA-1
+>CLUSTER:c1269	p=c1161	t=0.3	s=1
+s429	augustus_masked-DS113237-processed-gene-0.2-mRNA-1
+>CLUSTER:c1310	p=c1161	t=0.3	s=1
+s431	genemark-DS113237-processed-gene-0.34-mRNA-1
+>CLUSTER:c1533	p=c1102	t=0.3	s=1
+s725	genemark-DS114744-processed-gene-0.3-mRNA-1
+>CLUSTER:c1367	p=c1161	t=0.3	s=1
+s174	genemark-DS113241-processed-gene-0.48-mRNA-1
+>CLUSTER:c1361	p=c1161	t=0.3	s=1
+s218	genemark-DS113281-processed-gene-0.95-mRNA-1
+>CLUSTER:c1318	p=c1161	t=0.3	s=1
+s300	genemark-DS113613-processed-gene-0.28-mRNA-1
+>CLUSTER:c1341	p=c1161	t=0.3	s=1
+s394	genemark-DS114427-processed-gene-0.9-mRNA-1
+>CLUSTER:c1522	p=c1193	t=0.3	s=1
+s804	genemark-DS114003-processed-gene-0.23-mRNA-1
+>CLUSTER:c1492	p=c1106	t=0.3	s=1
+s787	genemark-DS113273-processed-gene-0.72-mRNA-1
+>CLUSTER:c1340	p=c1161	t=0.3	s=1
+s329	genemark-DS113840-processed-gene-0.12-mRNA-1
+>CLUSTER:c1511	p=c1163	t=0.3	s=1
+s22	genemark-DS113677-processed-gene-0.34-mRNA-1
+>CLUSTER:c1239	p=c1110	t=0.3	s=1
+s360	augustus_masked-DS113286-processed-gene-0.10-mRNA-1
+>CLUSTER:c1416	p=c1191	t=0.3	s=1
+s350	augustus_masked-DS114090-processed-gene-0.4-mRNA-1
+>CLUSTER:c1509	p=c1137	t=0.3	s=1
+s755	augustus_masked-DS113420-processed-gene-0.2-mRNA-1
+>CLUSTER:c1286	p=c1161	t=0.3	s=1
+s792	genemark-DS113672-processed-gene-0.25-mRNA-1
+>CLUSTER:c1381	p=c1161	t=0.3	s=1
+s331	augustus_masked-DS113267-processed-gene-0.20-mRNA-1
+>CLUSTER:c1545	p=c1168	t=0.3	s=1
+s752	augustus_masked-DS113548-processed-gene-0.8-mRNA-1
+>CLUSTER:c1486	p=c1113	t=0.3	s=1
+s365	genemark-DS113402-processed-gene-0.19-mRNA-1
+>CLUSTER:c1238	p=c1110	t=0.3	s=1
+s750	augustus_masked-DS113396-processed-gene-0.0-mRNA-1
+>CLUSTER:c1472	p=c1199	t=0.3	s=1
+s702	augustus_masked-DS113229-processed-gene-1.5-mRNA-1
+>CLUSTER:c1344	p=c1161	t=0.3	s=1
+s649	genemark-DS113223-processed-gene-1.46-mRNA-1
+>CLUSTER:c1276	p=c1161	t=0.3	s=1
+s771	augustus_masked-DS113240-processed-gene-0.0-mRNA-1
+>CLUSTER:c1585	p=c1157	t=0.3	s=1
+s660	augustus_masked-DS113639-processed-gene-0.5-mRNA-1
+>CLUSTER:c1562	p=c1200	t=0.3	s=1
+s773	genemark-DS113845-processed-gene-0.27-mRNA-1
+>CLUSTER:c1440	p=c1173	t=0.3	s=1
+s293	augustus_masked-DS113401-processed-gene-0.4-mRNA-1
+>CLUSTER:c1300	p=c1161	t=0.3	s=1
+s812	augustus_masked-DS113479-processed-gene-0.4-mRNA-1
+>CLUSTER:c1261	p=c1161	t=0.3	s=1
+s513	genemark-DS113489-processed-gene-0.37-mRNA-1
+>CLUSTER:c1335	p=c1161	t=0.3	s=1
+s600	genemark-DS113235-processed-gene-1.25-mRNA-1
+>CLUSTER:c1254	p=c1161	t=0.3	s=1
+s413	augustus_masked-DS113222-processed-gene-1.8-mRNA-1
+>CLUSTER:c1298	p=c1161	t=0.3	s=1
+s215	genemark-DS113281-processed-gene-0.50-mRNA-1
+>CLUSTER:c1277	p=c1161	t=0.3	s=1
+s380	augustus_masked-DS113177-processed-gene-2.13-mRNA-1
+>CLUSTER:c1494	p=c1146	t=0.3	s=1
+s519	genemark-DS113608-processed-gene-0.39-mRNA-1
+>CLUSTER:c1417	p=c1191	t=0.3	s=1
+s680	augustus_masked-DS113628-processed-gene-0.6-mRNA-1
+>CLUSTER:c1216	p=c1186	t=0.3	s=1
+s761	augustus_masked-DS113853-processed-gene-0.0-mRNA-1
+>CLUSTER:c1366	p=c1161	t=0.3	s=1
+s53	augustus_masked-DS113493-processed-gene-0.7-mRNA-1
+>CLUSTER:c1328	p=c1161	t=0.3	s=1
+s244	augustus_masked-DS113308-processed-gene-0.7-mRNA-1
+>CLUSTER:c1499	p=c1103	t=0.3	s=1
+s378	augustus_masked-DS113626-processed-gene-0.2-mRNA-1
+>CLUSTER:c1451	p=c1201	t=0.3	s=1
+s254	augustus_masked-DS114558-processed-gene-0.0-mRNA-1
+>CLUSTER:c1436	p=c1173	t=0.3	s=1
+s121	augustus_masked-DS113236-processed-gene-0.9-mRNA-1
+>CLUSTER:c1485	p=c1113	t=0.3	s=1
+s341	genemark-DS113705-processed-gene-0.13-mRNA-1
+>CLUSTER:c1313	p=c1161	t=0.3	s=1
+s496	genemark-DS113502-processed-gene-0.30-mRNA-1
+>CLUSTER:c1373	p=c1161	t=0.3	s=1
+s164	genemark-DS113183-processed-gene-2.39-mRNA-1
+>CLUSTER:c1480	p=c1113	t=0.3	s=1
+s803	augustus_masked-DS114003-processed-gene-0.2-mRNA-1
+>CLUSTER:c1512	p=c1163	t=0.3	s=1
+s4	genemark-DS113381-processed-gene-0.35-mRNA-1
+>CLUSTER:c1553	p=c1200	t=0.3	s=1
+s101	augustus_masked-DS113269-processed-gene-0.17-mRNA-1
+>CLUSTER:c1594	p=c1157	t=0.3	s=1
+s307	genemark-DS113327-processed-gene-0.52-mRNA-1
+>CLUSTER:c1563	p=c1200	t=0.3	s=1
+s767	genemark-DS113244-processed-gene-0.44-mRNA-1
+>CLUSTER:c1356	p=c1161	t=0.3	s=1
+s451	augustus_masked-DS113185-processed-gene-3.16-mRNA-1
+>CLUSTER:c1546	p=c1168	t=0.3	s=1
+s739	genemark-DS113484-processed-gene-0.19-mRNA-1
+>CLUSTER:c1264	p=c1161	t=0.3	s=1
+s375	genemark-DS113233-processed-gene-1.51-mRNA-1
+>CLUSTER:c1471	p=c1199	t=0.3	s=1
+s107	augustus_masked-DS113197-processed-gene-1.20-mRNA-1
+>CLUSTER:c1449	p=c1121	t=0.3	s=1
+s815	genemark-DS113369-processed-gene-0.44-mRNA-1
+>CLUSTER:c1322	p=c1161	t=0.3	s=1
+s560	augustus_masked-DS113264-processed-gene-0.29-mRNA-1
+>CLUSTER:c1292	p=c1161	t=0.3	s=1
+s585	genemark-DS113724-processed-gene-0.17-mRNA-1
+>CLUSTER:c1299	p=c1161	t=0.3	s=1
+s707	genemark-DS113898-processed-gene-0.16-mRNA-1
+>CLUSTER:c1287	p=c1161	t=0.3	s=1
+s93	augustus_masked-DS113257-processed-gene-0.37-mRNA-1
+>CLUSTER:c1501	p=c1103	t=0.3	s=1
+s285	augustus_masked-DS113179-processed-gene-2.1-mRNA-1
+>CLUSTER:c1488	p=c1113	t=0.3	s=1
+s255	genemark-DS113599-processed-gene-0.33-mRNA-1
+>CLUSTER:c1214	p=c1141	t=0.3	s=1
+s484	genemark-DS113643-processed-gene-0.20-mRNA-1
+>CLUSTER:c1270	p=c1161	t=0.3	s=1
+s414	augustus_masked-DS113222-processed-gene-1.24-mRNA-1
+>CLUSTER:c1479	p=c1113	t=0.3	s=1
+s416	augustus_masked-DS113234-processed-gene-0.0-mRNA-1
+>CLUSTER:c1326	p=c1161	t=0.3	s=1
+s535	snap_masked-DS113355-processed-gene-0.91-mRNA-1
+>CLUSTER:c1251	p=c1161	t=0.3	s=1
+s340	genemark-DS113771-processed-gene-0.29-mRNA-1
+>CLUSTER:c1596	p=c1123	t=0.3	s=1
+s338	augustus_masked-DS113364-processed-gene-0.8-mRNA-1
+>CLUSTER:c1363	p=c1161	t=0.3	s=1
+s802	genemark-DS115094-processed-gene-0.3-mRNA-1
+>CLUSTER:c1336	p=c1161	t=0.3	s=1
+s48	genemark-DS113510-processed-gene-0.49-mRNA-1
+>CLUSTER:c1591	p=c1157	t=0.3	s=1
+s682	genemark-DS113617-processed-gene-0.44-mRNA-1
+>CLUSTER:c1312	p=c1161	t=0.3	s=1
+s52	genemark-DS114226-processed-gene-0.10-mRNA-1
+>CLUSTER:c1469	p=c1199	t=0.3	s=1
+s801	augustus_masked-DS113693-processed-gene-0.0-mRNA-1
+>CLUSTER:c1380	p=c1161	t=0.3	s=1
+s779	genemark-DS113418-processed-gene-0.53-mRNA-1
+>CLUSTER:c1462	p=c1195	t=0.3	s=1
+s32	augustus_masked-DS113348-processed-gene-0.16-mRNA-1
+>CLUSTER:c1333	p=c1161	t=0.3	s=1
+s520	genemark-DS113188-processed-gene-1.21-mRNA-1
+>CLUSTER:c1349	p=c1161	t=0.3	s=1
+s15	genemark-DS113606-processed-gene-0.47-mRNA-1
+>CLUSTER:c1539	p=c1133	t=0.3	s=1
+s379	augustus_masked-DS113177-processed-gene-1.46-mRNA-1
+>CLUSTER:c1382	p=c1161	t=0.3	s=1
+s568	augustus_masked-DS113225-processed-gene-1.21-mRNA-1
+>CLUSTER:c1329	p=c1161	t=0.3	s=1
+s530	augustus_masked-DS113214-processed-gene-1.65-mRNA-1
+>CLUSTER:c1429	p=c1173	t=0.3	s=1
+s407	augustus_masked-DS114249-processed-gene-0.0-mRNA-1
+>CLUSTER:c1532	p=c1102	t=0.3	s=1
+s635	augustus_masked-DS113259-processed-gene-0.35-mRNA-1
+>CLUSTER:c1583	p=c1157	t=0.3	s=1
+s47	genemark-DS114178-processed-gene-0.13-mRNA-1
+>CLUSTER:c1262	p=c1161	t=0.3	s=1
+s485	genemark-DS113643-processed-gene-0.33-mRNA-1
+>CLUSTER:c1210	p=c1190	t=0.3	s=1
+s688	augustus_masked-DS113203-processed-gene-0.8-mRNA-1
+>CLUSTER:c1257	p=c1161	t=0.3	s=1
+s1	genemark-DS113787-processed-gene-0.29-mRNA-1
+>CLUSTER:c1376	p=c1161	t=0.3	s=1
+s109	genemark-DS113563-processed-gene-0.35-mRNA-1
+>CLUSTER:c1459	p=c1177	t=0.3	s=1
+s335	augustus_masked-DS113254-processed-gene-0.20-mRNA-1
+>CLUSTER:c1285	p=c1161	t=0.3	s=1
+s737	maker-DS114322-snap-gene-0.17-mRNA-1
+>CLUSTER:c1524	p=c1165	t=0.3	s=1
+s64	genemark-DS113323-processed-gene-0.49-mRNA-1
+>CLUSTER:c1513	p=c1163	t=0.3	s=1
+s636	augustus_masked-DS113259-processed-gene-0.19-mRNA-1
+>CLUSTER:c1259	p=c1161	t=0.3	s=1
+s127	augustus_masked-DS113231-processed-gene-1.17-mRNA-1
+>CLUSTER:c1342	p=c1161	t=0.3	s=1
+s529	augustus_masked-DS113214-processed-gene-0.10-mRNA-1
+>CLUSTER:c1502	p=c1153	t=0.3	s=1
+s228	augustus_masked-DS113496-processed-gene-0.6-mRNA-1
+>CLUSTER:c1557	p=c1200	t=0.3	s=1
+s89	augustus_masked-DS113325-processed-gene-0.3-mRNA-1
+>CLUSTER:c1267	p=c1161	t=0.3	s=1
+s263	genemark-DS113304-processed-gene-0.44-mRNA-1
+>CLUSTER:c1547	p=c1107	t=0.3	s=1
+s782	genemark-DS114483-processed-gene-0.5-mRNA-1
+>CLUSTER:c1411	p=c1179	t=0.3	s=1
+s785	genemark-DS113208-processed-gene-1.26-mRNA-1
+>CLUSTER:c1370	p=c1161	t=0.3	s=1
+s598	snap_masked-DS113235-processed-gene-0.61-mRNA-1
+>CLUSTER:c1296	p=c1161	t=0.3	s=1
+s309	genemark-DS113232-processed-gene-1.25-mRNA-1
+>CLUSTER:c1284	p=c1161	t=0.3	s=1
+s212	genemark-DS113184-processed-gene-3.58-mRNA-1
+>CLUSTER:c1316	p=c1161	t=0.3	s=1
+s185	genemark-DS113333-processed-gene-0.53-mRNA-1
+>CLUSTER:c1220	p=c1172	t=0.3	s=1
+s622	snap_masked-DS114123-processed-gene-0.20-mRNA-1
+>CLUSTER:c1490	p=c1113	t=0.3	s=1
+s687	genemark-DS113394-processed-gene-0.42-mRNA-1
+>CLUSTER:c1482	p=c1113	t=0.3	s=1
+s96	genemark-DS114214-processed-gene-0.11-mRNA-1
+>CLUSTER:c1432	p=c1173	t=0.3	s=1
+s744	snap_masked-DS113817-processed-gene-0.30-mRNA-1
+>CLUSTER:c1309	p=c1161	t=0.3	s=1
+s604	genemark-DS113178-processed-gene-1.36-mRNA-1
+>CLUSTER:c1236	p=c1171	t=0.3	s=1
+s337	augustus_masked-DS113364-processed-gene-0.1-mRNA-1
+>CLUSTER:c1252	p=c1161	t=0.3	s=1
+s816	genemark-DS113661-processed-gene-0.25-mRNA-1
+>CLUSTER:c1320	p=c1161	t=0.3	s=1
+s403	augustus_masked-DS113630-processed-gene-0.4-mRNA-1
+>CLUSTER:c1246	p=c1161	t=0.3	s=1
+s704	genemark-DS113588-processed-gene-0.26-mRNA-1
+>CLUSTER:c1487	p=c1113	t=0.3	s=1
+s234	augustus_masked-DS113678-processed-gene-0.1-mRNA-1
+>CLUSTER:c1555	p=c1200	t=0.3	s=1
+s261	genemark-DS113190-processed-gene-1.30-mRNA-1
+>CLUSTER:c1202	p=c1115	t=0.3	s=1
+s575	genemark-DS113444-processed-gene-0.40-mRNA-1
+>CLUSTER:c1323	p=c1161	t=0.3	s=1
+s260	genemark-DS113985-processed-gene-0.10-mRNA-1
+>CLUSTER:c1359	p=c1161	t=0.3	s=1
+s724	maker-DS113477-augustus-gene-0.59-mRNA-1
+>CLUSTER:c1421	p=c1198	t=0.3	s=1
+s202	augustus_masked-DS113483-processed-gene-0.6-mRNA-1
+>CLUSTER:c1597	p=c1123	t=0.3	s=1
+s716	augustus_masked-DS113367-processed-gene-0.8-mRNA-1
+>CLUSTER:c1250	p=c1161	t=0.3	s=1
+s66	augustus_masked-DS113656-processed-gene-0.7-mRNA-1
+>CLUSTER:c1290	p=c1161	t=0.3	s=1
+s320	genemark-DS113366-processed-gene-0.19-mRNA-1
+>CLUSTER:c1564	p=c1200	t=0.3	s=1
+s303	augustus_masked-DS113517-processed-gene-0.7-mRNA-1
+>CLUSTER:c1218	p=c1135	t=0.3	s=1
+s669	genemark-DS113586-processed-gene-0.48-mRNA-1
+>CLUSTER:c1226	p=c1145	t=0.3	s=1
+s145	augustus_masked-DS113532-processed-gene-0.3-mRNA-1
+>CLUSTER:c1377	p=c1161	t=0.3	s=1
+s540	maker-DS113201-augustus-gene-1.173-mRNA-1
+>CLUSTER:c1523	p=c1193	t=0.3	s=1
+s786	genemark-DS113273-processed-gene-0.98-mRNA-1
+>CLUSTER:c1573	p=c1138	t=0.3	s=1
+s589	genemark-DS113344-processed-gene-0.48-mRNA-1
+>CLUSTER:c1327	p=c1161	t=0.3	s=1
+s117	snap_masked-DS114253-processed-gene-0.21-mRNA-1
+>CLUSTER:c1574	p=c1138	t=0.3	s=1
+s818	augustus_masked-DS113758-processed-gene-0.2-mRNA-1
+>CLUSTER:c1500	p=c1103	t=0.3	s=1
+s253	augustus_masked-DS113361-processed-gene-0.8-mRNA-1
+>CLUSTER:c1431	p=c1173	t=0.3	s=1
+s55	augustus_masked-DS113527-processed-gene-0.4-mRNA-1
+>CLUSTER:c1410	p=c1179	t=0.3	s=1
+s747	snap_masked-DS113210-processed-gene-1.98-mRNA-1
+>CLUSTER:c1204	p=c1126	t=0.3	s=1
+s409	augustus_masked-DS113530-processed-gene-0.2-mRNA-1
+>CLUSTER:c1548	p=c1107	t=0.3	s=1
+s819	genemark-DS113462-processed-gene-0.64-mRNA-1
+>CLUSTER:c1330	p=c1161	t=0.3	s=1
+s77	maker-DS113785-snap-gene-0.48-mRNA-1
+>CLUSTER:c1510	p=c1163	t=0.3	s=1
+s25	augustus_masked-DS115149-processed-gene-0.0-mRNA-1
+>CLUSTER:c1297	p=c1161	t=0.3	s=1
+s662	augustus_masked-DS113205-processed-gene-0.18-mRNA-1
+>CLUSTER:c1301	p=c1161	t=0.3	s=1
+s135	genemark-DS114257-processed-gene-0.11-mRNA-1
+>CLUSTER:c1275	p=c1161	t=0.3	s=1
+s332	genemark-DS113704-processed-gene-0.12-mRNA-1
+>CLUSTER:c1437	p=c1173	t=0.3	s=1
+s683	augustus_masked-DS115055-processed-gene-0.0-mRNA-1
+>CLUSTER:c1237	p=c1171	t=0.3	s=1
+s678	augustus_masked-DS113276-processed-gene-0.16-mRNA-1
+>CLUSTER:c1334	p=c1161	t=0.3	s=1
+s524	augustus_masked-DS113412-processed-gene-0.19-mRNA-1
+>CLUSTER:c1351	p=c1161	t=0.3	s=1
+s527	augustus_masked-DS113214-processed-gene-0.2-mRNA-1
+>CLUSTER:c1423	p=c1198	t=0.3	s=1
+s768	augustus_masked-DS113244-processed-gene-0.17-mRNA-1
+>CLUSTER:c1519	p=c1189	t=0.3	s=1
+s619	genemark-DS113495-processed-gene-0.40-mRNA-1
+>CLUSTER:c1407	p=c1111	t=0.3	s=1
+s397	augustus_masked-DS114169-processed-gene-0.1-mRNA-1
+>CLUSTER:c1584	p=c1157	t=0.3	s=1
+s204	augustus_masked-DS115293-processed-gene-0.0-mRNA-1
+>CLUSTER:c1315	p=c1161	t=0.3	s=1
+s740	genemark-DS113484-processed-gene-0.16-mRNA-1
+>CLUSTER:c1274	p=c1161	t=0.3	s=1
+s657	genemark-DS113191-processed-gene-2.83-mRNA-1
+>CLUSTER:c1463	p=c1195	t=0.3	s=1
+s125	snap_masked-DS113231-processed-gene-1.87-mRNA-1
+>CLUSTER:c1443	p=c1173	t=0.3	s=1
+s783	genemark-DS114232-processed-gene-0.0-mRNA-1
+>CLUSTER:c1558	p=c1200	t=0.3	s=1
+s161	genemark-DS113585-processed-gene-0.13-mRNA-1
+>CLUSTER:c1374	p=c1161	t=0.3	s=1
+s246	augustus_masked-DS113200-processed-gene-0.5-mRNA-1
+>CLUSTER:c1358	p=c1161	t=0.3	s=1
+s607	genemark-DS113178-processed-gene-4.37-mRNA-1
+>CLUSTER:c1422	p=c1198	t=0.3	s=1
+s703	genemark-DS113229-processed-gene-1.70-mRNA-1
+>CLUSTER:c1343	p=c1161	t=0.3	s=1
+s713	augustus_masked-DS113186-processed-gene-1.43-mRNA-1
+>CLUSTER:c1498	p=c1130	t=0.3	s=1
+s50	augustus_masked-DS113650-processed-gene-0.1-mRNA-1
+>CLUSTER:c1352	p=c1161	t=0.3	s=1
+s327	genemark-DS113219-processed-gene-1.60-mRNA-1
+>CLUSTER:c1590	p=c1157	t=0.3	s=1
+s369	genemark-DS113770-processed-gene-0.34-mRNA-1
+>CLUSTER:c1481	p=c1113	t=0.3	s=1
+s129	genemark-DS113449-processed-gene-0.37-mRNA-1
+>CLUSTER:c1526	p=c1148	t=0.3	s=1
+s497	augustus_masked-DS113463-processed-gene-0.5-mRNA-1
+>CLUSTER:c1460	p=c1150	t=0.3	s=1
+s90	genemark-DS113325-processed-gene-0.72-mRNA-1
+>CLUSTER:c1478	p=c1147	t=0.3	s=1
+s549	augustus_masked-DS113370-processed-gene-0.13-mRNA-1
+>CLUSTER:c1221	p=c1172	t=0.3	s=1
+s297	genemark-DS113865-processed-gene-0.12-mRNA-1
+>CLUSTER:c1413	p=c1127	t=0.3	s=1
+s364	augustus_masked-DS113399-processed-gene-0.18-mRNA-1
+>CLUSTER:c1559	p=c1200	t=0.3	s=1
+s271	genemark-DS113769-processed-gene-0.32-mRNA-1
+>CLUSTER:c1293	p=c1161	t=0.3	s=1
+s88	genemark-DS113325-processed-gene-0.34-mRNA-1
+>CLUSTER:c1289	p=c1161	t=0.3	s=1
+s72	augustus_masked-DS113181-processed-gene-1.47-mRNA-1
+>CLUSTER:c1321	p=c1161	t=0.3	s=1
+s62	genemark-DS113791-processed-gene-0.34-mRNA-1
+>CLUSTER:c1255	p=c1161	t=0.3	s=1
+s10	genemark-DS113275-processed-gene-0.83-mRNA-1
+>CLUSTER:c1575	p=c1157	t=0.3	s=1
+s27	genemark-DS113348-processed-gene-0.30-mRNA-1
+>CLUSTER:c1206	p=c1109	t=0.3	s=1
+s262	augustus_masked-DS113619-processed-gene-0.2-mRNA-1
+>CLUSTER:c1457	p=c1159	t=0.3	s=1
+s347	genemark-DS113199-processed-gene-1.9-mRNA-1
+>CLUSTER:c1439	p=c1173	t=0.3	s=1
+s78	genemark-DS113743-processed-gene-0.7-mRNA-1
+>CLUSTER:c1260	p=c1161	t=0.3	s=1
+s382	genemark-DS113177-processed-gene-4.103-mRNA-1
+>CLUSTER:c1303	p=c1161	t=0.3	s=1
+s665	augustus_masked-DS113757-processed-gene-0.7-mRNA-1
+>CLUSTER:c1561	p=c1200	t=0.3	s=1
+s376	augustus_masked-DS113960-processed-gene-0.3-mRNA-1
+>CLUSTER:c1240	p=c1164	t=0.3	s=1
+s312	augustus_masked-DS113215-processed-gene-1.5-mRNA-1
+>CLUSTER:c1551	p=c1200	t=0.3	s=1
+s599	genemark-DS113235-processed-gene-1.29-mRNA-1
+>CLUSTER:c1347	p=c1161	t=0.3	s=1
+s377	genemark-DS113626-processed-gene-0.13-mRNA-1
+>CLUSTER:c1505	p=c1122	t=0.3	s=1
+s359	genemark-DS114256-processed-gene-0.20-mRNA-1
+>CLUSTER:c1379	p=c1161	t=0.3	s=1
+s222	genemark-DS114130-processed-gene-0.3-mRNA-1
+>CLUSTER:c1268	p=c1161	t=0.3	s=1
+s452	augustus_masked-DS113185-processed-gene-3.14-mRNA-1
+>CLUSTER:c1280	p=c1161	t=0.3	s=1
+s317	augustus_masked-DS113260-processed-gene-0.4-mRNA-1
+>CLUSTER:c1308	p=c1161	t=0.3	s=1
+s654	genemark-DS113538-processed-gene-0.31-mRNA-1
+>CLUSTER:c1489	p=c1113	t=0.3	s=1
+s456	genemark-DS113283-processed-gene-0.76-mRNA-1
+>CLUSTER:c1593	p=c1157	t=0.3	s=1
+s475	augustus_masked-DS114127-processed-gene-0.3-mRNA-1
+>CLUSTER:c1541	p=c1168	t=0.3	s=1
+s120	augustus_masked-DS113236-processed-gene-0.0-mRNA-1
+>CLUSTER:c1350	p=c1161	t=0.3	s=1
+s765	genemark-DS113195-processed-gene-1.66-mRNA-1
+>CLUSTER:c1542	p=c1168	t=0.3	s=1
+s250	genemark-DS114543-processed-gene-0.6-mRNA-1
+>CLUSTER:c1430	p=c1173	t=0.3	s=1
+s198	augustus_masked-DS113409-processed-gene-0.2-mRNA-1
+>CLUSTER:c1365	p=c1161	t=0.3	s=1
+s368	genemark-DS113475-processed-gene-0.34-mRNA-1
+>CLUSTER:c1283	p=c1161	t=0.3	s=1
+s245	maker-DS113200-augustus-gene-0.54-mRNA-1
+>CLUSTER:c1538	p=c1134	t=0.3	s=1
+s20	augustus_masked-DS113677-processed-gene-0.9-mRNA-1
+>CLUSTER:c1444	p=c1173	t=0.3	s=1
+s87	augustus_masked-DS113325-processed-gene-0.9-mRNA-1
+>CLUSTER:c1566	p=c1200	t=0.3	s=1
+s479	augustus_masked-DS113725-processed-gene-0.9-mRNA-1
+>CLUSTER:c1234	p=c1160	t=0.3	s=1
+s235	genemark-DS114207-processed-gene-0.9-mRNA-1
+>CLUSTER:c1497	p=c1130	t=0.3	s=1
+s68	augustus_masked-DS113258-processed-gene-0.7-mRNA-1
+>CLUSTER:c1456	p=c1159	t=0.3	s=1
+s103	genemark-DS113269-processed-gene-0.77-mRNA-1
+>CLUSTER:c1271	p=c1161	t=0.3	s=1
+s175	genemark-DS113241-processed-gene-0.83-mRNA-1
+>CLUSTER:c1514	p=c1163	t=0.3	s=1
+s148	genemark-DS113531-processed-gene-0.14-mRNA-1
+>CLUSTER:c1408	p=c1111	t=0.3	s=1
+s624	snap_masked-DS114217-processed-gene-0.13-mRNA-1
+>CLUSTER:c1434	p=c1173	t=0.3	s=1
+s273	maker-DS114172-snap-gene-0.20-mRNA-1
+>CLUSTER:c1579	p=c1157	t=0.3	s=1
+s388	genemark-DS113905-processed-gene-0.20-mRNA-1
+>CLUSTER:c1314	p=c1161	t=0.3	s=1
+s577	genemark-DS113277-processed-gene-0.66-mRNA-1
+>CLUSTER:c1588	p=c1157	t=0.3	s=1
+s412	genemark-DS113222-processed-gene-1.45-mRNA-1
+>CLUSTER:c1368	p=c1161	t=0.3	s=1
+s714	genemark-DS113186-processed-gene-3.21-mRNA-1
+>CLUSTER:c1205	p=c1126	t=0.3	s=1
+s210	genemark-DS113184-processed-gene-1.29-mRNA-1
+>CLUSTER:c1581	p=c1157	t=0.3	s=1
+s517	genemark-DS113368-processed-gene-0.39-mRNA-1
+>CLUSTER:c1258	p=c1161	t=0.3	s=1
+s160	genemark-DS114159-processed-gene-0.6-mRNA-1
+>CLUSTER:c1589	p=c1157	t=0.3	s=1
+s745	augustus_masked-DS115754-processed-gene-0.3-mRNA-1
+>CLUSTER:c1302	p=c1161	t=0.3	s=1
+s391	genemark-DS113692-processed-gene-0.13-mRNA-1
+>CLUSTER:c1578	p=c1157	t=0.3	s=1
+s696	genemark-DS114498-processed-gene-0.11-mRNA-1
+>CLUSTER:c1353	p=c1161	t=0.3	s=1
+s664	snap_masked-DS113757-processed-gene-0.40-mRNA-1
+>CLUSTER:c1337	p=c1161	t=0.3	s=1
+s42	genemark-DS113947-processed-gene-0.20-mRNA-1
+>CLUSTER:c1529	p=c1102	t=0.3	s=1
+s668	genemark-DS113731-processed-gene-0.21-mRNA-1
+>CLUSTER:c1273	p=c1161	t=0.3	s=1
+s356	genemark-DS113206-processed-gene-1.78-mRNA-1
+>CLUSTER:c1552	p=c1200	t=0.3	s=1
+s466	augustus_masked-DS113943-processed-gene-0.0-mRNA-1
+>CLUSTER:c1461	p=c1150	t=0.3	s=1
+s63	augustus_masked-DS114881-processed-gene-0.0-mRNA-1
+>CLUSTER:c1357	p=c1161	t=0.3	s=1
+s13	augustus_masked-DS113994-processed-gene-0.0-mRNA-1
+>CLUSTER:c1470	p=c1199	t=0.3	s=1
+s17	augustus_masked-DS113570-processed-gene-0.3-mRNA-1
+>CLUSTER:c1362	p=c1161	t=0.3	s=1
+s225	genemark-DS114145-processed-gene-0.8-mRNA-1
+>CLUSTER:c1222	p=c1149	t=0.3	s=1
+s334	augustus_masked-DS113814-processed-gene-0.0-mRNA-1
+>CLUSTER:c1475	p=c1128	t=0.3	s=1
+s417	genemark-DS113228-processed-gene-1.23-mRNA-1
+>CLUSTER:c1295	p=c1161	t=0.3	s=1
+s548	augustus_masked-DS113212-processed-gene-1.15-mRNA-1
+>CLUSTER:c1582	p=c1157	t=0.3	s=1
+s454	augustus_masked-DS113625-processed-gene-0.4-mRNA-1
+>CLUSTER:c1458	p=c1177	t=0.3	s=1
+s580	genemark-DS113329-processed-gene-0.61-mRNA-1
+>CLUSTER:c1348	p=c1161	t=0.3	s=1
+s478	genemark-DS115407-processed-gene-0.1-mRNA-1
+>CLUSTER:c1228	p=c1129	t=0.3	s=1
+s36	augustus_masked-DS113292-processed-gene-0.0-mRNA-1
+>CLUSTER:c1455	p=c1159	t=0.3	s=1
+s11	augustus_masked-DS113275-processed-gene-0.33-mRNA-1
+>CLUSTER:c1244	p=c1151	t=0.3	s=1
+s486	augustus_masked-DS113643-processed-gene-0.9-mRNA-1
+>CLUSTER:c1531	p=c1102	t=0.3	s=1
+s751	augustus_masked-DS113548-processed-gene-0.3-mRNA-1
+>CLUSTER:c1265	p=c1161	t=0.3	s=1
+s648	augustus_masked-DS113522-processed-gene-0.14-mRNA-1
+>CLUSTER:c1371	p=c1161	t=0.3	s=1
+s272	genemark-DS113216-processed-gene-0.46-mRNA-1
+>CLUSTER:c1567	p=c1200	t=0.3	s=1
+s462	genemark-DS113383-processed-gene-0.55-mRNA-1
+>CLUSTER:c1420	p=c1198	t=0.3	s=1
+s594	augustus_masked-DS113374-processed-gene-0.11-mRNA-1
+>CLUSTER:c1441	p=c1173	t=0.3	s=1
+s590	augustus_masked-DS113344-processed-gene-0.7-mRNA-1
+>CLUSTER:c1549	p=c1182	t=0.3	s=1
+s348	augustus_masked-DS113199-processed-gene-1.82-mRNA-1
+>CLUSTER:c1412	p=c1127	t=0.3	s=1
+s571	genemark-DS113359-processed-gene-0.63-mRNA-1
+>CLUSTER:c1331	p=c1161	t=0.3	s=1
+s746	genemark-DS113210-processed-gene-0.18-mRNA-1
+>CLUSTER:c1445	p=c1188	t=0.3	s=1
+s547	genemark-DS113212-processed-gene-1.48-mRNA-1
+>CLUSTER:c1544	p=c1168	t=0.3	s=1
+s495	augustus_masked-DS114718-processed-gene-0.2-mRNA-1
+>CLUSTER:c1243	p=c1151	t=0.3	s=1
+s269	augustus_masked-DS113769-processed-gene-0.1-mRNA-1
+>CLUSTER:c1272	p=c1161	t=0.3	s=1
+s798	genemark-DS113465-processed-gene-0.20-mRNA-1
+>CLUSTER:c1364	p=c1161	t=0.3	s=1
+s292	genemark-DS113287-processed-gene-0.26-mRNA-1
+>CLUSTER:c1369	p=c1161	t=0.3	s=1
+s316	genemark-DS113526-processed-gene-0.40-mRNA-1
+>CLUSTER:c1525	p=c1165	t=0.3	s=1
+s102	genemark-DS113269-processed-gene-0.91-mRNA-1
+>CLUSTER:c1345	p=c1161	t=0.3	s=1
+s576	genemark-DS113676-processed-gene-0.8-mRNA-1
+>CLUSTER:c1253	p=c1161	t=0.3	s=1
+s572	augustus_masked-DS113359-processed-gene-0.10-mRNA-1
+>CLUSTER:c1568	p=c1200	t=0.3	s=1
+s490	augustus_masked-DS113646-processed-gene-0.13-mRNA-1
+>CLUSTER:c1418	p=c1198	t=0.3	s=1
+s693	augustus_masked-DS113202-processed-gene-0.9-mRNA-1
+>CLUSTER:c1306	p=c1161	t=0.3	s=1
+s342	augustus_masked-DS113705-processed-gene-0.6-mRNA-1
+>CLUSTER:c1266	p=c1161	t=0.3	s=1
+s251	genemark-DS113838-processed-gene-0.19-mRNA-1
+>CLUSTER:c1208	p=c1194	t=0.3	s=1
+s136	genemark-DS113298-processed-gene-0.69-mRNA-1
+>CLUSTER:c1409	p=c1111	t=0.3	s=1
+s551	augustus_masked-DS114454-processed-gene-0.3-mRNA-1
+>CLUSTER:c1450	p=c1121	t=0.3	s=1
+s110	genemark-DS113563-processed-gene-0.38-mRNA-1
+>CLUSTER:c1211	p=c1190	t=0.3	s=1
+s685	augustus_masked-DS113310-processed-gene-0.20-mRNA-1
+>CLUSTER:c1577	p=c1157	t=0.3	s=1
+s795	augustus_masked-DS113343-processed-gene-0.18-mRNA-1
+>CLUSTER:c1442	p=c1173	t=0.3	s=1
+s459	augustus_masked-DS114185-processed-gene-0.8-mRNA-1
+>CLUSTER:c1586	p=c1157	t=0.3	s=1
+s453	genemark-DS113625-processed-gene-0.23-mRNA-1
+>CLUSTER:c1530	p=c1102	t=0.3	s=1
+s602	genemark-DS114268-processed-gene-0.0-mRNA-1
+>CLUSTER:c1229	p=c1129	t=0.3	s=1
+s123	augustus_masked-DS114092-processed-gene-0.1-mRNA-1
+>CLUSTER:c1233	p=c1160	t=0.3	s=1
+s708	snap_masked-DS113514-processed-gene-0.58-mRNA-1
+>CLUSTER:c1278	p=c1161	t=0.3	s=1
+s171	augustus_masked-DS113376-processed-gene-0.4-mRNA-1
+>CLUSTER:c1305	p=c1161	t=0.3	s=1
+s791	augustus_masked-DS114168-processed-gene-0.5-mRNA-1
+>CLUSTER:c1554	p=c1200	t=0.3	s=1
+s562	genemark-DS114098-processed-gene-0.8-mRNA-1
+>CLUSTER:c1338	p=c1161	t=0.3	s=1
+s772	genemark-DS113845-processed-gene-0.15-mRNA-1
+>CLUSTER:c1288	p=c1161	t=0.3	s=1
+s233	augustus_masked-DS113351-processed-gene-0.6-mRNA-1
+>CLUSTER:c1484	p=c1113	t=0.3	s=1
+s500	augustus_masked-DS113874-processed-gene-0.3-mRNA-1
+>CLUSTER:c1317	p=c1161	t=0.3	s=1
+s564	augustus_masked-DS113266-processed-gene-0.32-mRNA-1
+>CLUSTER:c1595	p=c1123	t=0.3	s=1
+s230	augustus_masked-DS113227-processed-gene-0.2-mRNA-1
+>CLUSTER:c1517	p=c1189	t=0.3	s=1
+s667	genemark-DS114165-processed-gene-0.16-mRNA-1
+>CLUSTER:c1354	p=c1161	t=0.3	s=1
+s401	augustus_masked-DS113504-processed-gene-0.5-mRNA-1
+>CLUSTER:c1241	p=c1164	t=0.3	s=1
+s821	genemark-DS113512-processed-gene-0.13-mRNA-1
+>CLUSTER:c1426	p=c1173	t=0.3	s=1
+s143	genemark-DS114048-processed-gene-0.17-mRNA-1
+>CLUSTER:c1263	p=c1161	t=0.3	s=1
+s555	genemark-DS113507-processed-gene-0.22-mRNA-1
+>CLUSTER:c1516	p=c1189	t=0.3	s=1
+s406	augustus_masked-DS113575-processed-gene-0.1-mRNA-1
+>CLUSTER:c1560	p=c1200	t=0.3	s=1
+s214	genemark-DS113184-processed-gene-3.46-mRNA-1
+>CLUSTER:c1543	p=c1168	t=0.3	s=1
+s805	genemark-DS114082-processed-gene-0.21-mRNA-1
+>CLUSTER:c1230	p=c1129	t=0.3	s=1
+s603	augustus_masked-DS114294-processed-gene-0.0-mRNA-1
+>CLUSTER:c1528	p=c1102	t=0.3	s=1
+s525	genemark-DS113809-processed-gene-0.10-mRNA-1
+>CLUSTER:c1291	p=c1161	t=0.3	s=1
+s200	augustus_masked-DS113422-processed-gene-0.10-mRNA-1
+>CLUSTER:c1570	p=c1200	t=0.3	s=1
+s480	genemark-DS113742-processed-gene-0.28-mRNA-1
+>CLUSTER:c1466	p=c1108	t=0.3	s=1
+s7	genemark-DS113552-processed-gene-0.16-mRNA-1
+>CLUSTER:c1535	p=c1117	t=0.3	s=1
+s508	genemark-DS113554-processed-gene-0.11-mRNA-1
+>CLUSTER:c1281	p=c1161	t=0.3	s=1
+s354	genemark-DS113403-processed-gene-0.22-mRNA-1
+>CLUSTER:c1414	p=c1104	t=0.3	s=1
+s638	genemark-DS113523-processed-gene-0.17-mRNA-1
+>CLUSTER:c1427	p=c1173	t=0.3	s=1
+s274	snap_masked-DS114172-processed-gene-0.19-mRNA-1
+>CLUSTER:c1332	p=c1161	t=0.3	s=1
+s84	augustus_masked-DS113713-processed-gene-0.0-mRNA-1
+>CLUSTER:c1319	p=c1161	t=0.3	s=1
+s434	augustus_masked-DS113573-processed-gene-0.10-mRNA-1
+>CLUSTER:c1477	p=c1147	t=0.3	s=1
+s177	augustus_masked-DS113241-processed-gene-0.13-mRNA-1
+>CLUSTER:c1569	p=c1200	t=0.3	s=1
+s289	genemark-DS113256-processed-gene-0.45-mRNA-1
+>CLUSTER:c1419	p=c1198	t=0.3	s=1
+s712	augustus_masked-DS113894-processed-gene-0.8-mRNA-1
+>CLUSTER:c1576	p=c1157	t=0.3	s=1
+s176	genemark-DS113241-processed-gene-0.78-mRNA-1
+>CLUSTER:c1598	p=c1170	t=0.3	s=1
+s586	augustus_masked-DS113884-processed-gene-0.3-mRNA-1
+>CLUSTER:c1360	p=c1161	t=0.3	s=1
+s314	augustus_masked-DS113735-processed-gene-0.2-mRNA-1
+>CLUSTER:c1224	p=c1158	t=0.3	s=1
+s196	genemark-DS113409-processed-gene-0.49-mRNA-1
+>CLUSTER:c1212	p=c1190	t=0.3	s=1
+s49	augustus_masked-DS115641-processed-gene-0.0-mRNA-1
+>CLUSTER:c1256	p=c1161	t=0.3	s=1
+s627	augustus_masked-DS113217-processed-gene-1.8-mRNA-1
+>CLUSTER:c1508	p=c1137	t=0.3	s=1
+s349	genemark-DS114090-processed-gene-0.14-mRNA-1
+>CLUSTER:c1294	p=c1161	t=0.3	s=1
+s195	genemark-DS113409-processed-gene-0.42-mRNA-1
+>CLUSTER:c1504	p=c1122	t=0.3	s=1
+s243	augustus_masked-DS113316-processed-gene-0.25-mRNA-1
+>CLUSTER:c1447	p=c1183	t=0.3	s=1
+s19	augustus_masked-DS113677-processed-gene-0.7-mRNA-1
+>CLUSTER:c1249	p=c1161	t=0.3	s=1
+s646	genemark-DS113347-processed-gene-0.70-mRNA-1
+>CLUSTER:c1219	p=c1135	t=0.3	s=1
+s418	genemark-DS113228-processed-gene-1.51-mRNA-1
+>CLUSTER:c1307	p=c1161	t=0.3	s=1
+s183	augustus_masked-DS113722-processed-gene-0.3-mRNA-1
+>CLUSTER:c1324	p=c1161	t=0.3	s=1
+s147	genemark-DS113194-processed-gene-1.35-mRNA-1
+>CLUSTER:c1282	p=c1161	t=0.3	s=1
+s553	genemark-DS113641-processed-gene-0.29-mRNA-1
+>CLUSTER:c1518	p=c1189	t=0.3	s=1
+s758	genemark-DS113311-processed-gene-0.47-mRNA-1
+>CLUSTER:c1587	p=c1157	t=0.3	s=1
+s474	genemark-DS114127-processed-gene-0.18-mRNA-1
+>CLUSTER:c1592	p=c1157	t=0.3	s=1
+s684	genemark-DS113820-processed-gene-0.24-mRNA-1
+>CLUSTER:c1311	p=c1161	t=0.3	s=1
+s468	snap_masked-DS113749-processed-gene-0.39-mRNA-1
+>CLUSTER:c1446	p=c1188	t=0.3	s=1
+s315	augustus_masked-DS113584-processed-gene-0.2-mRNA-1
+>CLUSTER:c1339	p=c1161	t=0.3	s=1
+s133	augustus_masked-DS113300-processed-gene-0.6-mRNA-1
+>CLUSTER:c1242	p=c1151	t=0.3	s=1
+s232	genemark-DS113351-processed-gene-0.40-mRNA-1
+>CLUSTER:c1540	p=c1133	t=0.3	s=1
+s723	augustus_masked-DS113478-processed-gene-0.15-mRNA-1
+>CLUSTER:c1453	p=c1187	t=0.3	s=1
+s209	augustus_masked-DS113184-processed-gene-1.36-mRNA-1
+>CLUSTER:c1372	p=c1161	t=0.3	s=1
+s189	augustus_masked-DS113255-processed-gene-0.11-mRNA-1
+>CLUSTER:c1355	p=c1161	t=0.3	s=1
+s584	genemark-DS113712-processed-gene-0.20-mRNA-1
+>CLUSTER:c1503	p=c1153	t=0.3	s=1
+s385	augustus_masked-DS114180-processed-gene-0.2-mRNA-1
+>CLUSTER:c1346	p=c1161	t=0.3	s=1
+s426	genemark-DS113854-processed-gene-0.29-mRNA-1
+>CLUSTER:c1207	p=c1109	t=0.3	s=1
+s85	augustus_masked-DS113713-processed-gene-0.14-mRNA-1
+>CLUSTER:c1465	p=c1108	t=0.3	s=1
+s362	augustus_masked-DS113286-processed-gene-0.21-mRNA-1
+>CLUSTER:c1536	p=c1117	t=0.3	s=1
+s509	genemark-DS113554-processed-gene-0.12-mRNA-1
+>CLUSTER:c1304	p=c1161	t=0.3	s=1
+s181	augustus_masked-DS113987-processed-gene-0.2-mRNA-1
+>CLUSTER:c1580	p=c1157	t=0.3	s=1
+s324	genemark-DS113366-processed-gene-0.55-mRNA-1
+>CLUSTER:c1433	p=c1173	t=0.3	s=1
+s21	augustus_masked-DS113677-processed-gene-0.11-mRNA-1
+>CLUSTER:c1415	p=c1104	t=0.3	s=1
+s719	augustus_masked-DS113721-processed-gene-0.6-mRNA-1
+>CLUSTER:c1378	p=c1161	t=0.3	s=1
+s76	augustus_masked-DS113291-processed-gene-0.3-mRNA-1
+>CLUSTER:c1248	p=c1161	t=0.3	s=1
+s686	augustus_masked-DS113301-processed-gene-0.30-mRNA-1
+>CLUSTER:c1279	p=c1161	t=0.3	s=1
+s432	genemark-DS113288-processed-gene-0.32-mRNA-1
+>CLUSTER:c1515	p=c1163	t=0.3	s=1
+s45	augustus_masked-DS119183-processed-gene-0.0-mRNA-1
+>CLUSTER:c1483	p=c1113	t=0.3	s=1
+s304	augustus_masked-DS113517-processed-gene-0.9-mRNA-1
+>CLUSTER:c1527	p=c1148	t=0.3	s=1
+s207	augustus_masked-DS114210-processed-gene-0.1-mRNA-1
+>CLUSTER:c1467	p=c1155	t=0.3	s=1
+s170	augustus_masked-DS113183-processed-gene-3.13-mRNA-1
+>CLUSTER:c1537	p=c1134	t=0.3	s=1
+s191	augustus_masked-DS113279-processed-gene-0.28-mRNA-1
+>CLUSTER:c1428	p=c1173	t=0.3	s=1
+s639	genemark-DS113523-processed-gene-0.19-mRNA-1
+>CLUSTER:c1622	p=c1403	t=0.4	s=3
+s531	genemark-DS113525-processed-gene-0.32-mRNA-1
+s672	augustus_masked-DS113448-processed-gene-0.20-mRNA-1
+s97	augustus_masked-DS114273-processed-gene-0.2-mRNA-1
+>CLUSTER:c1606	p=c1132	t=0.4	s=2
+s396	augustus_masked-DS113445-processed-gene-0.5-mRNA-1
+s421	augustus_masked-DS113405-processed-gene-0.0-mRNA-1
+>CLUSTER:c1686	p=c1391	t=0.4	s=2
+s395	maker-DS114086-snap-gene-0.27-mRNA-1
+s573	maker-DS114221-snap-gene-0.19-mRNA-1
+>CLUSTER:c1660	p=c1520	t=0.4	s=2
+s157	augustus_masked-DS113796-processed-gene-0.3-mRNA-1
+s282	augustus_masked-DS113238-processed-gene-1.15-mRNA-1
+>CLUSTER:c1658	p=c1225	t=0.4	s=2
+s158	genemark-DS113796-processed-gene-0.32-mRNA-1
+s808	genemark-DS114481-processed-gene-0.11-mRNA-1
+>CLUSTER:c1692	p=c1599	t=0.4	s=2
+s111	augustus_masked-DS113331-processed-gene-0.13-mRNA-1
+s616	genemark-DS113762-processed-gene-0.10-mRNA-1
+>CLUSTER:c1678	p=c1550	t=0.4	s=2
+s124	genemark-DS113231-processed-gene-0.56-mRNA-1
+s578	augustus_masked-DS113329-processed-gene-0.4-mRNA-1
+>CLUSTER:c1679	p=c1550	t=0.4	s=2
+s325	augustus_masked-DS113219-processed-gene-0.52-mRNA-1
+s352	augustus_masked-DS113319-processed-gene-0.2-mRNA-1
+>CLUSTER:c1609	p=c1452	t=0.4	s=2
+s128	augustus_masked-DS114186-processed-gene-0.7-mRNA-1
+s784	genemark-DS113245-processed-gene-0.45-mRNA-1
+>CLUSTER:c1702	p=c1507	t=0.4	s=2
+s318	augustus_masked-DS113900-processed-gene-0.3-mRNA-1
+s565	augustus_masked-DS113958-processed-gene-0.5-mRNA-1
+>CLUSTER:c1684	p=c1154	t=0.4	s=2
+s301	genemark-DS114466-processed-gene-0.11-mRNA-1
+s748	snap_masked-DS113210-processed-gene-1.111-mRNA-1
+>CLUSTER:c1656	p=c1405	t=0.4	s=1
+s498	augustus_masked-DS113487-processed-gene-0.9-mRNA-1
+>CLUSTER:c1631	p=c1425	t=0.4	s=1
+s569	augustus_masked-DS113437-processed-gene-0.6-mRNA-1
+>CLUSTER:c1694	p=c1180	t=0.4	s=1
+s491	genemark-DS113246-processed-gene-0.41-mRNA-1
+>CLUSTER:c1625	p=c1401	t=0.4	s=1
+s567	augustus_masked-DS113225-processed-gene-1.11-mRNA-1
+>CLUSTER:c1701	p=c1507	t=0.4	s=1
+s722	augustus_masked-DS113478-processed-gene-0.11-mRNA-1
+>CLUSTER:c1715	p=c1185	t=0.4	s=1
+s651	genemark-DS113314-processed-gene-0.55-mRNA-1
+>CLUSTER:c1716	p=c1185	t=0.4	s=1
+s642	augustus_masked-DS113700-processed-gene-0.0-mRNA-1
+>CLUSTER:c1693	p=c1180	t=0.4	s=1
+s221	augustus_masked-DS118477-processed-gene-0.0-mRNA-1
+>CLUSTER:c1671	p=c1400	t=0.4	s=1
+s554	augustus_masked-DS113494-processed-gene-0.2-mRNA-1
+>CLUSTER:c1648	p=c1491	t=0.4	s=1
+s521	genemark-DS113188-processed-gene-1.22-mRNA-1
+>CLUSTER:c1645	p=c1142	t=0.4	s=1
+s511	genemark-DS113299-processed-gene-0.17-mRNA-1
+>CLUSTER:c1665	p=c1390	t=0.4	s=1
+s187	augustus_masked-DS113182-processed-gene-1.59-mRNA-1
+>CLUSTER:c1630	p=c1425	t=0.4	s=1
+s35	augustus_masked-DS113292-processed-gene-0.4-mRNA-1
+>CLUSTER:c1611	p=c1395	t=0.4	s=1
+s681	genemark-DS113282-processed-gene-0.76-mRNA-1
+>CLUSTER:c1655	p=c1405	t=0.4	s=1
+s258	augustus_masked-DS113416-processed-gene-0.0-mRNA-1
+>CLUSTER:c1608	p=c1452	t=0.4	s=1
+s310	augustus_masked-DS113709-processed-gene-0.2-mRNA-1
+>CLUSTER:c1626	p=c1401	t=0.4	s=1
+s633	genemark-DS113259-processed-gene-0.57-mRNA-1
+>CLUSTER:c1647	p=c1491	t=0.4	s=1
+s91	genemark-DS113257-processed-gene-0.82-mRNA-1
+>CLUSTER:c1650	p=c1399	t=0.4	s=1
+s424	snap_masked-DS113924-processed-gene-0.42-mRNA-1
+>CLUSTER:c1670	p=c1398	t=0.4	s=1
+s227	augustus_masked-DS113536-processed-gene-0.2-mRNA-1
+>CLUSTER:c1703	p=c1387	t=0.4	s=1
+s435	augustus_masked-DS113833-processed-gene-0.7-mRNA-1
+>CLUSTER:c1689	p=c1119	t=0.4	s=1
+s313	genemark-DS114254-processed-gene-0.10-mRNA-1
+>CLUSTER:c1699	p=c1396	t=0.4	s=1
+s223	genemark-DS113807-processed-gene-0.28-mRNA-1
+>CLUSTER:c1614	p=c1424	t=0.4	s=1
+s470	genemark-DS113558-processed-gene-0.35-mRNA-1
+>CLUSTER:c1706	p=c1232	t=0.4	s=1
+s259	genemark-DS113416-processed-gene-0.60-mRNA-1
+>CLUSTER:c1659	p=c1520	t=0.4	s=1
+s156	augustus_masked-DS113294-processed-gene-0.16-mRNA-1
+>CLUSTER:c1680	p=c1227	t=0.4	s=1
+s770	augustus_masked-DS113240-processed-gene-0.20-mRNA-1
+>CLUSTER:c1607	p=c1452	t=0.4	s=1
+s400	augustus_masked-DS113714-processed-gene-0.6-mRNA-1
+>CLUSTER:c1644	p=c1392	t=0.4	s=1
+s507	genemark-DS113616-processed-gene-0.11-mRNA-1
+>CLUSTER:c1623	p=c1474	t=0.4	s=1
+s71	augustus_masked-DS113181-processed-gene-1.51-mRNA-1
+>CLUSTER:c1668	p=c1385	t=0.4	s=1
+s116	genemark-DS113911-processed-gene-0.13-mRNA-1
+>CLUSTER:c1634	p=c1386	t=0.4	s=1
+s769	snap_masked-DS113262-processed-gene-0.103-mRNA-1
+>CLUSTER:c1672	p=c1400	t=0.4	s=1
+s296	genemark-DS114005-processed-gene-0.23-mRNA-1
+>CLUSTER:c1646	p=c1142	t=0.4	s=1
+s3	genemark-DS113435-processed-gene-0.63-mRNA-1
+>CLUSTER:c1681	p=c1227	t=0.4	s=1
+s99	augustus_masked-DS114002-processed-gene-0.0-mRNA-1
+>CLUSTER:c1704	p=c1387	t=0.4	s=1
+s461	maker-DS113243-snap-gene-0.138-mRNA-1
+>CLUSTER:c1720	p=c1197	t=0.4	s=1
+s305	genemark-DS113306-processed-gene-0.91-mRNA-1
+>CLUSTER:c1691	p=c1599	t=0.4	s=1
+s545	augustus_masked-DS113653-processed-gene-0.10-mRNA-1
+>CLUSTER:c1653	p=c1383	t=0.4	s=1
+s270	augustus_masked-DS113769-processed-gene-0.4-mRNA-1
+>CLUSTER:c1613	p=c1448	t=0.4	s=1
+s433	augustus_masked-DS113288-processed-gene-0.28-mRNA-1
+>CLUSTER:c1632	p=c1425	t=0.4	s=1
+s16	snap_masked-DS113434-processed-gene-0.69-mRNA-1
+>CLUSTER:c1667	p=c1385	t=0.4	s=1
+s438	genemark-DS113252-processed-gene-0.73-mRNA-1
+>CLUSTER:c1633	p=c1386	t=0.4	s=1
+s711	augustus_masked-DS113894-processed-gene-0.9-mRNA-1
+>CLUSTER:c1657	p=c1225	t=0.4	s=1
+s217	genemark-DS113281-processed-gene-0.43-mRNA-1
+>CLUSTER:c1624	p=c1474	t=0.4	s=1
+s205	augustus_masked-DS113224-processed-gene-0.4-mRNA-1
+>CLUSTER:c1619	p=c1156	t=0.4	s=1
+s267	augustus_masked-DS113248-processed-gene-0.9-mRNA-1
+>CLUSTER:c1621	p=c1403	t=0.4	s=1
+s46	augustus_masked-DS113332-processed-gene-0.20-mRNA-1
+>CLUSTER:c1605	p=c1132	t=0.4	s=1
+s439	genemark-DS113541-processed-gene-0.43-mRNA-1
+>CLUSTER:c1714	p=c1394	t=0.4	s=1
+s544	genemark-DS113341-processed-gene-0.72-mRNA-1
+>CLUSTER:c1666	p=c1390	t=0.4	s=1
+s188	genemark-DS113255-processed-gene-0.52-mRNA-1
+>CLUSTER:c1708	p=c1131	t=0.4	s=1
+s74	augustus_masked-DS113181-processed-gene-3.3-mRNA-1
+>CLUSTER:c1719	p=c1197	t=0.4	s=1
+s59	snap_masked-DS113519-processed-gene-0.54-mRNA-1
+>CLUSTER:c1649	p=c1399	t=0.4	s=1
+s516	genemark-DS113518-processed-gene-0.45-mRNA-1
+>CLUSTER:c1652	p=c1383	t=0.4	s=1
+s720	augustus_masked-DS113478-processed-gene-0.5-mRNA-1
+>CLUSTER:c1601	p=c1493	t=0.4	s=1
+s705	genemark-DS113482-processed-gene-0.51-mRNA-1
+>CLUSTER:c1674	p=c1384	t=0.4	s=1
+s264	genemark-DS113828-processed-gene-0.7-mRNA-1
+>CLUSTER:c1641	p=c1402	t=0.4	s=1
+s330	genemark-DS113267-processed-gene-0.98-mRNA-1
+>CLUSTER:c1712	p=c1169	t=0.4	s=1
+s268	augustus_masked-DS113876-processed-gene-0.0-mRNA-1
+>CLUSTER:c1628	p=c1184	t=0.4	s=1
+s402	genemark-DS113504-processed-gene-0.34-mRNA-1
+>CLUSTER:c1639	p=c1192	t=0.4	s=1
+s632	genemark-DS113259-processed-gene-0.62-mRNA-1
+>CLUSTER:c1616	p=c1389	t=0.4	s=1
+s757	genemark-DS113385-processed-gene-0.48-mRNA-1
+>CLUSTER:c1682	p=c1227	t=0.4	s=1
+s450	snap_masked-DS113185-processed-gene-2.83-mRNA-1
+>CLUSTER:c1663	p=c1388	t=0.4	s=1
+s487	genemark-DS113810-processed-gene-0.12-mRNA-1
+>CLUSTER:c1697	p=c1124	t=0.4	s=1
+s411	snap_masked-DS113222-processed-gene-0.78-mRNA-1
+>CLUSTER:c1690	p=c1119	t=0.4	s=1
+s44	genemark-DS113698-processed-gene-0.7-mRNA-1
+>CLUSTER:c1629	p=c1425	t=0.4	s=1
+s796	genemark-DS113337-processed-gene-0.31-mRNA-1
+>CLUSTER:c1705	p=c1387	t=0.4	s=1
+s154	snap_masked-DS113720-processed-gene-0.37-mRNA-1
+>CLUSTER:c1669	p=c1398	t=0.4	s=1
+s623	genemark-DS113406-processed-gene-0.35-mRNA-1
+>CLUSTER:c1713	p=c1394	t=0.4	s=1
+s366	genemark-DS113402-processed-gene-0.26-mRNA-1
+>CLUSTER:c1677	p=c1176	t=0.4	s=1
+s493	genemark-DS113459-processed-gene-0.46-mRNA-1
+>CLUSTER:c1651	p=c1383	t=0.4	s=1
+s219	genemark-DS113330-processed-gene-0.13-mRNA-1
+>CLUSTER:c1642	p=c1402	t=0.4	s=1
+s566	genemark-DS113225-processed-gene-0.31-mRNA-1
+>CLUSTER:c1661	p=c1245	t=0.4	s=1
+s780	augustus_masked-DS113418-processed-gene-0.13-mRNA-1
+>CLUSTER:c1683	p=c1154	t=0.4	s=1
+s94	genemark-DS113257-processed-gene-0.102-mRNA-1
+>CLUSTER:c1643	p=c1392	t=0.4	s=1
+s298	genemark-DS113356-processed-gene-0.35-mRNA-1
+>CLUSTER:c1627	p=c1184	t=0.4	s=1
+s457	genemark-DS113283-processed-gene-0.70-mRNA-1
+>CLUSTER:c1602	p=c1464	t=0.4	s=1
+s41	genemark-DS113786-processed-gene-0.31-mRNA-1
+>CLUSTER:c1673	p=c1384	t=0.4	s=1
+s281	genemark-DS113238-processed-gene-0.34-mRNA-1
+>CLUSTER:c1615	p=c1424	t=0.4	s=1
+s790	augustus_masked-DS114168-processed-gene-0.3-mRNA-1
+>CLUSTER:c1600	p=c1493	t=0.4	s=1
+s132	snap_masked-DS113300-processed-gene-0.110-mRNA-1
+>CLUSTER:c1635	p=c1118	t=0.4	s=1
+s208	augustus_masked-DS113184-processed-gene-0.18-mRNA-1
+>CLUSTER:c1654	p=c1383	t=0.4	s=1
+s242	augustus_masked-DS113316-processed-gene-0.8-mRNA-1
+>CLUSTER:c1610	p=c1395	t=0.4	s=1
+s587	genemark-DS113388-processed-gene-0.35-mRNA-1
+>CLUSTER:c1664	p=c1388	t=0.4	s=1
+s311	augustus_masked-DS114036-processed-gene-0.5-mRNA-1
+>CLUSTER:c1709	p=c1131	t=0.4	s=1
+s213	augustus_masked-DS113184-processed-gene-3.85-mRNA-1
+>CLUSTER:c1617	p=c1389	t=0.4	s=1
+s814	augustus_masked-DS113782-processed-gene-0.1-mRNA-1
+>CLUSTER:c1688	p=c1105	t=0.4	s=1
+s294	genemark-DS113401-processed-gene-0.26-mRNA-1
+>CLUSTER:c1603	p=c1464	t=0.4	s=1
+s23	augustus_masked-DS113382-processed-gene-0.1-mRNA-1
+>CLUSTER:c1662	p=c1245	t=0.4	s=1
+s9	genemark-DS113275-processed-gene-0.70-mRNA-1
+>CLUSTER:c1696	p=c1223	t=0.4	s=1
+s592	genemark-DS113209-processed-gene-1.45-mRNA-1
+>CLUSTER:c1710	p=c1169	t=0.4	s=1
+s140	augustus_masked-DS113423-processed-gene-0.11-mRNA-1
+>CLUSTER:c1698	p=c1124	t=0.4	s=1
+s615	augustus_masked-DS113863-processed-gene-0.5-mRNA-1
+>CLUSTER:c1676	p=c1176	t=0.4	s=1
+s201	genemark-DS113372-processed-gene-0.14-mRNA-1
+>CLUSTER:c1718	p=c1495	t=0.4	s=1
+s178	snap_masked-DS113657-processed-gene-0.45-mRNA-1
+>CLUSTER:c1636	p=c1118	t=0.4	s=1
+s75	genemark-DS113291-processed-gene-0.99-mRNA-1
+>CLUSTER:c1637	p=c1534	t=0.4	s=1
+s732	genemark-DS113249-processed-gene-0.63-mRNA-1
+>CLUSTER:c1604	p=c1132	t=0.4	s=1
+s728	genemark-DS113427-processed-gene-0.23-mRNA-1
+>CLUSTER:c1675	p=c1176	t=0.4	s=1
+s229	genemark-DS113227-processed-gene-0.27-mRNA-1
+>CLUSTER:c1695	p=c1223	t=0.4	s=1
+s502	augustus_masked-DS114152-processed-gene-0.2-mRNA-1
+>CLUSTER:c1687	p=c1105	t=0.4	s=1
+s776	augustus_masked-DS114017-processed-gene-0.0-mRNA-1
+>CLUSTER:c1711	p=c1169	t=0.4	s=1
+s165	augustus_masked-DS113183-processed-gene-2.5-mRNA-1
+>CLUSTER:c1620	p=c1403	t=0.4	s=1
+s717	augustus_masked-DS113367-processed-gene-0.0-mRNA-1
+>CLUSTER:c1618	p=c1156	t=0.4	s=1
+s192	genemark-DS113467-processed-gene-0.26-mRNA-1
+>CLUSTER:c1685	p=c1391	t=0.4	s=1
+s775	genemark-DS114330-processed-gene-0.11-mRNA-1
+>CLUSTER:c1640	p=c1192	t=0.4	s=1
+s141	genemark-DS113274-processed-gene-0.79-mRNA-1
+>CLUSTER:c1700	p=c1396	t=0.4	s=1
+s677	genemark-DS113276-processed-gene-0.53-mRNA-1
+>CLUSTER:c1707	p=c1232	t=0.4	s=1
+s280	augustus_masked-DS113342-processed-gene-0.7-mRNA-1
+>CLUSTER:c1717	p=c1495	t=0.4	s=1
+s142	genemark-DS113274-processed-gene-0.75-mRNA-1
+>CLUSTER:c1612	p=c1448	t=0.4	s=1
+s774	genemark-DS113668-processed-gene-0.14-mRNA-1
+>CLUSTER:c1638	p=c1534	t=0.4	s=1
+s155	augustus_masked-DS113556-processed-gene-0.5-mRNA-1
+>CLUSTER:c1748	p=c1622	t=0.5	s=2
+s672	augustus_masked-DS113448-processed-gene-0.20-mRNA-1
+s97	augustus_masked-DS114273-processed-gene-0.2-mRNA-1
+>CLUSTER:c1756	p=c1609	t=0.5	s=1
+s128	augustus_masked-DS114186-processed-gene-0.7-mRNA-1
+>CLUSTER:c1734	p=c1217	t=0.5	s=1
+s614	augustus_masked-DS113192-processed-gene-1.47-mRNA-1
+>CLUSTER:c1761	p=c1196	t=0.5	s=1
+s122	genemark-DS113684-processed-gene-0.44-mRNA-1
+>CLUSTER:c1724	p=c1521	t=0.5	s=1
+s476	augustus_masked-DS113694-processed-gene-0.0-mRNA-1
+>CLUSTER:c1769	p=c1506	t=0.5	s=1
+s794	augustus_masked-DS113343-processed-gene-0.5-mRNA-1
+>CLUSTER:c1741	p=c1162	t=0.5	s=1
+s645	genemark-DS113347-processed-gene-0.75-mRNA-1
+>CLUSTER:c1747	p=c1622	t=0.5	s=1
+s531	genemark-DS113525-processed-gene-0.32-mRNA-1
+>CLUSTER:c1760	p=c1702	t=0.5	s=1
+s565	augustus_masked-DS113958-processed-gene-0.5-mRNA-1
+>CLUSTER:c1725	p=c1521	t=0.5	s=1
+s489	augustus_masked-DS113607-processed-gene-0.2-mRNA-1
+>CLUSTER:c1751	p=c1468	t=0.5	s=1
+s541	augustus_masked-DS113201-processed-gene-1.32-mRNA-1
+>CLUSTER:c1763	p=c1166	t=0.5	s=1
+s601	genemark-DS113415-processed-gene-0.36-mRNA-1
+>CLUSTER:c1737	p=c1476	t=0.5	s=1
+s427	augustus_masked-DS114261-processed-gene-0.1-mRNA-1
+>CLUSTER:c1766	p=c1152	t=0.5	s=1
+s163	genemark-DS113183-processed-gene-2.21-mRNA-1
+>CLUSTER:c1762	p=c1196	t=0.5	s=1
+s357	genemark-DS113206-processed-gene-1.73-mRNA-1
+>CLUSTER:c1735	p=c1406	t=0.5	s=1
+s692	genemark-DS113202-processed-gene-0.52-mRNA-1
+>CLUSTER:c1740	p=c1692	t=0.5	s=1
+s111	augustus_masked-DS113331-processed-gene-0.13-mRNA-1
+>CLUSTER:c1752	p=c1468	t=0.5	s=1
+s257	augustus_masked-DS113404-processed-gene-0.11-mRNA-1
+>CLUSTER:c1758	p=c1454	t=0.5	s=1
+s481	augustus_masked-DS113846-processed-gene-0.5-mRNA-1
+>CLUSTER:c1746	p=c1120	t=0.5	s=1
+s410	augustus_masked-DS113222-processed-gene-0.1-mRNA-1
+>CLUSTER:c1726	p=c1660	t=0.5	s=1
+s282	augustus_masked-DS113238-processed-gene-1.15-mRNA-1
+>CLUSTER:c1743	p=c1136	t=0.5	s=1
+s533	genemark-DS114170-processed-gene-0.5-mRNA-1
+>CLUSTER:c1765	p=c1152	t=0.5	s=1
+s173	augustus_masked-DS115438-processed-gene-0.0-mRNA-1
+>CLUSTER:c1727	p=c1660	t=0.5	s=1
+s157	augustus_masked-DS113796-processed-gene-0.3-mRNA-1
+>CLUSTER:c1768	p=c1125	t=0.5	s=1
+s345	snap_masked-DS120915-processed-gene-0.2-mRNA-1
+>CLUSTER:c1757	p=c1454	t=0.5	s=1
+s60	augustus_masked-DS113886-processed-gene-0.3-mRNA-1
+>CLUSTER:c1730	p=c1174	t=0.5	s=1
+s167	augustus_masked-DS113183-processed-gene-3.11-mRNA-1
+>CLUSTER:c1742	p=c1162	t=0.5	s=1
+s61	genemark-DS113791-processed-gene-0.21-mRNA-1
+>CLUSTER:c1721	p=c1404	t=0.5	s=1
+s247	snap_masked-DS113200-processed-gene-1.153-mRNA-1
+>CLUSTER:c1739	p=c1692	t=0.5	s=1
+s616	genemark-DS113762-processed-gene-0.10-mRNA-1
+>CLUSTER:c1744	p=c1136	t=0.5	s=1
+s625	genemark-DS113217-processed-gene-0.67-mRNA-1
+>CLUSTER:c1755	p=c1609	t=0.5	s=1
+s784	genemark-DS113245-processed-gene-0.45-mRNA-1
+>CLUSTER:c1753	p=c1235	t=0.5	s=1
+s523	augustus_masked-DS113412-processed-gene-0.17-mRNA-1
+>CLUSTER:c1733	p=c1217	t=0.5	s=1
+s339	genemark-DS113384-processed-gene-0.41-mRNA-1
+>CLUSTER:c1728	p=c1393	t=0.5	s=1
+s150	augustus_masked-DS113253-processed-gene-0.7-mRNA-1
+>CLUSTER:c1732	p=c1174	t=0.5	s=1
+s83	augustus_masked-DS114233-processed-gene-0.3-mRNA-1
+>CLUSTER:c1722	p=c1404	t=0.5	s=1
+s694	augustus_masked-DS113202-processed-gene-1.20-mRNA-1
+>CLUSTER:c1759	p=c1702	t=0.5	s=1
+s318	augustus_masked-DS113900-processed-gene-0.3-mRNA-1
+>CLUSTER:c1764	p=c1166	t=0.5	s=1
+s449	genemark-DS114199-processed-gene-0.3-mRNA-1
+>CLUSTER:c1738	p=c1476	t=0.5	s=1
+s557	augustus_masked-DS113497-processed-gene-0.3-mRNA-1
+>CLUSTER:c1745	p=c1120	t=0.5	s=1
+s98	genemark-DS113318-processed-gene-0.60-mRNA-1
+>CLUSTER:c1750	p=c1679	t=0.5	s=1
+s352	augustus_masked-DS113319-processed-gene-0.2-mRNA-1
+>CLUSTER:c1729	p=c1393	t=0.5	s=1
+s5	genemark-DS113381-processed-gene-0.63-mRNA-1
+>CLUSTER:c1767	p=c1125	t=0.5	s=1
+s182	genemark-DS113193-processed-gene-0.47-mRNA-1
+>CLUSTER:c1770	p=c1506	t=0.5	s=1
+s661	augustus_masked-DS113205-processed-gene-0.10-mRNA-1
+>CLUSTER:c1736	p=c1406	t=0.5	s=1
+s689	augustus_masked-DS113203-processed-gene-0.7-mRNA-1
+>CLUSTER:c1749	p=c1679	t=0.5	s=1
+s325	augustus_masked-DS113219-processed-gene-0.52-mRNA-1
+>CLUSTER:c1731	p=c1174	t=0.5	s=1
+s211	genemark-DS113184-processed-gene-1.25-mRNA-1
+>CLUSTER:c1723	p=c1521	t=0.5	s=1
+s666	genemark-DS113877-processed-gene-0.10-mRNA-1
+>CLUSTER:c1754	p=c1235	t=0.5	s=1
+s57	snap_masked-DS113738-processed-gene-0.38-mRNA-1
+>CLUSTER:c1782	p=c1144	t=0.6	s=2
+s190	augustus_masked-DS113279-processed-gene-0.12-mRNA-1
+s596	augustus_masked-DS113220-processed-gene-1.65-mRNA-1
+>CLUSTER:c1771	p=c1140	t=0.6	s=1
+s287	genemark-DS113179-processed-gene-3.14-mRNA-1
+>CLUSTER:c1776	p=c1203	t=0.6	s=1
+s467	genemark-DS113335-processed-gene-0.69-mRNA-1
+>CLUSTER:c1780	p=c1143	t=0.6	s=1
+s34	snap_masked-DS113180-processed-gene-2.87-mRNA-1
+>CLUSTER:c1773	p=c1209	t=0.6	s=1
+s706	augustus_masked-DS113816-processed-gene-0.1-mRNA-1
+>CLUSTER:c1777	p=c1167	t=0.6	s=1
+s777	augustus_masked-DS113763-processed-gene-0.0-mRNA-1
+>CLUSTER:c1772	p=c1140	t=0.6	s=1
+s398	augustus_masked-DS114169-processed-gene-0.0-mRNA-1
+>CLUSTER:c1781	p=c1144	t=0.6	s=1
+s278	augustus_masked-DS113334-processed-gene-0.8-mRNA-1
+>CLUSTER:c1775	p=c1203	t=0.6	s=1
+s735	augustus_masked-DS113187-processed-gene-2.14-mRNA-1
+>CLUSTER:c1774	p=c1209	t=0.6	s=1
+s809	augustus_masked-DS113718-processed-gene-0.0-mRNA-1
+>CLUSTER:c1778	p=c1167	t=0.6	s=1
+s241	augustus_masked-DS114680-processed-gene-0.0-mRNA-1
+>CLUSTER:c1779	p=c1143	t=0.6	s=1
+s162	genemark-DS113183-processed-gene-1.62-mRNA-1
+>CLUSTER:c1783	p=c1496	t=0.7	s=1
+s319	augustus_masked-DS113900-processed-gene-0.6-mRNA-1
+>CLUSTER:c1788	p=c1782	t=0.7	s=1
+s596	augustus_masked-DS113220-processed-gene-1.65-mRNA-1
+>CLUSTER:c1786	p=c1114	t=0.7	s=1
+s386	genemark-DS113543-processed-gene-0.29-mRNA-1
+>CLUSTER:c1787	p=c1782	t=0.7	s=1
+s190	augustus_masked-DS113279-processed-gene-0.12-mRNA-1
+>CLUSTER:c1784	p=c1496	t=0.7	s=1
+s283	genemark-DS113179-processed-gene-1.45-mRNA-1
+>CLUSTER:c1785	p=c1114	t=0.7	s=1
+s344	genemark-DS115673-processed-gene-0.2-mRNA-1
+>CLUSTER:c1799	p=c1112	t=0.8	s=1
+s115	augustus_masked-DS120383-processed-gene-0.0-mRNA-1
+>CLUSTER:c1798	p=c1678	t=0.8	s=1
+s578	augustus_masked-DS113329-processed-gene-0.4-mRNA-1
+>CLUSTER:c1789	p=c1748	t=0.8	s=1
+s672	augustus_masked-DS113448-processed-gene-0.20-mRNA-1
+>CLUSTER:c1792	p=c1686	t=0.8	s=1
+s573	maker-DS114221-snap-gene-0.19-mRNA-1
+>CLUSTER:c1793	p=c1116	t=0.8	s=1
+s597	augustus_masked-DS129363-processed-gene-0.2-mRNA-1
+>CLUSTER:c1790	p=c1748	t=0.8	s=1
+s97	augustus_masked-DS114273-processed-gene-0.2-mRNA-1
+>CLUSTER:c1791	p=c1686	t=0.8	s=1
+s395	maker-DS114086-snap-gene-0.27-mRNA-1
+>CLUSTER:c1802	p=c1684	t=0.8	s=1
+s301	genemark-DS114466-processed-gene-0.11-mRNA-1
+>CLUSTER:c1800	p=c1112	t=0.8	s=1
+s697	augustus_masked-DS113545-processed-gene-0.0-mRNA-1
+>CLUSTER:c1794	p=c1116	t=0.8	s=1
+s436	genemark-DS113198-processed-gene-0.34-mRNA-1
+>CLUSTER:c1797	p=c1678	t=0.8	s=1
+s124	genemark-DS113231-processed-gene-0.56-mRNA-1
+>CLUSTER:c1796	p=c1572	t=0.8	s=1
+s180	maker-DS113456-snap-gene-0.56-mRNA-2
+>CLUSTER:c1795	p=c1572	t=0.8	s=1
+s179	maker-DS113456-snap-gene-0.56-mRNA-1
+>CLUSTER:c1801	p=c1684	t=0.8	s=1
+s748	snap_masked-DS113210-processed-gene-1.111-mRNA-1
+>CLUSTER:c1810	p=c1397	t=1	s=1
+s203	augustus_masked-DS113371-processed-gene-0.11-mRNA-1
+>CLUSTER:c1806	p=c1606	t=1	s=1
+s396	augustus_masked-DS113445-processed-gene-0.5-mRNA-1
+>CLUSTER:c1807	p=c1213	t=1	s=1
+s482	augustus_masked-DS113846-processed-gene-0.9-mRNA-1
+>CLUSTER:c1804	p=c1178	t=1	s=1
+s710	augustus_masked-DS113491-processed-gene-0.3-mRNA-1
+>CLUSTER:c1805	p=c1606	t=1	s=1
+s421	augustus_masked-DS113405-processed-gene-0.0-mRNA-1
+>CLUSTER:c1803	p=c1178	t=1	s=1
+s86	snap_masked-DS114062-processed-gene-0.23-mRNA-1
+>CLUSTER:c1808	p=c1213	t=1	s=1
+s701	snap_masked-DS113296-processed-gene-0.94-mRNA-1
+>CLUSTER:c1809	p=c1397	t=1	s=1
+s38	augustus_masked-DS113485-processed-gene-0.15-mRNA-1
+>CLUSTER:c1812	p=c1658	t=1.1	s=1
+s158	genemark-DS113796-processed-gene-0.32-mRNA-1
+>CLUSTER:c1811	p=c1658	t=1.1	s=1
+s808	genemark-DS114481-processed-gene-0.11-mRNA-1
