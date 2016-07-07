@@ -1,0 +1,1660 @@
+#NEXUS
+
+BEGIN TAXA;
+[! Taxa block written by Bio::Phylo::Taxa 0.58 on Wed Jun 29 16:41:27 2016 ]
+	
+        DIMENSIONS NTAX=821;
+        TAXLABELS
+		s1
+		s10
+		s100
+		s101
+		s102
+		s103
+		s104
+		s105
+		s106
+		s107
+		s108
+		s109
+		s11
+		s110
+		s111
+		s112
+		s113
+		s114
+		s115
+		s116
+		s117
+		s118
+		s119
+		s12
+		s120
+		s121
+		s122
+		s123
+		s124
+		s125
+		s126
+		s127
+		s128
+		s129
+		s13
+		s130
+		s131
+		s132
+		s133
+		s134
+		s135
+		s136
+		s137
+		s138
+		s139
+		s14
+		s140
+		s141
+		s142
+		s143
+		s144
+		s145
+		s146
+		s147
+		s148
+		s149
+		s15
+		s150
+		s151
+		s152
+		s153
+		s154
+		s155
+		s156
+		s157
+		s158
+		s159
+		s16
+		s160
+		s161
+		s162
+		s163
+		s164
+		s165
+		s166
+		s167
+		s168
+		s169
+		s17
+		s170
+		s171
+		s172
+		s173
+		s174
+		s175
+		s176
+		s177
+		s178
+		s179
+		s18
+		s180
+		s181
+		s182
+		s183
+		s184
+		s185
+		s186
+		s187
+		s188
+		s189
+		s19
+		s190
+		s191
+		s192
+		s193
+		s194
+		s195
+		s196
+		s197
+		s198
+		s199
+		s2
+		s20
+		s200
+		s201
+		s202
+		s203
+		s204
+		s205
+		s206
+		s207
+		s208
+		s209
+		s21
+		s210
+		s211
+		s212
+		s213
+		s214
+		s215
+		s216
+		s217
+		s218
+		s219
+		s22
+		s220
+		s221
+		s222
+		s223
+		s224
+		s225
+		s226
+		s227
+		s228
+		s229
+		s23
+		s230
+		s231
+		s232
+		s233
+		s234
+		s235
+		s236
+		s237
+		s238
+		s239
+		s24
+		s240
+		s241
+		s242
+		s243
+		s244
+		s245
+		s246
+		s247
+		s248
+		s249
+		s25
+		s250
+		s251
+		s252
+		s253
+		s254
+		s255
+		s256
+		s257
+		s258
+		s259
+		s26
+		s260
+		s261
+		s262
+		s263
+		s264
+		s265
+		s266
+		s267
+		s268
+		s269
+		s27
+		s270
+		s271
+		s272
+		s273
+		s274
+		s275
+		s276
+		s277
+		s278
+		s279
+		s28
+		s280
+		s281
+		s282
+		s283
+		s284
+		s285
+		s286
+		s287
+		s288
+		s289
+		s29
+		s290
+		s291
+		s292
+		s293
+		s294
+		s295
+		s296
+		s297
+		s298
+		s299
+		s3
+		s30
+		s300
+		s301
+		s302
+		s303
+		s304
+		s305
+		s306
+		s307
+		s308
+		s309
+		s31
+		s310
+		s311
+		s312
+		s313
+		s314
+		s315
+		s316
+		s317
+		s318
+		s319
+		s32
+		s320
+		s321
+		s322
+		s323
+		s324
+		s325
+		s326
+		s327
+		s328
+		s329
+		s33
+		s330
+		s331
+		s332
+		s333
+		s334
+		s335
+		s336
+		s337
+		s338
+		s339
+		s34
+		s340
+		s341
+		s342
+		s343
+		s344
+		s345
+		s346
+		s347
+		s348
+		s349
+		s35
+		s350
+		s351
+		s352
+		s353
+		s354
+		s355
+		s356
+		s357
+		s358
+		s359
+		s36
+		s360
+		s361
+		s362
+		s363
+		s364
+		s365
+		s366
+		s367
+		s368
+		s369
+		s37
+		s370
+		s371
+		s372
+		s373
+		s374
+		s375
+		s376
+		s377
+		s378
+		s379
+		s38
+		s380
+		s381
+		s382
+		s383
+		s384
+		s385
+		s386
+		s387
+		s388
+		s389
+		s39
+		s390
+		s391
+		s392
+		s393
+		s394
+		s395
+		s396
+		s397
+		s398
+		s399
+		s4
+		s40
+		s400
+		s401
+		s402
+		s403
+		s404
+		s405
+		s406
+		s407
+		s408
+		s409
+		s41
+		s410
+		s411
+		s412
+		s413
+		s414
+		s415
+		s416
+		s417
+		s418
+		s419
+		s42
+		s420
+		s421
+		s422
+		s423
+		s424
+		s425
+		s426
+		s427
+		s428
+		s429
+		s43
+		s430
+		s431
+		s432
+		s433
+		s434
+		s435
+		s436
+		s437
+		s438
+		s439
+		s44
+		s440
+		s441
+		s442
+		s443
+		s444
+		s445
+		s446
+		s447
+		s448
+		s449
+		s45
+		s450
+		s451
+		s452
+		s453
+		s454
+		s455
+		s456
+		s457
+		s458
+		s459
+		s46
+		s460
+		s461
+		s462
+		s463
+		s464
+		s465
+		s466
+		s467
+		s468
+		s469
+		s47
+		s470
+		s471
+		s472
+		s473
+		s474
+		s475
+		s476
+		s477
+		s478
+		s479
+		s48
+		s480
+		s481
+		s482
+		s483
+		s484
+		s485
+		s486
+		s487
+		s488
+		s489
+		s49
+		s490
+		s491
+		s492
+		s493
+		s494
+		s495
+		s496
+		s497
+		s498
+		s499
+		s5
+		s50
+		s500
+		s501
+		s502
+		s503
+		s504
+		s505
+		s506
+		s507
+		s508
+		s509
+		s51
+		s510
+		s511
+		s512
+		s513
+		s514
+		s515
+		s516
+		s517
+		s518
+		s519
+		s52
+		s520
+		s521
+		s522
+		s523
+		s524
+		s525
+		s526
+		s527
+		s528
+		s529
+		s53
+		s530
+		s531
+		s532
+		s533
+		s534
+		s535
+		s536
+		s537
+		s538
+		s539
+		s54
+		s540
+		s541
+		s542
+		s543
+		s544
+		s545
+		s546
+		s547
+		s548
+		s549
+		s55
+		s550
+		s551
+		s552
+		s553
+		s554
+		s555
+		s556
+		s557
+		s558
+		s559
+		s56
+		s560
+		s561
+		s562
+		s563
+		s564
+		s565
+		s566
+		s567
+		s568
+		s569
+		s57
+		s570
+		s571
+		s572
+		s573
+		s574
+		s575
+		s576
+		s577
+		s578
+		s579
+		s58
+		s580
+		s581
+		s582
+		s583
+		s584
+		s585
+		s586
+		s587
+		s588
+		s589
+		s59
+		s590
+		s591
+		s592
+		s593
+		s594
+		s595
+		s596
+		s597
+		s598
+		s599
+		s6
+		s60
+		s600
+		s601
+		s602
+		s603
+		s604
+		s605
+		s606
+		s607
+		s608
+		s609
+		s61
+		s610
+		s611
+		s612
+		s613
+		s614
+		s615
+		s616
+		s617
+		s618
+		s619
+		s62
+		s620
+		s621
+		s622
+		s623
+		s624
+		s625
+		s626
+		s627
+		s628
+		s629
+		s63
+		s630
+		s631
+		s632
+		s633
+		s634
+		s635
+		s636
+		s637
+		s638
+		s639
+		s64
+		s640
+		s641
+		s642
+		s643
+		s644
+		s645
+		s646
+		s647
+		s648
+		s649
+		s65
+		s650
+		s651
+		s652
+		s653
+		s654
+		s655
+		s656
+		s657
+		s658
+		s659
+		s66
+		s660
+		s661
+		s662
+		s663
+		s664
+		s665
+		s666
+		s667
+		s668
+		s669
+		s67
+		s670
+		s671
+		s672
+		s673
+		s674
+		s675
+		s676
+		s677
+		s678
+		s679
+		s68
+		s680
+		s681
+		s682
+		s683
+		s684
+		s685
+		s686
+		s687
+		s688
+		s689
+		s69
+		s690
+		s691
+		s692
+		s693
+		s694
+		s695
+		s696
+		s697
+		s698
+		s699
+		s7
+		s70
+		s700
+		s701
+		s702
+		s703
+		s704
+		s705
+		s706
+		s707
+		s708
+		s709
+		s71
+		s710
+		s711
+		s712
+		s713
+		s714
+		s715
+		s716
+		s717
+		s718
+		s719
+		s72
+		s720
+		s721
+		s722
+		s723
+		s724
+		s725
+		s726
+		s727
+		s728
+		s729
+		s73
+		s730
+		s731
+		s732
+		s733
+		s734
+		s735
+		s736
+		s737
+		s738
+		s739
+		s74
+		s740
+		s741
+		s742
+		s743
+		s744
+		s745
+		s746
+		s747
+		s748
+		s749
+		s75
+		s750
+		s751
+		s752
+		s753
+		s754
+		s755
+		s756
+		s757
+		s758
+		s759
+		s76
+		s760
+		s761
+		s762
+		s763
+		s764
+		s765
+		s766
+		s767
+		s768
+		s769
+		s77
+		s770
+		s771
+		s772
+		s773
+		s774
+		s775
+		s776
+		s777
+		s778
+		s779
+		s78
+		s780
+		s781
+		s782
+		s783
+		s784
+		s785
+		s786
+		s787
+		s788
+		s789
+		s79
+		s790
+		s791
+		s792
+		s793
+		s794
+		s795
+		s796
+		s797
+		s798
+		s799
+		s8
+		s80
+		s800
+		s801
+		s802
+		s803
+		s804
+		s805
+		s806
+		s807
+		s808
+		s809
+		s81
+		s810
+		s811
+		s812
+		s813
+		s814
+		s815
+		s816
+		s817
+		s818
+		s819
+		s82
+		s820
+		s821
+		s83
+		s84
+		s85
+		s86
+		s87
+		s88
+		s89
+		s9
+		s90
+		s91
+		s92
+		s93
+		s94
+		s95
+		s96
+		s97
+		s98
+		s99
+        ;
+END;
+BEGIN TREES;
+[! Trees block written by Bio::Phylo::Forest 0.58 on Wed Jun 29 16:41:28 2016 ]
+[! Tree(s) include FigTree node annotations ]
+	TRANSLATE
+		1 s640,
+		2 s515,
+		3 s806,
+		4 s351,
+		5 s631,
+		6 s764,
+		7 s2,
+		8 s105,
+		9 s727,
+		10 s743,
+		11 s370,
+		12 s430,
+		13 s30,
+		14 s291,
+		15 s328,
+		16 s676,
+		17 s644,
+		18 s81,
+		19 s353,
+		20 s186,
+		21 s39,
+		22 s673,
+		23 s464,
+		24 s637,
+		25 s381,
+		26 s788,
+		27 s33,
+		28 s621,
+		29 s581,
+		30 s503,
+		31 s112,
+		32 s79,
+		33 s56,
+		34 s472,
+		35 s458,
+		36 s749,
+		37 s630,
+		38 s29,
+		39 s306,
+		40 s130,
+		41 s134,
+		42 s152,
+		43 s151,
+		44 s742,
+		45 s361,
+		46 s399,
+		47 s492,
+		48 s95,
+		49 s613,
+		50 s488,
+		51 s384,
+		52 s536,
+		53 s355,
+		54 s731,
+		55 s641,
+		56 s583,
+		57 s445,
+		58 s626,
+		59 s762,
+		60 s106,
+		61 s322,
+		62 s326,
+		63 s286,
+		64 s237,
+		65 s346,
+		66 s288,
+		67 s80,
+		68 s419,
+		69 s126,
+		70 s231,
+		71 s617,
+		72 s442,
+		73 s26,
+		74 s70,
+		75 s252,
+		76 s501,
+		77 s343,
+		78 s321,
+		79 s437,
+		80 s168,
+		81 s199,
+		82 s58,
+		83 s256,
+		84 s793,
+		85 s138,
+		86 s522,
+		87 s699,
+		88 s679,
+		89 s579,
+		90 s753,
+		91 s759,
+		92 s333,
+		93 s643,
+		94 s588,
+		95 s556,
+		96 s236,
+		97 s726,
+		98 s781,
+		99 s608,
+		100 s440,
+		101 s718,
+		102 s799,
+		103 s574,
+		104 s415,
+		105 s108,
+		106 s265,
+		107 s539,
+		108 s611,
+		109 s505,
+		110 s358,
+		111 s441,
+		112 s249,
+		113 s754,
+		114 s367,
+		115 s390,
+		116 s734,
+		117 s447,
+		118 s570,
+		119 s393,
+		120 s518,
+		121 s240,
+		122 s675,
+		123 s8,
+		124 s372,
+		125 s736,
+		126 s238,
+		127 s550,
+		128 s443,
+		129 s54,
+		130 s659,
+		131 s67,
+		132 s239,
+		133 s336,
+		134 s763,
+		135 s499,
+		136 s655,
+		137 s159,
+		138 s277,
+		139 s811,
+		140 s284,
+		141 s629,
+		142 s671,
+		143 s514,
+		144 s383,
+		145 s197,
+		146 s658,
+		147 s12,
+		148 s595,
+		149 s40,
+		150 s563,
+		151 s18,
+		152 s113,
+		153 s766,
+		154 s37,
+		155 s609,
+		156 s797,
+		157 s455,
+		158 s172,
+		159 s104,
+		160 s610,
+		161 s471,
+		162 s295,
+		163 s512,
+		164 s131,
+		165 s760,
+		166 s216,
+		167 s729,
+		168 s82,
+		169 s738,
+		170 s392,
+		171 s730,
+		172 s526,
+		173 s169,
+		174 s653,
+		175 s591,
+		176 s534,
+		177 s652,
+		178 s628,
+		179 s119,
+		180 s153,
+		181 s543,
+		182 s606,
+		183 s206,
+		184 s820,
+		185 s422,
+		186 s184,
+		187 s460,
+		188 s43,
+		189 s558,
+		190 s561,
+		191 s698,
+		192 s137,
+		193 s542,
+		194 s538,
+		195 s428,
+		196 s279,
+		197 s510,
+		198 s532,
+		199 s528,
+		200 s709,
+		201 s670,
+		202 s473,
+		203 s373,
+		204 s387,
+		205 s778,
+		206 s226,
+		207 s504,
+		208 s276,
+		209 s663,
+		210 s371,
+		211 s448,
+		212 s92,
+		213 s220,
+		214 s810,
+		215 s114,
+		216 s612,
+		217 s477,
+		218 s593,
+		219 s690,
+		220 s423,
+		221 s741,
+		222 s193,
+		223 s789,
+		224 s546,
+		225 s647,
+		226 s308,
+		227 s800,
+		228 s807,
+		229 s275,
+		230 s695,
+		231 s139,
+		232 s700,
+		233 s444,
+		234 s194,
+		235 s559,
+		236 s404,
+		237 s650,
+		238 s494,
+		239 s634,
+		240 s118,
+		241 s463,
+		242 s506,
+		243 s405,
+		244 s374,
+		245 s582,
+		246 s31,
+		247 s721,
+		248 s28,
+		249 s537,
+		250 s469,
+		251 s65,
+		252 s69,
+		253 s618,
+		254 s323,
+		255 s446,
+		256 s420,
+		257 s656,
+		258 s266,
+		259 s299,
+		260 s715,
+		261 s691,
+		262 s51,
+		263 s674,
+		264 s73,
+		265 s166,
+		266 s756,
+		267 s302,
+		268 s605,
+		269 s290,
+		270 s24,
+		271 s14,
+		272 s733,
+		273 s620,
+		274 s248,
+		275 s224,
+		276 s146,
+		277 s149,
+		278 s465,
+		279 s436,
+		280 s597,
+		281 s364,
+		282 s571,
+		283 s360,
+		284 s750,
+		285 s125,
+		286 s32,
+		287 s723,
+		288 s379,
+		289 s349,
+		290 s755,
+		291 s350,
+		292 s680,
+		293 s3,
+		294 s511,
+		295 s747,
+		296 s785,
+		297 s110,
+		298 s815,
+		299 s209,
+		300 s533,
+		301 s625,
+		302 s273,
+		303 s459,
+		304 s274,
+		305 s590,
+		306 s407,
+		307 s198,
+		308 s783,
+		309 s144,
+		310 s55,
+		311 s87,
+		312 s78,
+		313 s21,
+		314 s639,
+		315 s143,
+		316 s683,
+		317 s744,
+		318 s121,
+		319 s293,
+		320 s408,
+		321 s63,
+		322 s90,
+		323 s103,
+		324 s11,
+		325 s347,
+		326 s519,
+		327 s68,
+		328 s50,
+		329 s660,
+		330 s474,
+		331 s453,
+		332 s324,
+		333 s388,
+		334 s475,
+		335 s27,
+		336 s682,
+		337 s204,
+		338 s696,
+		339 s684,
+		340 s176,
+		341 s517,
+		342 s412,
+		343 s307,
+		344 s454,
+		345 s47,
+		346 s745,
+		347 s369,
+		348 s795,
+		349 s335,
+		350 s580,
+		351 s398,
+		352 s287,
+		353 s403,
+		354 s117,
+		355 s368,
+		356 s765,
+		357 s314,
+		358 s452,
+		359 s772,
+		360 s354,
+		361 s468,
+		362 s375,
+		363 s309,
+		364 s93,
+		365 s222,
+		366 s584,
+		367 s331,
+		368 s654,
+		369 s812,
+		370 s147,
+		371 s737,
+		372 s171,
+		373 s272,
+		374 s13,
+		375 s181,
+		376 s529,
+		377 s48,
+		378 s88,
+		379 s164,
+		380 s560,
+		381 s401,
+		382 s10,
+		383 s185,
+		384 s245,
+		385 s740,
+		386 s572,
+		387 s598,
+		388 s527,
+		389 s317,
+		390 s382,
+		391 s225,
+		392 s540,
+		393 s496,
+		394 s389,
+		395 s555,
+		396 s813,
+		397 s564,
+		398 s585,
+		399 s530,
+		400 s513,
+		401 s329,
+		402 s160,
+		403 s451,
+		404 s576,
+		405 s292,
+		406 s127,
+		407 s175,
+		408 s200,
+		409 s340,
+		410 s434,
+		411 s174,
+		412 s724,
+		413 s212,
+		414 s332,
+		415 s431,
+		416 s704,
+		417 s548,
+		418 s251,
+		419 s356,
+		420 s627,
+		421 s215,
+		422 s524,
+		423 s72,
+		424 s183,
+		425 s195,
+		426 s713,
+		427 s816,
+		428 s246,
+		429 s380,
+		430 s600,
+		431 s52,
+		432 s244,
+		433 s53,
+		434 s394,
+		435 s665,
+		436 s76,
+		437 s648,
+		438 s607,
+		439 s686,
+		440 s779,
+		441 s429,
+		442 s327,
+		443 s84,
+		444 s391,
+		445 s553,
+		446 s233,
+		447 s707,
+		448 s1,
+		449 s478,
+		450 s189,
+		451 s109,
+		452 s316,
+		453 s792,
+		454 s42,
+		455 s577,
+		456 s414,
+		457 s791,
+		458 s798,
+		459 s771,
+		460 s260,
+		461 s66,
+		462 s377,
+		463 s77,
+		464 s62,
+		465 s426,
+		466 s432,
+		467 s746,
+		468 s604,
+		469 s535,
+		470 s568,
+		471 s714,
+		472 s218,
+		473 s662,
+		474 s263,
+		475 s342,
+		476 s657,
+		477 s485,
+		478 s802,
+		479 s646,
+		480 s320,
+		481 s6,
+		482 s664,
+		483 s413,
+		484 s15,
+		485 s133,
+		486 s520,
+		487 s135,
+		488 s649,
+		489 s300,
+		490 s624,
+		491 s397,
+		492 s551,
+		493 s297,
+		494 s622,
+		495 s170,
+		496 s102,
+		497 s64,
+		498 s163,
+		499 s173,
+		500 s645,
+		501 s61,
+		502 s805,
+		503 s739,
+		504 s752,
+		505 s250,
+		506 s495,
+		507 s120,
+		508 s697,
+		509 s115,
+		510 s787,
+		511 s221,
+		512 s491,
+		513 s417,
+		514 s294,
+		515 s776,
+		516 s632,
+		517 s141,
+		518 s817,
+		519 s484,
+		520 s702,
+		521 s17,
+		522 s425,
+		523 s107,
+		524 s801,
+		525 s410,
+		526 s98,
+		527 s642,
+		528 s651,
+		529 s211,
+		530 s83,
+		531 s167,
+		532 s575,
+		533 s667,
+		534 s619,
+		535 s406,
+		536 s758,
+		537 s359,
+		538 s243,
+		539 s402,
+		540 s457,
+		541 s547,
+		542 s315,
+		543 s235,
+		544 s708,
+		545 s313,
+		546 s44,
+		547 s668,
+		548 s751,
+		549 s525,
+		550 s635,
+		551 s602,
+		552 s725,
+		553 s710,
+		554 s86,
+		555 s269,
+		556 s232,
+		557 s486,
+		558 s278,
+		559 s262,
+		560 s85,
+		561 s122,
+		562 s357,
+		563 s267,
+		564 s192,
+		565 s376,
+		566 s214,
+		567 s479,
+		568 s363,
+		569 s261,
+		570 s89,
+		571 s462,
+		572 s161,
+		573 s466,
+		574 s271,
+		575 s599,
+		576 s303,
+		577 s289,
+		578 s552,
+		579 s480,
+		580 s100,
+		581 s101,
+		582 s562,
+		583 s767,
+		584 s490,
+		585 s773,
+		586 s36,
+		587 s123,
+		588 s603,
+		589 s207,
+		590 s497,
+		591 s344,
+		592 s386,
+		593 s786,
+		594 s804,
+		595 s182,
+		596 s345,
+		597 s819,
+		598 s782,
+		599 s549,
+		600 s177,
+		601 s74,
+		602 s213,
+		603 s719,
+		604 s638,
+		605 s500,
+		606 s687,
+		607 s129,
+		608 s96,
+		609 s304,
+		610 s365,
+		611 s255,
+		612 s234,
+		613 s341,
+		614 s456,
+		615 s416,
+		616 s803,
+		617 s94,
+		618 s716,
+		619 s230,
+		620 s338,
+		621 s59,
+		622 s305,
+		623 s348,
+		624 s777,
+		625 s241,
+		626 s34,
+		627 s162,
+		628 s589,
+		629 s818,
+		630 s821,
+		631 s312,
+		632 s49,
+		633 s688,
+		634 s685,
+		635 s728,
+		636 s439,
+		637 s493,
+		638 s201,
+		639 s229,
+		640 s136,
+		641 s601,
+		642 s449,
+		643 s334,
+		644 s253,
+		645 s378,
+		646 s285,
+		647 s509,
+		648 s508,
+		649 s586,
+		650 s208,
+		651 s75,
+		652 s385,
+		653 s228,
+		654 s669,
+		655 s418,
+		656 s191,
+		657 s20,
+		658 s140,
+		659 s165,
+		660 s268,
+		661 s145,
+		662 s362,
+		663 s7,
+		664 s409,
+		665 s210,
+		666 s19,
+		667 s254,
+		668 s761,
+		669 s483,
+		670 s25,
+		671 s45,
+		672 s148,
+		673 s22,
+		674 s636,
+		675 s4,
+		676 s196,
+		677 s615,
+		678 s411,
+		679 s678,
+		680 s337,
+		681 s693,
+		682 s594,
+		683 s768,
+		684 s202,
+		685 s712,
+		686 s703,
+		687 s41,
+		688 s23,
+		689 s481,
+		690 s60,
+		691 s142,
+		692 s178,
+		693 s319,
+		694 s283,
+		695 s487,
+		696 s311,
+		697 s150,
+		698 s5,
+		699 s281,
+		700 s264,
+		701 s247,
+		702 s694,
+		703 s775,
+		704 s516,
+		705 s424,
+		706 s498,
+		707 s258,
+		708 s633,
+		709 s567,
+		710 s769,
+		711 s711,
+		712 s270,
+		713 s720,
+		714 s219,
+		715 s242,
+		716 s757,
+		717 s814,
+		718 s566,
+		719 s330,
+		720 s223,
+		721 s677,
+		722 s544,
+		723 s366,
+		724 s298,
+		725 s507,
+		726 s689,
+		727 s692,
+		728 s116,
+		729 s438,
+		730 s296,
+		731 s554,
+		732 s587,
+		733 s681,
+		734 s227,
+		735 s623,
+		736 s461,
+		737 s154,
+		738 s435,
+		739 s188,
+		740 s187,
+		741 s38,
+		742 s203,
+		743 s46,
+		744 s717,
+		745 s541,
+		746 s257,
+		747 s132,
+		748 s705,
+		749 s427,
+		750 s557,
+		751 s71,
+		752 s205,
+		753 s735,
+		754 s467,
+		755 s57,
+		756 s523,
+		757 s794,
+		758 s661,
+		759 s722,
+		760 s155,
+		761 s732,
+		762 s9,
+		763 s780,
+		764 s190,
+		765 s596,
+		766 s179,
+		767 s180,
+		768 s156,
+		769 s666,
+		770 s489,
+		771 s476,
+		772 s91,
+		773 s521,
+		774 s301,
+		775 s748,
+		776 s701,
+		777 s482,
+		778 s421,
+		779 s396,
+		780 s809,
+		781 s706,
+		782 s502,
+		783 s592,
+		784 s545,
+		785 s450,
+		786 s99,
+		787 s770,
+		788 s433,
+		789 s774,
+		790 s400,
+		791 s310,
+		792 s614,
+		793 s339,
+		794 s280,
+		795 s259,
+		796 s217,
+		797 s796,
+		798 s569,
+		799 s35,
+		800 s16,
+		801 s470,
+		802 s790,
+		803 s395,
+		804 s573,
+		805 s531,
+		806 s318,
+		807 s565,
+		808 s282,
+		809 s157,
+		810 s325,
+		811 s352,
+		812 s578,
+		813 s124,
+		814 s616,
+		815 s111,
+		816 s128,
+		817 s784,
+		818 s158,
+		819 s808,
+		820 s97,
+		821 s672;
+	TREE Tree2 = [&R] (((1[&def=augustus_masked-DS113631-processed-gene-0.13-mRNA-1,cid=c1037,aka=c1037]:0.800000,2[&def=genemark-DS113633-processed-gene-0.23-mRNA-1,cid=c976,aka=c976]:0.800000,3[&def=maker-DS114021-augustus-gene-0.20-mRNA-1,cid=c857,aka=c857]:0.800000,4[&def=maker-DS114090-snap-gene-0.30-mRNA-1,cid=c1001,aka=c1001]:0.800000,(279[&def=genemark-DS113198-processed-gene-0.34-mRNA-1,cid=c1789,aka=c1789]:0.200000,280[&def=augustus_masked-DS129363-processed-gene-0.2-mRNA-1,cid=c1788,aka=c1788]:0.200000)c1115[&cid=c1115,aka=c1115]:0.800000,(281[&def=augustus_masked-DS113399-processed-gene-0.18-mRNA-1,cid=c1202,aka=c1202]:0.700000,282[&def=genemark-DS113359-processed-gene-0.63-mRNA-1,cid=c1201,aka=c1201]:0.700000)c1126[&cid=c1126,aka=c1126]:0.800000,5[&def=genemark-DS114133-processed-gene-0.9-mRNA-1,cid=c955,aka=c955]:0.800000,6[&def=genemark-DS114037-processed-gene-0.17-mRNA-1,cid=c1094,aka=c1094]:0.800000,(283[&def=augustus_masked-DS113286-processed-gene-0.10-mRNA-1,cid=c1204,aka=c1204]:0.700000,284[&def=augustus_masked-DS113396-processed-gene-0.0-mRNA-1,cid=c1203,aka=c1203]:0.700000)c1109[&cid=c1109,aka=c1109]:0.800000,7[&def=snap_masked-DS113435-processed-gene-0.78-mRNA-1,cid=c851,aka=c851]:0.800000,8[&def=genemark-DS113269-processed-gene-0.102-mRNA-1,cid=c912,aka=c912]:0.800000,9[&def=genemark-DS113490-processed-gene-0.8-mRNA-1,cid=c839,aka=c839]:0.800000,10[&def=genemark-DS113411-processed-gene-0.32-mRNA-1,cid=c914,aka=c914]:0.800000,(285[&def=snap_masked-DS113231-processed-gene-1.87-mRNA-1,cid=c1206,aka=c1206]:0.700000,(687[&def=genemark-DS113786-processed-gene-0.31-mRNA-1,cid=c1707,aka=c1707]:0.600000,688[&def=augustus_masked-DS113382-processed-gene-0.1-mRNA-1,cid=c1708,aka=c1708]:0.600000)c1207[&cid=c1207,aka=c1207]:0.700000,286[&def=augustus_masked-DS113348-processed-gene-0.16-mRNA-1,cid=c1205,aka=c1205]:0.700000)c1194[&cid=c1194,aka=c1194]:0.800000,11[&def=genemark-DS113770-processed-gene-0.30-mRNA-1,cid=c1006,aka=c1006]:0.800000,12[&def=genemark-DS113237-processed-gene-0.27-mRNA-1,cid=c1032,aka=c1032]:0.800000,13[&def=genemark-DS113348-processed-gene-0.24-mRNA-1,cid=c1012,aka=c1012]:0.800000,(287[&def=augustus_masked-DS113478-processed-gene-0.15-mRNA-1,cid=c1209,aka=c1209]:0.700000,288[&def=augustus_masked-DS113177-processed-gene-1.46-mRNA-1,cid=c1208,aka=c1208]:0.700000)c1132[&cid=c1132,aka=c1132]:0.800000,(289[&def=genemark-DS114090-processed-gene-0.14-mRNA-1,cid=c1210,aka=c1210]:0.700000,290[&def=augustus_masked-DS113420-processed-gene-0.2-mRNA-1,cid=c1211,aka=c1211]:0.700000)c1136[&cid=c1136,aka=c1136]:0.800000,14[&def=augustus_masked-DS113392-processed-gene-0.17-mRNA-1,cid=c1091,aka=c1091]:0.800000,(291[&def=augustus_masked-DS114090-processed-gene-0.4-mRNA-1,cid=c1212,aka=c1212]:0.700000,292[&def=augustus_masked-DS113628-processed-gene-0.6-mRNA-1,cid=c1213,aka=c1213]:0.700000)c1190[&cid=c1190,aka=c1190]:0.800000,15[&def=augustus_masked-DS113446-processed-gene-0.17-mRNA-1,cid=c894,aka=c894]:0.800000,16[&def=augustus_masked-DS113461-processed-gene-0.9-mRNA-1,cid=c961,aka=c961]:0.800000,17[&def=genemark-DS113938-processed-gene-0.15-mRNA-1,cid=c836,aka=c836]:0.800000,(293[&def=genemark-DS113435-processed-gene-0.63-mRNA-1,cid=c1602,aka=c1602]:0.600000,294[&def=genemark-DS113299-processed-gene-0.17-mRNA-1,cid=c1601,aka=c1601]:0.600000)c1141[&cid=c1141,aka=c1141]:0.800000,18[&def=genemark-DS113691-processed-gene-0.33-mRNA-1,cid=c939,aka=c939]:0.800000,(295[&def=snap_masked-DS113210-processed-gene-1.98-mRNA-1,cid=c1214,aka=c1214]:0.700000,296[&def=genemark-DS113208-processed-gene-1.26-mRNA-1,cid=c1215,aka=c1215]:0.700000)c1178[&cid=c1178,aka=c1178]:0.800000,19[&def=augustus_masked-DS113319-processed-gene-0.12-mRNA-1,cid=c983,aka=c983]:0.800000,20[&def=genemark-DS113182-processed-gene-1.18-mRNA-1,cid=c887,aka=c887]:0.800000,(297[&def=genemark-DS113563-processed-gene-0.38-mRNA-1,cid=c1217,aka=c1217]:0.700000,298[&def=genemark-DS113369-processed-gene-0.44-mRNA-1,cid=c1216,aka=c1216]:0.700000)c1120[&cid=c1120,aka=c1120]:0.800000,21[&def=genemark-DS113346-processed-gene-0.19-mRNA-1,cid=c952,aka=c952]:0.800000,22[&def=augustus_masked-DS114045-processed-gene-0.1-mRNA-1,cid=c866,aka=c866]:0.800000,23[&def=genemark-DS113250-processed-gene-0.80-mRNA-1,cid=c1042,aka=c1042]:0.800000,24[&def=augustus_masked-DS113259-processed-gene-0.2-mRNA-1,cid=c823,aka=c823]:0.800000,25[&def=augustus_masked-DS113177-processed-gene-3.10-mRNA-1,cid=c1067,aka=c1067]:0.800000,(299[&def=augustus_masked-DS113184-processed-gene-1.36-mRNA-1,cid=c1218,aka=c1218]:0.700000,(689[&def=augustus_masked-DS113846-processed-gene-0.5-mRNA-1,cid=c1769,aka=c1769]:0.500000,690[&def=augustus_masked-DS113886-processed-gene-0.3-mRNA-1,cid=c1768,aka=c1768]:0.500000)c1219[&cid=c1219,aka=c1219]:0.700000)c1186[&cid=c1186,aka=c1186]:0.800000,26[&def=augustus_masked-DS113505-processed-gene-0.5-mRNA-1,cid=c1077,aka=c1077]:0.800000,(300[&def=genemark-DS114170-processed-gene-0.5-mRNA-1,cid=c1750,aka=c1750]:0.500000,301[&def=genemark-DS113217-processed-gene-0.67-mRNA-1,cid=c1751,aka=c1751]:0.500000)c1135[&cid=c1135,aka=c1135]:0.800000,27[&def=genemark-DS113180-processed-gene-0.53-mRNA-1,cid=c844,aka=c844]:0.800000,28[&def=genemark-DS114851-processed-gene-0.4-mRNA-1,cid=c940,aka=c940]:0.800000,(302[&def=maker-DS114172-snap-gene-0.20-mRNA-1,cid=c1228,aka=c1228]:0.700000,303[&def=augustus_masked-DS114185-processed-gene-0.8-mRNA-1,cid=c1236,aka=c1236]:0.700000,304[&def=snap_masked-DS114172-processed-gene-0.19-mRNA-1,cid=c1221,aka=c1221]:0.700000,305[&def=augustus_masked-DS113344-processed-gene-0.7-mRNA-1,cid=c1235,aka=c1235]:0.700000,306[&def=augustus_masked-DS114249-processed-gene-0.0-mRNA-1,cid=c1223,aka=c1223]:0.700000,307[&def=augustus_masked-DS113409-processed-gene-0.2-mRNA-1,cid=c1224,aka=c1224]:0.700000,308[&def=genemark-DS114232-processed-gene-0.0-mRNA-1,cid=c1237,aka=c1237]:0.700000,309[&def=augustus_masked-DS114048-processed-gene-0.6-mRNA-1,cid=c1229,aka=c1229]:0.700000,310[&def=augustus_masked-DS113527-processed-gene-0.4-mRNA-1,cid=c1225,aka=c1225]:0.700000,311[&def=augustus_masked-DS113325-processed-gene-0.9-mRNA-1,cid=c1238,aka=c1238]:0.700000,312[&def=genemark-DS113743-processed-gene-0.7-mRNA-1,cid=c1233,aka=c1233]:0.700000,313[&def=augustus_masked-DS113677-processed-gene-0.11-mRNA-1,cid=c1227,aka=c1227]:0.700000,314[&def=genemark-DS113523-processed-gene-0.19-mRNA-1,cid=c1222,aka=c1222]:0.700000,315[&def=genemark-DS114048-processed-gene-0.17-mRNA-1,cid=c1220,aka=c1220]:0.700000,316[&def=augustus_masked-DS115055-processed-gene-0.0-mRNA-1,cid=c1231,aka=c1231]:0.700000,317[&def=snap_masked-DS113817-processed-gene-0.30-mRNA-1,cid=c1226,aka=c1226]:0.700000,318[&def=augustus_masked-DS113236-processed-gene-0.9-mRNA-1,cid=c1230,aka=c1230]:0.700000,319[&def=augustus_masked-DS113401-processed-gene-0.4-mRNA-1,cid=c1234,aka=c1234]:0.700000,320[&def=genemark-DS114249-processed-gene-0.8-mRNA-1,cid=c1232,aka=c1232]:0.700000)c1172[&cid=c1172,aka=c1172]:0.800000,(321[&def=augustus_masked-DS114881-processed-gene-0.0-mRNA-1,cid=c1240,aka=c1240]:0.700000,322[&def=genemark-DS113325-processed-gene-0.72-mRNA-1,cid=c1239,aka=c1239]:0.700000)c1149[&cid=c1149,aka=c1149]:0.800000,29[&def=genemark-DS114033-processed-gene-0.15-mRNA-1,cid=c1082,aka=c1082]:0.800000,30[&def=augustus_masked-DS113664-processed-gene-0.6-mRNA-1,cid=c1089,aka=c1089]:0.800000,31[&def=genemark-DS113331-processed-gene-0.64-mRNA-1,cid=c869,aka=c869]:0.800000,32[&def=genemark-DS113872-processed-gene-0.26-mRNA-1,cid=c888,aka=c888]:0.800000,33[&def=snap_masked-DS113699-processed-gene-0.43-mRNA-1,cid=c982,aka=c982]:0.800000,34[&def=snap_masked-DS113829-processed-gene-0.46-mRNA-1,cid=c968,aka=c968]:0.800000,35[&def=genemark-DS114185-processed-gene-0.12-mRNA-1,cid=c994,aka=c994]:0.800000,36[&def=genemark-DS113397-processed-gene-0.57-mRNA-1,cid=c1026,aka=c1026]:0.800000,(323[&def=genemark-DS113269-processed-gene-0.77-mRNA-1,cid=c1242,aka=c1242]:0.700000,324[&def=augustus_masked-DS113275-processed-gene-0.33-mRNA-1,cid=c1241,aka=c1241]:0.700000,325[&def=genemark-DS113199-processed-gene-1.9-mRNA-1,cid=c1243,aka=c1243]:0.700000)c1158[&cid=c1158,aka=c1158]:0.800000,37[&def=augustus_masked-DS113745-processed-gene-0.9-mRNA-1,cid=c847,aka=c847]:0.800000,38[&def=genemark-DS113348-processed-gene-0.25-mRNA-1,cid=c833,aka=c833]:0.800000,((691[&def=genemark-DS113274-processed-gene-0.75-mRNA-1,cid=c1644,aka=c1644]:0.600000,692[&def=snap_masked-DS113657-processed-gene-0.45-mRNA-1,cid=c1645,aka=c1645]:0.600000)c1245[&cid=c1245,aka=c1245]:0.700000,(693[&def=augustus_masked-DS113900-processed-gene-0.6-mRNA-1,cid=c1784,aka=c1784]:0.300000,694[&def=genemark-DS113179-processed-gene-1.45-mRNA-1,cid=c1785,aka=c1785]:0.300000)c1246[&cid=c1246,aka=c1246]:0.700000,326[&def=genemark-DS113608-processed-gene-0.39-mRNA-1,cid=c1244,aka=c1244]:0.700000)c1145[&cid=c1145,aka=c1145]:0.800000,39[&def=augustus_masked-DS113327-processed-gene-0.4-mRNA-1,cid=c919,aka=c919]:0.800000,40[&def=augustus_masked-DS113669-processed-gene-0.5-mRNA-1,cid=c999,aka=c999]:0.800000,41[&def=augustus_masked-DS113300-processed-gene-0.29-mRNA-1,cid=c1086,aka=c1086]:0.800000,42[&def=augustus_masked-DS113285-processed-gene-0.18-mRNA-1,cid=c987,aka=c987]:0.800000,43[&def=genemark-DS113675-processed-gene-0.24-mRNA-1,cid=c1015,aka=c1015]:0.800000,44[&def=augustus_masked-DS113411-processed-gene-0.4-mRNA-1,cid=c946,aka=c946]:0.800000,45[&def=augustus_masked-DS113286-processed-gene-0.29-mRNA-1,cid=c971,aka=c971]:0.800000,46[&def=augustus_masked-DS113714-processed-gene-0.4-mRNA-1,cid=c1069,aka=c1069]:0.800000,(327[&def=augustus_masked-DS113258-processed-gene-0.7-mRNA-1,cid=c1247,aka=c1247]:0.700000,328[&def=augustus_masked-DS113650-processed-gene-0.1-mRNA-1,cid=c1248,aka=c1248]:0.700000)c1129[&cid=c1129,aka=c1129]:0.800000,(329[&def=augustus_masked-DS113639-processed-gene-0.5-mRNA-1,cid=c1259,aka=c1259]:0.700000,330[&def=genemark-DS114127-processed-gene-0.18-mRNA-1,cid=c1261,aka=c1261]:0.700000,331[&def=genemark-DS113625-processed-gene-0.23-mRNA-1,cid=c1260,aka=c1260]:0.700000,332[&def=genemark-DS113366-processed-gene-0.55-mRNA-1,cid=c1254,aka=c1254]:0.700000,333[&def=genemark-DS113905-processed-gene-0.20-mRNA-1,cid=c1253,aka=c1253]:0.700000,334[&def=augustus_masked-DS114127-processed-gene-0.3-mRNA-1,cid=c1267,aka=c1267]:0.700000,335[&def=genemark-DS113348-processed-gene-0.30-mRNA-1,cid=c1249,aka=c1249]:0.700000,336[&def=genemark-DS113617-processed-gene-0.44-mRNA-1,cid=c1265,aka=c1265]:0.700000,337[&def=augustus_masked-DS115293-processed-gene-0.0-mRNA-1,cid=c1258,aka=c1258]:0.700000,338[&def=genemark-DS114498-processed-gene-0.11-mRNA-1,cid=c1252,aka=c1252]:0.700000,339[&def=genemark-DS113820-processed-gene-0.24-mRNA-1,cid=c1266,aka=c1266]:0.700000,340[&def=genemark-DS113241-processed-gene-0.78-mRNA-1,cid=c1250,aka=c1250]:0.700000,341[&def=genemark-DS113368-processed-gene-0.39-mRNA-1,cid=c1255,aka=c1255]:0.700000,342[&def=genemark-DS113222-processed-gene-1.45-mRNA-1,cid=c1262,aka=c1262]:0.700000,343[&def=genemark-DS113327-processed-gene-0.52-mRNA-1,cid=c1268,aka=c1268]:0.700000,344[&def=augustus_masked-DS113625-processed-gene-0.4-mRNA-1,cid=c1256,aka=c1256]:0.700000,345[&def=genemark-DS114178-processed-gene-0.13-mRNA-1,cid=c1257,aka=c1257]:0.700000,346[&def=augustus_masked-DS115754-processed-gene-0.3-mRNA-1,cid=c1263,aka=c1263]:0.700000,347[&def=genemark-DS113770-processed-gene-0.34-mRNA-1,cid=c1264,aka=c1264]:0.700000,348[&def=augustus_masked-DS113343-processed-gene-0.18-mRNA-1,cid=c1251,aka=c1251]:0.700000)c1156[&cid=c1156,aka=c1156]:0.800000,47[&def=augustus_masked-DS113459-processed-gene-0.4-mRNA-1,cid=c1030,aka=c1030]:0.800000,48[&def=genemark-DS113257-processed-gene-0.87-mRNA-1,cid=c925,aka=c925]:0.800000,49[&def=genemark-DS113192-processed-gene-1.16-mRNA-1,cid=c1022,aka=c1022]:0.800000,50[&def=genemark-DS113607-processed-gene-0.18-mRNA-1,cid=c881,aka=c881]:0.800000,51[&def=augustus_masked-DS113377-processed-gene-0.1-mRNA-1,cid=c906,aka=c906]:0.800000,52[&def=genemark-DS113355-processed-gene-0.49-mRNA-1,cid=c852,aka=c852]:0.800000,53[&def=genemark-DS113206-processed-gene-0.21-mRNA-1,cid=c1053,aka=c1053]:0.800000,54[&def=snap_masked-DS113350-processed-gene-0.71-mRNA-1,cid=c929,aka=c929]:0.800000,55[&def=augustus_masked-DS114550-processed-gene-0.1-mRNA-1,cid=c903,aka=c903]:0.800000,(349[&def=augustus_masked-DS113254-processed-gene-0.20-mRNA-1,cid=c1270,aka=c1270]:0.700000,350[&def=genemark-DS113329-processed-gene-0.61-mRNA-1,cid=c1269,aka=c1269]:0.700000)c1176[&cid=c1176,aka=c1176]:0.800000,56[&def=snap_masked-DS113733-processed-gene-0.54-mRNA-1,cid=c992,aka=c992]:0.800000,57[&def=genemark-DS113207-processed-gene-1.81-mRNA-1,cid=c921,aka=c921]:0.800000,58[&def=genemark-DS113217-processed-gene-0.61-mRNA-1,cid=c870,aka=c870]:0.800000,59[&def=genemark-DS113853-processed-gene-0.19-mRNA-1,cid=c1081,aka=c1081]:0.800000,60[&def=genemark-DS113197-processed-gene-1.25-mRNA-1,cid=c875,aka=c875]:0.800000,(351[&def=augustus_masked-DS114169-processed-gene-0.0-mRNA-1,cid=c1771,aka=c1771]:0.400000,352[&def=genemark-DS113179-processed-gene-3.14-mRNA-1,cid=c1770,aka=c1770]:0.400000)c1139[&cid=c1139,aka=c1139]:0.800000,61[&def=genemark-DS113366-processed-gene-0.52-mRNA-1,cid=c935,aka=c935]:0.800000,(353[&def=augustus_masked-DS113630-processed-gene-0.4-mRNA-1,cid=c1345,aka=c1345]:0.700000,354[&def=snap_masked-DS114253-processed-gene-0.21-mRNA-1,cid=c1352,aka=c1352]:0.700000,355[&def=genemark-DS113475-processed-gene-0.34-mRNA-1,cid=c1390,aka=c1390]:0.700000,356[&def=genemark-DS113195-processed-gene-1.66-mRNA-1,cid=c1375,aka=c1375]:0.700000,357[&def=augustus_masked-DS113735-processed-gene-0.2-mRNA-1,cid=c1385,aka=c1385]:0.700000,(695[&def=genemark-DS113810-processed-gene-0.12-mRNA-1,cid=c1646,aka=c1646]:0.600000,696[&def=augustus_masked-DS114036-processed-gene-0.5-mRNA-1,cid=c1647,aka=c1647]:0.600000)c1413[&cid=c1413,aka=c1413]:0.700000,(697[&def=augustus_masked-DS113253-processed-gene-0.7-mRNA-1,cid=c1762,aka=c1762]:0.500000,698[&def=genemark-DS113381-processed-gene-0.63-mRNA-1,cid=c1763,aka=c1763]:0.500000)c1418[&cid=c1418,aka=c1418]:0.700000,358[&def=augustus_masked-DS113185-processed-gene-3.14-mRNA-1,cid=c1293,aka=c1293]:0.700000,359[&def=genemark-DS113845-processed-gene-0.15-mRNA-1,cid=c1363,aka=c1363]:0.700000,360[&def=genemark-DS113403-processed-gene-0.22-mRNA-1,cid=c1306,aka=c1306]:0.700000,361[&def=snap_masked-DS113749-processed-gene-0.39-mRNA-1,cid=c1336,aka=c1336]:0.700000,362[&def=genemark-DS113233-processed-gene-1.51-mRNA-1,cid=c1289,aka=c1289]:0.700000,363[&def=genemark-DS113232-processed-gene-1.25-mRNA-1,cid=c1321,aka=c1321]:0.700000,(699[&def=genemark-DS113238-processed-gene-0.34-mRNA-1,cid=c1672,aka=c1672]:0.600000,700[&def=genemark-DS113828-processed-gene-0.7-mRNA-1,cid=c1673,aka=c1673]:0.600000)c1409[&cid=c1409,aka=c1409]:0.700000,364[&def=augustus_masked-DS113257-processed-gene-0.37-mRNA-1,cid=c1312,aka=c1312]:0.700000,365[&def=genemark-DS114130-processed-gene-0.3-mRNA-1,cid=c1404,aka=c1404]:0.700000,366[&def=genemark-DS113712-processed-gene-0.20-mRNA-1,cid=c1380,aka=c1380]:0.700000,367[&def=augustus_masked-DS113267-processed-gene-0.20-mRNA-1,cid=c1406,aka=c1406]:0.700000,368[&def=genemark-DS113538-processed-gene-0.31-mRNA-1,cid=c1333,aka=c1333]:0.700000,369[&def=augustus_masked-DS113479-processed-gene-0.4-mRNA-1,cid=c1325,aka=c1325]:0.700000,370[&def=genemark-DS113194-processed-gene-1.35-mRNA-1,cid=c1349,aka=c1349]:0.700000,371[&def=maker-DS114322-snap-gene-0.17-mRNA-1,cid=c1310,aka=c1310]:0.700000,372[&def=augustus_masked-DS113376-processed-gene-0.4-mRNA-1,cid=c1303,aka=c1303]:0.700000,373[&def=genemark-DS113216-processed-gene-0.46-mRNA-1,cid=c1396,aka=c1396]:0.700000,374[&def=augustus_masked-DS113994-processed-gene-0.0-mRNA-1,cid=c1382,aka=c1382]:0.700000,375[&def=augustus_masked-DS113987-processed-gene-0.2-mRNA-1,cid=c1329,aka=c1329]:0.700000,(701[&def=snap_masked-DS113200-processed-gene-1.153-mRNA-1,cid=c1737,aka=c1737]:0.500000,702[&def=augustus_masked-DS113202-processed-gene-1.20-mRNA-1,cid=c1738,aka=c1738]:0.500000)c1429[&cid=c1429,aka=c1429]:0.700000,376[&def=augustus_masked-DS113214-processed-gene-0.10-mRNA-1,cid=c1367,aka=c1367]:0.700000,377[&def=genemark-DS113510-processed-gene-0.49-mRNA-1,cid=c1361,aka=c1361]:0.700000,378[&def=genemark-DS113325-processed-gene-0.34-mRNA-1,cid=c1318,aka=c1318]:0.700000,379[&def=genemark-DS113183-processed-gene-2.39-mRNA-1,cid=c1398,aka=c1398]:0.700000,380[&def=augustus_masked-DS113264-processed-gene-0.29-mRNA-1,cid=c1347,aka=c1347]:0.700000,381[&def=augustus_masked-DS113504-processed-gene-0.5-mRNA-1,cid=c1379,aka=c1379]:0.700000,382[&def=genemark-DS113275-processed-gene-0.83-mRNA-1,cid=c1280,aka=c1280]:0.700000,383[&def=genemark-DS113333-processed-gene-0.53-mRNA-1,cid=c1341,aka=c1341]:0.700000,384[&def=maker-DS113200-augustus-gene-0.54-mRNA-1,cid=c1308,aka=c1308]:0.700000,385[&def=genemark-DS113484-processed-gene-0.16-mRNA-1,cid=c1340,aka=c1340]:0.700000,386[&def=augustus_masked-DS113359-processed-gene-0.10-mRNA-1,cid=c1278,aka=c1278]:0.700000,387[&def=snap_masked-DS113235-processed-gene-0.61-mRNA-1,cid=c1395,aka=c1395]:0.700000,388[&def=augustus_masked-DS113214-processed-gene-0.2-mRNA-1,cid=c1376,aka=c1376]:0.700000,389[&def=augustus_masked-DS113260-processed-gene-0.4-mRNA-1,cid=c1305,aka=c1305]:0.700000,390[&def=genemark-DS113177-processed-gene-4.103-mRNA-1,cid=c1285,aka=c1285]:0.700000,391[&def=genemark-DS114145-processed-gene-0.8-mRNA-1,cid=c1387,aka=c1387]:0.700000,392[&def=maker-DS113201-augustus-gene-1.173-mRNA-1,cid=c1402,aka=c1402]:0.700000,393[&def=genemark-DS113502-processed-gene-0.30-mRNA-1,cid=c1338,aka=c1338]:0.700000,394[&def=genemark-DS113317-processed-gene-0.37-mRNA-1,cid=c1350,aka=c1350]:0.700000,((803[&def=maker-DS114086-snap-gene-0.27-mRNA-1,cid=c1798,aka=c1798]:0.200000,804[&def=maker-DS114221-snap-gene-0.19-mRNA-1,cid=c1799,aka=c1799]:0.200000)c1604[&cid=c1604,aka=c1604]:0.600000,703[&def=genemark-DS114330-processed-gene-0.11-mRNA-1,cid=c1603,aka=c1603]:0.600000)c1416[&cid=c1416,aka=c1416]:0.700000,395[&def=genemark-DS113507-processed-gene-0.22-mRNA-1,cid=c1288,aka=c1288]:0.700000,396[&def=augustus_masked-DS118263-processed-gene-0.0-mRNA-1,cid=c1400,aka=c1400]:0.700000,397[&def=augustus_masked-DS113266-processed-gene-0.32-mRNA-1,cid=c1342,aka=c1342]:0.700000,398[&def=genemark-DS113724-processed-gene-0.17-mRNA-1,cid=c1317,aka=c1317]:0.700000,(704[&def=genemark-DS113518-processed-gene-0.45-mRNA-1,cid=c1607,aka=c1607]:0.600000,705[&def=snap_masked-DS113924-processed-gene-0.42-mRNA-1,cid=c1608,aka=c1608]:0.600000)c1424[&cid=c1424,aka=c1424]:0.700000,399[&def=augustus_masked-DS113214-processed-gene-1.65-mRNA-1,cid=c1354,aka=c1354]:0.700000,(706[&def=augustus_masked-DS113487-processed-gene-0.9-mRNA-1,cid=c1651,aka=c1651]:0.600000,707[&def=augustus_masked-DS113416-processed-gene-0.0-mRNA-1,cid=c1650,aka=c1650]:0.600000)c1430[&cid=c1430,aka=c1430]:0.700000,400[&def=genemark-DS113489-processed-gene-0.37-mRNA-1,cid=c1286,aka=c1286]:0.700000,(708[&def=genemark-DS113259-processed-gene-0.57-mRNA-1,cid=c1681,aka=c1681]:0.600000,709[&def=augustus_masked-DS113225-processed-gene-1.11-mRNA-1,cid=c1680,aka=c1680]:0.600000)c1426[&cid=c1426,aka=c1426]:0.700000,401[&def=genemark-DS113840-processed-gene-0.12-mRNA-1,cid=c1365,aka=c1365]:0.700000,402[&def=genemark-DS114159-processed-gene-0.6-mRNA-1,cid=c1283,aka=c1283]:0.700000,403[&def=augustus_masked-DS113185-processed-gene-3.16-mRNA-1,cid=c1381,aka=c1381]:0.700000,(710[&def=snap_masked-DS113262-processed-gene-0.103-mRNA-1,cid=c1630,aka=c1630]:0.600000,711[&def=augustus_masked-DS113894-processed-gene-0.9-mRNA-1,cid=c1629,aka=c1629]:0.600000)c1411[&cid=c1411,aka=c1411]:0.700000,404[&def=genemark-DS113676-processed-gene-0.8-mRNA-1,cid=c1370,aka=c1370]:0.700000,405[&def=genemark-DS113287-processed-gene-0.26-mRNA-1,cid=c1389,aka=c1389]:0.700000,406[&def=augustus_masked-DS113231-processed-gene-1.17-mRNA-1,cid=c1284,aka=c1284]:0.700000,407[&def=genemark-DS113241-processed-gene-0.83-mRNA-1,cid=c1296,aka=c1296]:0.700000,408[&def=augustus_masked-DS113422-processed-gene-0.10-mRNA-1,cid=c1316,aka=c1316]:0.700000,409[&def=genemark-DS113771-processed-gene-0.29-mRNA-1,cid=c1276,aka=c1276]:0.700000,410[&def=augustus_masked-DS113573-processed-gene-0.10-mRNA-1,cid=c1344,aka=c1344]:0.700000,411[&def=genemark-DS113241-processed-gene-0.48-mRNA-1,cid=c1392,aka=c1392]:0.700000,412[&def=maker-DS113477-augustus-gene-0.59-mRNA-1,cid=c1384,aka=c1384]:0.700000,413[&def=genemark-DS113184-processed-gene-3.58-mRNA-1,cid=c1309,aka=c1309]:0.700000,414[&def=genemark-DS113704-processed-gene-0.12-mRNA-1,cid=c1300,aka=c1300]:0.700000,415[&def=genemark-DS113237-processed-gene-0.34-mRNA-1,cid=c1335,aka=c1335]:0.700000,416[&def=genemark-DS113588-processed-gene-0.26-mRNA-1,cid=c1271,aka=c1271]:0.700000,417[&def=augustus_masked-DS113212-processed-gene-1.15-mRNA-1,cid=c1320,aka=c1320]:0.700000,418[&def=genemark-DS113838-processed-gene-0.19-mRNA-1,cid=c1291,aka=c1291]:0.700000,(712[&def=augustus_masked-DS113769-processed-gene-0.4-mRNA-1,cid=c1654,aka=c1654]:0.600000,713[&def=augustus_masked-DS113478-processed-gene-0.5-mRNA-1,cid=c1653,aka=c1653]:0.600000,714[&def=genemark-DS113330-processed-gene-0.13-mRNA-1,cid=c1652,aka=c1652]:0.600000,715[&def=augustus_masked-DS113316-processed-gene-0.8-mRNA-1,cid=c1655,aka=c1655]:0.600000)c1408[&cid=c1408,aka=c1408]:0.700000,419[&def=genemark-DS113206-processed-gene-1.78-mRNA-1,cid=c1298,aka=c1298]:0.700000,420[&def=augustus_masked-DS113217-processed-gene-1.8-mRNA-1,cid=c1281,aka=c1281]:0.700000,421[&def=genemark-DS113281-processed-gene-0.50-mRNA-1,cid=c1323,aka=c1323]:0.700000,422[&def=augustus_masked-DS113412-processed-gene-0.19-mRNA-1,cid=c1359,aka=c1359]:0.700000,423[&def=augustus_masked-DS113181-processed-gene-1.47-mRNA-1,cid=c1314,aka=c1314]:0.700000,(716[&def=genemark-DS113385-processed-gene-0.48-mRNA-1,cid=c1686,aka=c1686]:0.600000,717[&def=augustus_masked-DS113782-processed-gene-0.1-mRNA-1,cid=c1687,aka=c1687]:0.600000)c1414[&cid=c1414,aka=c1414]:0.700000,(718[&def=genemark-DS113225-processed-gene-0.31-mRNA-1,cid=c1689,aka=c1689]:0.600000,719[&def=genemark-DS113267-processed-gene-0.98-mRNA-1,cid=c1688,aka=c1688]:0.600000)c1427[&cid=c1427,aka=c1427]:0.700000,(720[&def=genemark-DS113807-processed-gene-0.28-mRNA-1,cid=c1631,aka=c1631]:0.600000,721[&def=genemark-DS113276-processed-gene-0.53-mRNA-1,cid=c1632,aka=c1632]:0.600000)c1421[&cid=c1421,aka=c1421]:0.700000,424[&def=augustus_masked-DS113722-processed-gene-0.3-mRNA-1,cid=c1332,aka=c1332]:0.700000,425[&def=genemark-DS113409-processed-gene-0.42-mRNA-1,cid=c1319,aka=c1319]:0.700000,426[&def=augustus_masked-DS113186-processed-gene-1.43-mRNA-1,cid=c1368,aka=c1368]:0.700000,(722[&def=genemark-DS113341-processed-gene-0.72-mRNA-1,cid=c1691,aka=c1691]:0.600000,723[&def=genemark-DS113402-processed-gene-0.26-mRNA-1,cid=c1690,aka=c1690]:0.600000)c1419[&cid=c1419,aka=c1419]:0.700000,427[&def=genemark-DS113661-processed-gene-0.25-mRNA-1,cid=c1277,aka=c1277]:0.700000,428[&def=augustus_masked-DS113200-processed-gene-0.5-mRNA-1,cid=c1399,aka=c1399]:0.700000,(724[&def=genemark-DS113356-processed-gene-0.35-mRNA-1,cid=c1611,aka=c1611]:0.600000,725[&def=genemark-DS113616-processed-gene-0.11-mRNA-1,cid=c1612,aka=c1612]:0.600000)c1417[&cid=c1417,aka=c1417]:0.700000,429[&def=augustus_masked-DS113177-processed-gene-2.13-mRNA-1,cid=c1302,aka=c1302]:0.700000,430[&def=genemark-DS113235-processed-gene-1.25-mRNA-1,cid=c1360,aka=c1360]:0.700000,431[&def=genemark-DS114226-processed-gene-0.10-mRNA-1,cid=c1337,aka=c1337]:0.700000,432[&def=augustus_masked-DS113308-processed-gene-0.7-mRNA-1,cid=c1353,aka=c1353]:0.700000,433[&def=augustus_masked-DS113493-processed-gene-0.7-mRNA-1,cid=c1391,aka=c1391]:0.700000,434[&def=genemark-DS114427-processed-gene-0.9-mRNA-1,cid=c1366,aka=c1366]:0.700000,435[&def=augustus_masked-DS113757-processed-gene-0.7-mRNA-1,cid=c1328,aka=c1328]:0.700000,436[&def=augustus_masked-DS113291-processed-gene-0.3-mRNA-1,cid=c1403,aka=c1403]:0.700000,437[&def=augustus_masked-DS113522-processed-gene-0.14-mRNA-1,cid=c1290,aka=c1290]:0.700000,438[&def=genemark-DS113178-processed-gene-4.37-mRNA-1,cid=c1383,aka=c1383]:0.700000,439[&def=augustus_masked-DS113301-processed-gene-0.30-mRNA-1,cid=c1273,aka=c1273]:0.700000,440[&def=genemark-DS113418-processed-gene-0.53-mRNA-1,cid=c1405,aka=c1405]:0.700000,441[&def=augustus_masked-DS113237-processed-gene-0.2-mRNA-1,cid=c1294,aka=c1294]:0.700000,442[&def=genemark-DS113219-processed-gene-1.60-mRNA-1,cid=c1377,aka=c1377]:0.700000,443[&def=augustus_masked-DS113713-processed-gene-0.0-mRNA-1,cid=c1357,aka=c1357]:0.700000,444[&def=genemark-DS113692-processed-gene-0.13-mRNA-1,cid=c1327,aka=c1327]:0.700000,445[&def=genemark-DS113641-processed-gene-0.29-mRNA-1,cid=c1307,aka=c1307]:0.700000,446[&def=augustus_masked-DS113351-processed-gene-0.6-mRNA-1,cid=c1313,aka=c1313]:0.700000,447[&def=genemark-DS113898-processed-gene-0.16-mRNA-1,cid=c1324,aka=c1324]:0.700000,(726[&def=augustus_masked-DS113203-processed-gene-0.7-mRNA-1,cid=c1742,aka=c1742]:0.500000,727[&def=genemark-DS113202-processed-gene-0.52-mRNA-1,cid=c1741,aka=c1741]:0.500000)c1431[&cid=c1431,aka=c1431]:0.700000,448[&def=genemark-DS113787-processed-gene-0.29-mRNA-1,cid=c1282,aka=c1282]:0.700000,449[&def=genemark-DS115407-processed-gene-0.1-mRNA-1,cid=c1373,aka=c1373]:0.700000,(728[&def=genemark-DS113911-processed-gene-0.13-mRNA-1,cid=c1641,aka=c1641]:0.600000,729[&def=genemark-DS113252-processed-gene-0.73-mRNA-1,cid=c1640,aka=c1640]:0.600000)c1410[&cid=c1410,aka=c1410]:0.700000,450[&def=augustus_masked-DS113255-processed-gene-0.11-mRNA-1,cid=c1397,aka=c1397]:0.700000,451[&def=genemark-DS113563-processed-gene-0.35-mRNA-1,cid=c1401,aka=c1401]:0.700000,452[&def=genemark-DS113526-processed-gene-0.40-mRNA-1,cid=c1394,aka=c1394]:0.700000,453[&def=genemark-DS113672-processed-gene-0.25-mRNA-1,cid=c1311,aka=c1311]:0.700000,454[&def=genemark-DS113947-processed-gene-0.20-mRNA-1,cid=c1362,aka=c1362]:0.700000,455[&def=genemark-DS113277-processed-gene-0.66-mRNA-1,cid=c1339,aka=c1339]:0.700000,456[&def=augustus_masked-DS113222-processed-gene-1.24-mRNA-1,cid=c1295,aka=c1295]:0.700000,457[&def=augustus_masked-DS114168-processed-gene-0.5-mRNA-1,cid=c1330,aka=c1330]:0.700000,458[&def=genemark-DS113465-processed-gene-0.20-mRNA-1,cid=c1297,aka=c1297]:0.700000,459[&def=augustus_masked-DS113240-processed-gene-0.0-mRNA-1,cid=c1301,aka=c1301]:0.700000,460[&def=genemark-DS113985-processed-gene-0.10-mRNA-1,cid=c1348,aka=c1348]:0.700000,461[&def=augustus_masked-DS113656-processed-gene-0.7-mRNA-1,cid=c1275,aka=c1275]:0.700000,462[&def=genemark-DS113626-processed-gene-0.13-mRNA-1,cid=c1372,aka=c1372]:0.700000,463[&def=maker-DS113785-snap-gene-0.48-mRNA-1,cid=c1355,aka=c1355]:0.700000,464[&def=genemark-DS113791-processed-gene-0.34-mRNA-1,cid=c1346,aka=c1346]:0.700000,465[&def=genemark-DS113854-processed-gene-0.29-mRNA-1,cid=c1371,aka=c1371]:0.700000,(730[&def=genemark-DS114005-processed-gene-0.23-mRNA-1,cid=c1626,aka=c1626]:0.600000,731[&def=augustus_masked-DS113494-processed-gene-0.2-mRNA-1,cid=c1625,aka=c1625]:0.600000)c1425[&cid=c1425,aka=c1425]:0.700000,466[&def=genemark-DS113288-processed-gene-0.32-mRNA-1,cid=c1304,aka=c1304]:0.700000,467[&def=genemark-DS113210-processed-gene-0.18-mRNA-1,cid=c1356,aka=c1356]:0.700000,468[&def=genemark-DS113178-processed-gene-1.36-mRNA-1,cid=c1334,aka=c1334]:0.700000,(732[&def=genemark-DS113388-processed-gene-0.35-mRNA-1,cid=c1662,aka=c1662]:0.600000,733[&def=genemark-DS113282-processed-gene-0.76-mRNA-1,cid=c1663,aka=c1663]:0.600000)c1420[&cid=c1420,aka=c1420]:0.700000,469[&def=snap_masked-DS113355-processed-gene-0.91-mRNA-1,cid=c1351,aka=c1351]:0.700000,(734[&def=augustus_masked-DS113536-processed-gene-0.2-mRNA-1,cid=c1643,aka=c1643]:0.600000,735[&def=genemark-DS113406-processed-gene-0.35-mRNA-1,cid=c1642,aka=c1642]:0.600000)c1423[&cid=c1423,aka=c1423]:0.700000,470[&def=augustus_masked-DS113225-processed-gene-1.21-mRNA-1,cid=c1407,aka=c1407]:0.700000,(736[&def=maker-DS113243-snap-gene-0.138-mRNA-1,cid=c1665,aka=c1665]:0.600000,737[&def=snap_masked-DS113720-processed-gene-0.37-mRNA-1,cid=c1666,aka=c1666]:0.600000,738[&def=augustus_masked-DS113833-processed-gene-0.7-mRNA-1,cid=c1664,aka=c1664]:0.600000)c1412[&cid=c1412,aka=c1412]:0.700000,471[&def=genemark-DS113186-processed-gene-3.21-mRNA-1,cid=c1393,aka=c1393]:0.700000,472[&def=genemark-DS113281-processed-gene-0.95-mRNA-1,cid=c1386,aka=c1386]:0.700000,(739[&def=genemark-DS113255-processed-gene-0.52-mRNA-1,cid=c1714,aka=c1714]:0.600000,740[&def=augustus_masked-DS113182-processed-gene-1.59-mRNA-1,cid=c1713,aka=c1713]:0.600000)c1415[&cid=c1415,aka=c1415]:0.700000,473[&def=augustus_masked-DS113205-processed-gene-0.18-mRNA-1,cid=c1322,aka=c1322]:0.700000,474[&def=genemark-DS113304-processed-gene-0.44-mRNA-1,cid=c1292,aka=c1292]:0.700000,475[&def=augustus_masked-DS113705-processed-gene-0.6-mRNA-1,cid=c1331,aka=c1331]:0.700000,476[&def=genemark-DS113191-processed-gene-2.83-mRNA-1,cid=c1299,aka=c1299]:0.700000,477[&def=genemark-DS113643-processed-gene-0.33-mRNA-1,cid=c1287,aka=c1287]:0.700000,478[&def=genemark-DS115094-processed-gene-0.3-mRNA-1,cid=c1388,aka=c1388]:0.700000,479[&def=genemark-DS113347-processed-gene-0.70-mRNA-1,cid=c1274,aka=c1274]:0.700000,480[&def=genemark-DS113366-processed-gene-0.19-mRNA-1,cid=c1315,aka=c1315]:0.700000,481[&def=genemark-DS113552-processed-gene-0.11-mRNA-1,cid=c1272,aka=c1272]:0.700000,482[&def=snap_masked-DS113757-processed-gene-0.40-mRNA-1,cid=c1378,aka=c1378]:0.700000,483[&def=augustus_masked-DS113222-processed-gene-1.8-mRNA-1,cid=c1279,aka=c1279]:0.700000,484[&def=genemark-DS113606-processed-gene-0.47-mRNA-1,cid=c1374,aka=c1374]:0.700000,485[&def=augustus_masked-DS113300-processed-gene-0.6-mRNA-1,cid=c1364,aka=c1364]:0.700000,486[&def=genemark-DS113188-processed-gene-1.21-mRNA-1,cid=c1358,aka=c1358]:0.700000,487[&def=genemark-DS114257-processed-gene-0.11-mRNA-1,cid=c1326,aka=c1326]:0.700000,488[&def=genemark-DS113223-processed-gene-1.46-mRNA-1,cid=c1369,aka=c1369]:0.700000,(741[&def=augustus_masked-DS113485-processed-gene-0.15-mRNA-1,cid=c1802,aka=c1802]:0.000000,742[&def=augustus_masked-DS113371-processed-gene-0.11-mRNA-1,cid=c1803,aka=c1803]:0.000000)c1422[&cid=c1422,aka=c1422]:0.700000,489[&def=genemark-DS113613-processed-gene-0.28-mRNA-1,cid=c1343,aka=c1343]:0.700000,(743[&def=augustus_masked-DS113332-processed-gene-0.20-mRNA-1,cid=c1718,aka=c1718]:0.600000,((820[&def=augustus_masked-DS114273-processed-gene-0.2-mRNA-1,cid=c1795,aka=c1795]:0.200000,821[&def=augustus_masked-DS113448-processed-gene-0.20-mRNA-1,cid=c1794,aka=c1794]:0.200000)c1747[&cid=c1747,aka=c1747]:0.500000,805[&def=genemark-DS113525-processed-gene-0.32-mRNA-1,cid=c1746,aka=c1746]:0.500000)c1719[&cid=c1719,aka=c1719]:0.600000,744[&def=augustus_masked-DS113367-processed-gene-0.0-mRNA-1,cid=c1717,aka=c1717]:0.600000)c1428[&cid=c1428,aka=c1428]:0.700000)c1160[&cid=c1160,aka=c1160]:0.800000,62[&def=augustus_masked-DS113219-processed-gene-1.0-mRNA-1,cid=c1045,aka=c1045]:0.800000,(490[&def=snap_masked-DS114217-processed-gene-0.13-mRNA-1,cid=c1435,aka=c1435]:0.700000,491[&def=augustus_masked-DS114169-processed-gene-0.1-mRNA-1,cid=c1434,aka=c1434]:0.700000,492[&def=augustus_masked-DS114454-processed-gene-0.3-mRNA-1,cid=c1436,aka=c1436]:0.700000)c1110[&cid=c1110,aka=c1110]:0.800000,(493[&def=genemark-DS113865-processed-gene-0.12-mRNA-1,cid=c1433,aka=c1433]:0.700000,494[&def=snap_masked-DS114123-processed-gene-0.20-mRNA-1,cid=c1432,aka=c1432]:0.700000)c1171[&cid=c1171,aka=c1171]:0.800000,63[&def=genemark-DS113179-processed-gene-2.72-mRNA-1,cid=c1058,aka=c1058]:0.800000,64[&def=genemark-DS113773-processed-gene-0.26-mRNA-1,cid=c863,aka=c863]:0.800000,65[&def=genemark-DS113199-processed-gene-0.40-mRNA-1,cid=c965,aka=c965]:0.800000,(495[&def=augustus_masked-DS113183-processed-gene-3.13-mRNA-1,cid=c1437,aka=c1437]:0.700000,(745[&def=augustus_masked-DS113201-processed-gene-1.32-mRNA-1,cid=c1720,aka=c1720]:0.500000,746[&def=augustus_masked-DS113404-processed-gene-0.11-mRNA-1,cid=c1721,aka=c1721]:0.500000)c1438[&cid=c1438,aka=c1438]:0.700000)c1154[&cid=c1154,aka=c1154]:0.800000,(496[&def=genemark-DS113269-processed-gene-0.91-mRNA-1,cid=c1440,aka=c1440]:0.700000,497[&def=genemark-DS113323-processed-gene-0.49-mRNA-1,cid=c1439,aka=c1439]:0.700000)c1164[&cid=c1164,aka=c1164]:0.800000,66[&def=augustus_masked-DS113256-processed-gene-0.2-mRNA-1,cid=c827,aka=c827]:0.800000,67[&def=genemark-DS113691-processed-gene-0.17-mRNA-1,cid=c1013,aka=c1013]:0.800000,(498[&def=genemark-DS113183-processed-gene-2.21-mRNA-1,cid=c1727,aka=c1727]:0.500000,499[&def=augustus_masked-DS115438-processed-gene-0.0-mRNA-1,cid=c1726,aka=c1726]:0.500000)c1151[&cid=c1151,aka=c1151]:0.800000,(500[&def=genemark-DS113347-processed-gene-0.75-mRNA-1,cid=c1728,aka=c1728]:0.500000,501[&def=genemark-DS113791-processed-gene-0.21-mRNA-1,cid=c1729,aka=c1729]:0.500000)c1161[&cid=c1161,aka=c1161]:0.800000,68[&def=genemark-DS113868-processed-gene-0.30-mRNA-1,cid=c1002,aka=c1002]:0.800000,69[&def=genemark-DS113231-processed-gene-1.66-mRNA-1,cid=c960,aka=c960]:0.800000,70[&def=genemark-DS113227-processed-gene-1.30-mRNA-1,cid=c975,aka=c975]:0.800000,71[&def=snap_masked-DS113495-processed-gene-0.47-mRNA-1,cid=c1041,aka=c1041]:0.800000,72[&def=augustus_masked-DS113207-processed-gene-0.8-mRNA-1,cid=c892,aka=c892]:0.800000,73[&def=genemark-DS113348-processed-gene-0.23-mRNA-1,cid=c1050,aka=c1050]:0.800000,74[&def=genemark-DS113258-processed-gene-0.84-mRNA-1,cid=c1090,aka=c1090]:0.800000,(502[&def=genemark-DS114082-processed-gene-0.21-mRNA-1,cid=c1443,aka=c1443]:0.700000,503[&def=genemark-DS113484-processed-gene-0.19-mRNA-1,cid=c1446,aka=c1446]:0.700000,504[&def=augustus_masked-DS113548-processed-gene-0.8-mRNA-1,cid=c1445,aka=c1445]:0.700000,505[&def=genemark-DS114543-processed-gene-0.6-mRNA-1,cid=c1442,aka=c1442]:0.700000,506[&def=augustus_masked-DS114718-processed-gene-0.2-mRNA-1,cid=c1444,aka=c1444]:0.700000,507[&def=augustus_masked-DS113236-processed-gene-0.0-mRNA-1,cid=c1441,aka=c1441]:0.700000)c1167[&cid=c1167,aka=c1167]:0.800000,(508[&def=augustus_masked-DS113545-processed-gene-0.0-mRNA-1,cid=c1793,aka=c1793]:0.200000,509[&def=augustus_masked-DS120383-processed-gene-0.0-mRNA-1,cid=c1792,aka=c1792]:0.200000)c1111[&cid=c1111,aka=c1111]:0.800000,75[&def=augustus_masked-DS113801-processed-gene-0.0-mRNA-1,cid=c1031,aka=c1031]:0.800000,76[&def=genemark-DS113378-processed-gene-0.26-mRNA-1,cid=c897,aka=c897]:0.800000,(510[&def=genemark-DS113273-processed-gene-0.72-mRNA-1,cid=c1447,aka=c1447]:0.700000,(747[&def=snap_masked-DS113300-processed-gene-0.110-mRNA-1,cid=c1605,aka=c1605]:0.600000,748[&def=genemark-DS113482-processed-gene-0.51-mRNA-1,cid=c1606,aka=c1606]:0.600000)c1448[&cid=c1448,aka=c1448]:0.700000)c1105[&cid=c1105,aka=c1105]:0.800000,77[&def=genemark-DS113906-processed-gene-0.21-mRNA-1,cid=c1071,aka=c1071]:0.800000,78[&def=genemark-DS113366-processed-gene-0.18-mRNA-1,cid=c861,aka=c861]:0.800000,79[&def=genemark-DS113252-processed-gene-0.26-mRNA-1,cid=c1098,aka=c1098]:0.800000,80[&def=augustus_masked-DS113183-processed-gene-3.6-mRNA-1,cid=c826,aka=c826]:0.800000,81[&def=genemark-DS113422-processed-gene-0.57-mRNA-1,cid=c1005,aka=c1005]:0.800000,(511[&def=augustus_masked-DS118477-processed-gene-0.0-mRNA-1,cid=c1613,aka=c1613]:0.600000,512[&def=genemark-DS113246-processed-gene-0.41-mRNA-1,cid=c1614,aka=c1614]:0.600000)c1179[&cid=c1179,aka=c1179]:0.800000,82[&def=augustus_masked-DS113766-processed-gene-0.5-mRNA-1,cid=c913,aka=c913]:0.800000,83[&def=genemark-DS113365-processed-gene-0.70-mRNA-1,cid=c843,aka=c843]:0.800000,84[&def=genemark-DS113672-processed-gene-0.31-mRNA-1,cid=c868,aka=c868]:0.800000,85[&def=genemark-DS113196-processed-gene-1.77-mRNA-1,cid=c830,aka=c830]:0.800000,86[&def=genemark-DS113247-processed-gene-0.65-mRNA-1,cid=c954,aka=c954]:0.800000,((749[&def=augustus_masked-DS114261-processed-gene-0.1-mRNA-1,cid=c1764,aka=c1764]:0.500000,750[&def=augustus_masked-DS113497-processed-gene-0.3-mRNA-1,cid=c1765,aka=c1765]:0.500000)c1450[&cid=c1450,aka=c1450]:0.700000,513[&def=genemark-DS113228-processed-gene-1.23-mRNA-1,cid=c1449,aka=c1449]:0.700000)c1127[&cid=c1127,aka=c1127]:0.800000,87[&def=augustus_masked-DS113296-processed-gene-0.2-mRNA-1,cid=c840,aka=c840]:0.800000,(514[&def=genemark-DS113401-processed-gene-0.26-mRNA-1,cid=c1616,aka=c1616]:0.600000,515[&def=augustus_masked-DS114017-processed-gene-0.0-mRNA-1,cid=c1615,aka=c1615]:0.600000)c1104[&cid=c1104,aka=c1104]:0.800000,(516[&def=genemark-DS113259-processed-gene-0.62-mRNA-1,cid=c1658,aka=c1658]:0.600000,517[&def=genemark-DS113274-processed-gene-0.79-mRNA-1,cid=c1659,aka=c1659]:0.600000)c1191[&cid=c1191,aka=c1191]:0.800000,(518[&def=genemark-DS113305-processed-gene-0.45-mRNA-1,cid=c1452,aka=c1452]:0.700000,519[&def=genemark-DS113643-processed-gene-0.20-mRNA-1,cid=c1451,aka=c1451]:0.700000)c1140[&cid=c1140,aka=c1140]:0.800000,(520[&def=augustus_masked-DS113229-processed-gene-1.5-mRNA-1,cid=c1456,aka=c1456]:0.700000,521[&def=augustus_masked-DS113570-processed-gene-0.3-mRNA-1,cid=c1454,aka=c1454]:0.700000,522[&def=genemark-DS113230-processed-gene-0.53-mRNA-1,cid=c1457,aka=c1457]:0.700000,523[&def=augustus_masked-DS113197-processed-gene-1.20-mRNA-1,cid=c1455,aka=c1455]:0.700000,524[&def=augustus_masked-DS113693-processed-gene-0.0-mRNA-1,cid=c1453,aka=c1453]:0.700000,(751[&def=augustus_masked-DS113181-processed-gene-1.51-mRNA-1,cid=c1660,aka=c1660]:0.600000,752[&def=augustus_masked-DS113224-processed-gene-0.4-mRNA-1,cid=c1661,aka=c1661]:0.600000)c1458[&cid=c1458,aka=c1458]:0.700000)c1198[&cid=c1198,aka=c1198]:0.800000,88[&def=genemark-DS113921-processed-gene-0.27-mRNA-1,cid=c967,aka=c967]:0.800000,89[&def=genemark-DS113329-processed-gene-0.28-mRNA-1,cid=c988,aka=c988]:0.800000,90[&def=snap_masked-DS113548-processed-gene-0.42-mRNA-1,cid=c1004,aka=c1004]:0.800000,91[&def=augustus_masked-DS113311-processed-gene-0.2-mRNA-1,cid=c981,aka=c981]:0.800000,92[&def=genemark-DS113704-processed-gene-0.33-mRNA-1,cid=c1085,aka=c1085]:0.800000,93[&def=augustus_masked-DS113486-processed-gene-0.14-mRNA-1,cid=c989,aka=c989]:0.800000,94[&def=augustus_masked-DS113344-processed-gene-0.12-mRNA-1,cid=c930,aka=c930]:0.800000,95[&def=augustus_masked-DS113939-processed-gene-0.1-mRNA-1,cid=c958,aka=c958]:0.800000,(525[&def=augustus_masked-DS113222-processed-gene-0.1-mRNA-1,cid=c1755,aka=c1755]:0.500000,526[&def=genemark-DS113318-processed-gene-0.60-mRNA-1,cid=c1754,aka=c1754]:0.500000)c1119[&cid=c1119,aka=c1119]:0.800000,(527[&def=augustus_masked-DS113700-processed-gene-0.0-mRNA-1,cid=c1620,aka=c1620]:0.600000,528[&def=genemark-DS113314-processed-gene-0.55-mRNA-1,cid=c1619,aka=c1619]:0.600000)c1184[&cid=c1184,aka=c1184]:0.800000,96[&def=snap_masked-DS114207-processed-gene-0.29-mRNA-1,cid=c883,aka=c883]:0.800000,(529[&def=genemark-DS113184-processed-gene-1.25-mRNA-1,cid=c1731,aka=c1731]:0.500000,530[&def=augustus_masked-DS114233-processed-gene-0.3-mRNA-1,cid=c1732,aka=c1732]:0.500000,531[&def=augustus_masked-DS113183-processed-gene-3.11-mRNA-1,cid=c1730,aka=c1730]:0.500000)c1173[&cid=c1173,aka=c1173]:0.800000,(532[&def=genemark-DS113444-processed-gene-0.40-mRNA-1,cid=c1459,aka=c1459]:0.700000,(753[&def=augustus_masked-DS113187-processed-gene-2.14-mRNA-1,cid=c1774,aka=c1774]:0.400000,754[&def=genemark-DS113335-processed-gene-0.69-mRNA-1,cid=c1775,aka=c1775]:0.400000)c1460[&cid=c1460,aka=c1460]:0.700000)c1114[&cid=c1114,aka=c1114]:0.800000,97[&def=genemark-DS113490-processed-gene-0.9-mRNA-1,cid=c886,aka=c886]:0.800000,98[&def=genemark-DS113226-processed-gene-1.23-mRNA-1,cid=c1025,aka=c1025]:0.800000,99[&def=maker-DS113680-snap-gene-0.39-mRNA-1,cid=c918,aka=c918]:0.800000,(533[&def=genemark-DS114165-processed-gene-0.16-mRNA-1,cid=c1462,aka=c1462]:0.700000,534[&def=genemark-DS113495-processed-gene-0.40-mRNA-1,cid=c1464,aka=c1464]:0.700000,535[&def=augustus_masked-DS113575-processed-gene-0.1-mRNA-1,cid=c1461,aka=c1461]:0.700000,536[&def=genemark-DS113311-processed-gene-0.47-mRNA-1,cid=c1463,aka=c1463]:0.700000)c1188[&cid=c1188,aka=c1188]:0.800000,100[&def=genemark-DS113261-processed-gene-0.57-mRNA-1,cid=c837,aka=c837]:0.800000,101[&def=augustus_masked-DS113373-processed-gene-0.14-mRNA-1,cid=c920,aka=c920]:0.800000,102[&def=genemark-DS113465-processed-gene-0.34-mRNA-1,cid=c945,aka=c945]:0.800000,(537[&def=genemark-DS114256-processed-gene-0.20-mRNA-1,cid=c1466,aka=c1466]:0.700000,538[&def=augustus_masked-DS113316-processed-gene-0.25-mRNA-1,cid=c1465,aka=c1465]:0.700000)c1121[&cid=c1121,aka=c1121]:0.800000,103[&def=genemark-DS113869-processed-gene-0.18-mRNA-1,cid=c865,aka=c865]:0.800000,(539[&def=genemark-DS113504-processed-gene-0.34-mRNA-1,cid=c1624,aka=c1624]:0.600000,540[&def=genemark-DS113283-processed-gene-0.70-mRNA-1,cid=c1623,aka=c1623]:0.600000)c1183[&cid=c1183,aka=c1183]:0.800000,104[&def=genemark-DS113222-processed-gene-1.71-mRNA-1,cid=c1074,aka=c1074]:0.800000,105[&def=genemark-DS113806-processed-gene-0.11-mRNA-1,cid=c1063,aka=c1063]:0.800000,106[&def=genemark-DS113450-processed-gene-0.35-mRNA-1,cid=c880,aka=c880]:0.800000,107[&def=genemark-DS113201-processed-gene-1.46-mRNA-1,cid=c1097,aka=c1097]:0.800000,108[&def=augustus_masked-DS113979-processed-gene-0.13-mRNA-1,cid=c876,aka=c876]:0.800000,109[&def=genemark-DS113565-processed-gene-0.22-mRNA-1,cid=c972,aka=c972]:0.800000,110[&def=genemark-DS114256-processed-gene-0.12-mRNA-1,cid=c853,aka=c853]:0.800000,(541[&def=genemark-DS113212-processed-gene-1.48-mRNA-1,cid=c1467,aka=c1467]:0.700000,542[&def=augustus_masked-DS113584-processed-gene-0.2-mRNA-1,cid=c1468,aka=c1468]:0.700000)c1187[&cid=c1187,aka=c1187]:0.800000,111[&def=genemark-DS113654-processed-gene-0.9-mRNA-1,cid=c858,aka=c858]:0.800000,112[&def=genemark-DS113627-processed-gene-0.14-mRNA-1,cid=c1070,aka=c1070]:0.800000,113[&def=maker-DS114056-snap-gene-0.30-mRNA-1,cid=c995,aka=c995]:0.800000,114[&def=snap_masked-DS113440-processed-gene-0.52-mRNA-1,cid=c862,aka=c862]:0.800000,115[&def=augustus_masked-DS113317-processed-gene-0.13-mRNA-1,cid=c1036,aka=c1036]:0.800000,(543[&def=genemark-DS114207-processed-gene-0.9-mRNA-1,cid=c1470,aka=c1470]:0.700000,544[&def=snap_masked-DS113514-processed-gene-0.58-mRNA-1,cid=c1469,aka=c1469]:0.700000,(755[&def=snap_masked-DS113738-processed-gene-0.38-mRNA-1,cid=c1734,aka=c1734]:0.500000,756[&def=augustus_masked-DS113412-processed-gene-0.17-mRNA-1,cid=c1733,aka=c1733]:0.500000)c1471[&cid=c1471,aka=c1471]:0.700000)c1159[&cid=c1159,aka=c1159]:0.800000,116[&def=augustus_masked-DS113187-processed-gene-1.40-mRNA-1,cid=c1054,aka=c1054]:0.800000,117[&def=augustus_masked-DS113754-processed-gene-0.10-mRNA-1,cid=c1010,aka=c1010]:0.800000,((757[&def=augustus_masked-DS113343-processed-gene-0.5-mRNA-1,cid=c1724,aka=c1724]:0.500000,758[&def=augustus_masked-DS113205-processed-gene-0.10-mRNA-1,cid=c1725,aka=c1725]:0.500000)c1472[&cid=c1472,aka=c1472]:0.700000,(759[&def=augustus_masked-DS113478-processed-gene-0.11-mRNA-1,cid=c1599,aka=c1599]:0.600000,(806[&def=augustus_masked-DS113900-processed-gene-0.3-mRNA-1,cid=c1758,aka=c1758]:0.500000,807[&def=augustus_masked-DS113958-processed-gene-0.5-mRNA-1,cid=c1759,aka=c1759]:0.500000)c1600[&cid=c1600,aka=c1600]:0.600000)c1473[&cid=c1473,aka=c1473]:0.700000)c1180[&cid=c1180,aka=c1180]:0.800000,118[&def=genemark-DS113359-processed-gene-0.59-mRNA-1,cid=c998,aka=c998]:0.800000,119[&def=maker-DS113755-snap-gene-0.48-mRNA-1,cid=c871,aka=c871]:0.800000,120[&def=augustus_masked-DS113632-processed-gene-0.1-mRNA-1,cid=c1048,aka=c1048]:0.800000,(545[&def=genemark-DS114254-processed-gene-0.10-mRNA-1,cid=c1627,aka=c1627]:0.600000,546[&def=genemark-DS113698-processed-gene-0.7-mRNA-1,cid=c1628,aka=c1628]:0.600000)c1118[&cid=c1118,aka=c1118]:0.800000,(547[&def=genemark-DS113731-processed-gene-0.21-mRNA-1,cid=c1475,aka=c1475]:0.700000,548[&def=augustus_masked-DS113548-processed-gene-0.3-mRNA-1,cid=c1477,aka=c1477]:0.700000,549[&def=genemark-DS113809-processed-gene-0.10-mRNA-1,cid=c1474,aka=c1474]:0.700000,550[&def=augustus_masked-DS113259-processed-gene-0.35-mRNA-1,cid=c1478,aka=c1478]:0.700000,551[&def=genemark-DS114268-processed-gene-0.0-mRNA-1,cid=c1476,aka=c1476]:0.700000,(760[&def=augustus_masked-DS113556-processed-gene-0.5-mRNA-1,cid=c1618,aka=c1618]:0.600000,761[&def=genemark-DS113249-processed-gene-0.63-mRNA-1,cid=c1617,aka=c1617]:0.600000)c1480[&cid=c1480,aka=c1480]:0.700000,552[&def=genemark-DS114744-processed-gene-0.3-mRNA-1,cid=c1479,aka=c1479]:0.700000)c1101[&cid=c1101,aka=c1101]:0.800000,(553[&def=augustus_masked-DS113491-processed-gene-0.3-mRNA-1,cid=c1809,aka=c1809]:0.000000,554[&def=snap_masked-DS114062-processed-gene-0.23-mRNA-1,cid=c1808,aka=c1808]:0.000000)c1177[&cid=c1177,aka=c1177]:0.800000,(555[&def=augustus_masked-DS113769-processed-gene-0.1-mRNA-1,cid=c1482,aka=c1482]:0.700000,556[&def=genemark-DS113351-processed-gene-0.40-mRNA-1,cid=c1481,aka=c1481]:0.700000,557[&def=augustus_masked-DS113643-processed-gene-0.9-mRNA-1,cid=c1483,aka=c1483]:0.700000,(762[&def=genemark-DS113275-processed-gene-0.70-mRNA-1,cid=c1679,aka=c1679]:0.600000,763[&def=augustus_masked-DS113418-processed-gene-0.13-mRNA-1,cid=c1678,aka=c1678]:0.600000)c1484[&cid=c1484,aka=c1484]:0.700000)c1150[&cid=c1150,aka=c1150]:0.800000,121[&def=genemark-DS113391-processed-gene-0.53-mRNA-1,cid=c1016,aka=c1016]:0.800000,122[&def=genemark-DS113461-processed-gene-0.23-mRNA-1,cid=c936,aka=c936]:0.800000,123[&def=genemark-DS113552-processed-gene-0.26-mRNA-1,cid=c964,aka=c964]:0.800000,(558[&def=augustus_masked-DS113334-processed-gene-0.8-mRNA-1,cid=c1778,aka=c1778]:0.400000,(764[&def=augustus_masked-DS113279-processed-gene-0.12-mRNA-1,cid=c1786,aka=c1786]:0.300000,765[&def=augustus_masked-DS113220-processed-gene-1.65-mRNA-1,cid=c1787,aka=c1787]:0.300000)c1779[&cid=c1779,aka=c1779]:0.400000)c1143[&cid=c1143,aka=c1143]:0.800000,(559[&def=augustus_masked-DS113619-processed-gene-0.2-mRNA-1,cid=c1485,aka=c1485]:0.700000,560[&def=augustus_masked-DS113713-processed-gene-0.14-mRNA-1,cid=c1486,aka=c1486]:0.700000)c1108[&cid=c1108,aka=c1108]:0.800000,124[&def=genemark-DS113862-processed-gene-0.14-mRNA-1,cid=c1055,aka=c1055]:0.800000,(561[&def=genemark-DS113684-processed-gene-0.44-mRNA-1,cid=c1735,aka=c1735]:0.500000,562[&def=genemark-DS113206-processed-gene-1.73-mRNA-1,cid=c1736,aka=c1736]:0.500000)c1195[&cid=c1195,aka=c1195]:0.800000,(563[&def=augustus_masked-DS113248-processed-gene-0.9-mRNA-1,cid=c1668,aka=c1668]:0.600000,564[&def=genemark-DS113467-processed-gene-0.26-mRNA-1,cid=c1667,aka=c1667]:0.600000)c1155[&cid=c1155,aka=c1155]:0.800000,125[&def=augustus_masked-DS113746-processed-gene-0.5-mRNA-1,cid=c846,aka=c846]:0.800000,126[&def=augustus_masked-DS115248-processed-gene-0.0-mRNA-1,cid=c974,aka=c974]:0.800000,127[&def=genemark-DS113370-processed-gene-0.62-mRNA-1,cid=c1100,aka=c1100]:0.800000,128[&def=genemark-DS113207-processed-gene-1.48-mRNA-1,cid=c909,aka=c909]:0.800000,129[&def=genemark-DS113469-processed-gene-0.42-mRNA-1,cid=c1080,aka=c1080]:0.800000,130[&def=augustus_masked-DS113191-processed-gene-2.18-mRNA-1,cid=c979,aka=c979]:0.800000,131[&def=augustus_masked-DS113258-processed-gene-0.6-mRNA-1,cid=c933,aka=c933]:0.800000,132[&def=augustus_masked-DS113391-processed-gene-0.3-mRNA-1,cid=c928,aka=c928]:0.800000,(565[&def=augustus_masked-DS113960-processed-gene-0.3-mRNA-1,cid=c1497,aka=c1497]:0.700000,566[&def=genemark-DS113184-processed-gene-3.46-mRNA-1,cid=c1496,aka=c1496]:0.700000,567[&def=augustus_masked-DS113725-processed-gene-0.9-mRNA-1,cid=c1502,aka=c1502]:0.700000,568[&def=genemark-DS114138-processed-gene-0.5-mRNA-1,cid=c1501,aka=c1501]:0.700000,569[&def=genemark-DS113190-processed-gene-1.30-mRNA-1,cid=c1491,aka=c1491]:0.700000,570[&def=augustus_masked-DS113325-processed-gene-0.3-mRNA-1,cid=c1493,aka=c1493]:0.700000,571[&def=genemark-DS113383-processed-gene-0.55-mRNA-1,cid=c1503,aka=c1503]:0.700000,572[&def=genemark-DS113585-processed-gene-0.13-mRNA-1,cid=c1494,aka=c1494]:0.700000,573[&def=augustus_masked-DS113943-processed-gene-0.0-mRNA-1,cid=c1488,aka=c1488]:0.700000,574[&def=genemark-DS113769-processed-gene-0.32-mRNA-1,cid=c1495,aka=c1495]:0.700000,575[&def=genemark-DS113235-processed-gene-1.29-mRNA-1,cid=c1487,aka=c1487]:0.700000,576[&def=augustus_masked-DS113517-processed-gene-0.7-mRNA-1,cid=c1500,aka=c1500]:0.700000,577[&def=genemark-DS113256-processed-gene-0.45-mRNA-1,cid=c1505,aka=c1505]:0.700000,(766[&def=maker-DS113456-snap-gene-0.56-mRNA-1,cid=c1800,aka=c1800]:0.200000,767[&def=maker-DS113456-snap-gene-0.56-mRNA-2,cid=c1801,aka=c1801]:0.200000)c1508[&cid=c1508,aka=c1508]:0.700000,578[&def=genemark-DS114435-processed-gene-0.2-mRNA-1,cid=c1492,aka=c1492]:0.700000,579[&def=genemark-DS113742-processed-gene-0.28-mRNA-1,cid=c1506,aka=c1506]:0.700000,580[&def=augustus_masked-DS113251-processed-gene-0.23-mRNA-1,cid=c1507,aka=c1507]:0.700000,581[&def=augustus_masked-DS113269-processed-gene-0.17-mRNA-1,cid=c1489,aka=c1489]:0.700000,582[&def=genemark-DS114098-processed-gene-0.8-mRNA-1,cid=c1490,aka=c1490]:0.700000,583[&def=genemark-DS113244-processed-gene-0.44-mRNA-1,cid=c1499,aka=c1499]:0.700000,584[&def=augustus_masked-DS113646-processed-gene-0.13-mRNA-1,cid=c1504,aka=c1504]:0.700000,585[&def=genemark-DS113845-processed-gene-0.27-mRNA-1,cid=c1498,aka=c1498]:0.700000)c1199[&cid=c1199,aka=c1199]:0.800000,133[&def=augustus_masked-DS113254-processed-gene-0.23-mRNA-1,cid=c942,aka=c942]:0.800000,134[&def=genemark-DS114328-processed-gene-0.3-mRNA-1,cid=c1065,aka=c1065]:0.800000,135[&def=genemark-DS113874-processed-gene-0.7-mRNA-1,cid=c985,aka=c985]:0.800000,136[&def=genemark-DS113819-processed-gene-0.9-mRNA-1,cid=c878,aka=c878]:0.800000,137[&def=genemark-DS113386-processed-gene-0.28-mRNA-1,cid=c1099,aka=c1099]:0.800000,(586[&def=augustus_masked-DS113292-processed-gene-0.0-mRNA-1,cid=c1511,aka=c1511]:0.700000,587[&def=augustus_masked-DS114092-processed-gene-0.1-mRNA-1,cid=c1512,aka=c1512]:0.700000,588[&def=augustus_masked-DS114294-processed-gene-0.0-mRNA-1,cid=c1513,aka=c1513]:0.700000)c1128[&cid=c1128,aka=c1128]:0.800000,((768[&def=augustus_masked-DS113294-processed-gene-0.16-mRNA-1,cid=c1609,aka=c1609]:0.600000,(808[&def=augustus_masked-DS113238-processed-gene-1.15-mRNA-1,cid=c1760,aka=c1760]:0.500000,809[&def=augustus_masked-DS113796-processed-gene-0.3-mRNA-1,cid=c1761,aka=c1761]:0.500000)c1610[&cid=c1610,aka=c1610]:0.600000)c1509[&cid=c1509,aka=c1509]:0.700000,(769[&def=genemark-DS113877-processed-gene-0.10-mRNA-1,cid=c1743,aka=c1743]:0.500000,770[&def=augustus_masked-DS113607-processed-gene-0.2-mRNA-1,cid=c1745,aka=c1745]:0.500000,771[&def=augustus_masked-DS113694-processed-gene-0.0-mRNA-1,cid=c1744,aka=c1744]:0.500000)c1510[&cid=c1510,aka=c1510]:0.700000)c1174[&cid=c1174,aka=c1174]:0.800000,138[&def=augustus_masked-DS113821-processed-gene-0.1-mRNA-1,cid=c1014,aka=c1014]:0.800000,(589[&def=augustus_masked-DS114210-processed-gene-0.1-mRNA-1,cid=c1515,aka=c1515]:0.700000,590[&def=augustus_masked-DS113463-processed-gene-0.5-mRNA-1,cid=c1514,aka=c1514]:0.700000)c1147[&cid=c1147,aka=c1147]:0.800000,139[&def=maker-DS113718-augustus-gene-0.42-mRNA-1,cid=c831,aka=c831]:0.800000,140[&def=augustus_masked-DS113179-processed-gene-1.13-mRNA-1,cid=c966,aka=c966]:0.800000,141[&def=augustus_masked-DS113878-processed-gene-0.7-mRNA-1,cid=c908,aka=c908]:0.800000,(591[&def=genemark-DS115673-processed-gene-0.2-mRNA-1,cid=c1782,aka=c1782]:0.300000,592[&def=genemark-DS113543-processed-gene-0.29-mRNA-1,cid=c1783,aka=c1783]:0.300000)c1113[&cid=c1113,aka=c1113]:0.800000,142[&def=genemark-DS113345-processed-gene-0.44-mRNA-1,cid=c905,aka=c905]:0.800000,(593[&def=genemark-DS113273-processed-gene-0.98-mRNA-1,cid=c1517,aka=c1517]:0.700000,594[&def=genemark-DS114003-processed-gene-0.23-mRNA-1,cid=c1516,aka=c1516]:0.700000)c1192[&cid=c1192,aka=c1192]:0.800000,143[&def=genemark-DS113489-processed-gene-0.56-mRNA-1,cid=c993,aka=c993]:0.800000,144[&def=augustus_masked-DS113177-processed-gene-4.33-mRNA-1,cid=c882,aka=c882]:0.800000,(595[&def=genemark-DS113193-processed-gene-0.47-mRNA-1,cid=c1766,aka=c1766]:0.500000,596[&def=snap_masked-DS120915-processed-gene-0.2-mRNA-1,cid=c1767,aka=c1767]:0.500000)c1124[&cid=c1124,aka=c1124]:0.800000,145[&def=genemark-DS113409-processed-gene-0.38-mRNA-1,cid=c1084,aka=c1084]:0.800000,146[&def=genemark-DS113191-processed-gene-2.87-mRNA-1,cid=c902,aka=c902]:0.800000,(597[&def=genemark-DS113462-processed-gene-0.64-mRNA-1,cid=c1519,aka=c1519]:0.700000,598[&def=genemark-DS114483-processed-gene-0.5-mRNA-1,cid=c1518,aka=c1518]:0.700000)c1106[&cid=c1106,aka=c1106]:0.800000,147[&def=augustus_masked-DS113275-processed-gene-0.32-mRNA-1,cid=c1044,aka=c1044]:0.800000,148[&def=genemark-DS113220-processed-gene-0.27-mRNA-1,cid=c990,aka=c990]:0.800000,149[&def=genemark-DS113346-processed-gene-0.73-mRNA-1,cid=c1039,aka=c1039]:0.800000,(599[&def=augustus_masked-DS113370-processed-gene-0.13-mRNA-1,cid=c1521,aka=c1521]:0.700000,600[&def=augustus_masked-DS113241-processed-gene-0.13-mRNA-1,cid=c1520,aka=c1520]:0.700000)c1146[&cid=c1146,aka=c1146]:0.800000,(601[&def=augustus_masked-DS113181-processed-gene-3.3-mRNA-1,cid=c1674,aka=c1674]:0.600000,602[&def=augustus_masked-DS113184-processed-gene-3.85-mRNA-1,cid=c1675,aka=c1675]:0.600000)c1130[&cid=c1130,aka=c1130]:0.800000,150[&def=augustus_masked-DS113270-processed-gene-0.11-mRNA-1,cid=c949,aka=c949]:0.800000,151[&def=augustus_masked-DS113598-processed-gene-0.10-mRNA-1,cid=c1096,aka=c1096]:0.800000,(603[&def=augustus_masked-DS113721-processed-gene-0.6-mRNA-1,cid=c1523,aka=c1523]:0.700000,604[&def=genemark-DS113523-processed-gene-0.17-mRNA-1,cid=c1522,aka=c1522]:0.700000)c1103[&cid=c1103,aka=c1103]:0.800000,152[&def=snap_masked-DS113473-processed-gene-0.49-mRNA-1,cid=c1051,aka=c1051]:0.800000,((772[&def=genemark-DS113257-processed-gene-0.82-mRNA-1,cid=c1709,aka=c1709]:0.600000,773[&def=genemark-DS113188-processed-gene-1.22-mRNA-1,cid=c1710,aka=c1710]:0.600000)c1536[&cid=c1536,aka=c1536]:0.700000,605[&def=augustus_masked-DS113874-processed-gene-0.3-mRNA-1,cid=c1529,aka=c1529]:0.700000,606[&def=genemark-DS113394-processed-gene-0.42-mRNA-1,cid=c1535,aka=c1535]:0.700000,607[&def=genemark-DS113449-processed-gene-0.37-mRNA-1,cid=c1526,aka=c1526]:0.700000,608[&def=genemark-DS114214-processed-gene-0.11-mRNA-1,cid=c1527,aka=c1527]:0.700000,609[&def=augustus_masked-DS113517-processed-gene-0.9-mRNA-1,cid=c1528,aka=c1528]:0.700000,610[&def=genemark-DS113402-processed-gene-0.19-mRNA-1,cid=c1531,aka=c1531]:0.700000,611[&def=genemark-DS113599-processed-gene-0.33-mRNA-1,cid=c1533,aka=c1533]:0.700000,612[&def=augustus_masked-DS113678-processed-gene-0.1-mRNA-1,cid=c1532,aka=c1532]:0.700000,613[&def=genemark-DS113705-processed-gene-0.13-mRNA-1,cid=c1530,aka=c1530]:0.700000,614[&def=genemark-DS113283-processed-gene-0.76-mRNA-1,cid=c1534,aka=c1534]:0.700000,615[&def=augustus_masked-DS113234-processed-gene-0.0-mRNA-1,cid=c1524,aka=c1524]:0.700000,616[&def=augustus_masked-DS114003-processed-gene-0.2-mRNA-1,cid=c1525,aka=c1525]:0.700000)c1112[&cid=c1112,aka=c1112]:0.800000,((774[&def=genemark-DS114466-processed-gene-0.11-mRNA-1,cid=c1797,aka=c1797]:0.200000,775[&def=snap_masked-DS113210-processed-gene-1.111-mRNA-1,cid=c1796,aka=c1796]:0.200000)c1677[&cid=c1677,aka=c1677]:0.600000,617[&def=genemark-DS113257-processed-gene-0.102-mRNA-1,cid=c1676,aka=c1676]:0.600000)c1153[&cid=c1153,aka=c1153]:0.800000,153[&def=genemark-DS113244-processed-gene-0.36-mRNA-1,cid=c877,aka=c877]:0.800000,154[&def=genemark-DS113485-processed-gene-0.28-mRNA-1,cid=c1003,aka=c1003]:0.800000,155[&def=genemark-DS113680-processed-gene-0.6-mRNA-1,cid=c825,aka=c825]:0.800000,156[&def=augustus_masked-DS114968-processed-gene-0.0-mRNA-1,cid=c1000,aka=c1000]:0.800000,157[&def=genemark-DS113283-processed-gene-0.40-mRNA-1,cid=c834,aka=c834]:0.800000,158[&def=genemark-DS113734-processed-gene-0.11-mRNA-1,cid=c1028,aka=c1028]:0.800000,159[&def=augustus_masked-DS113269-processed-gene-0.22-mRNA-1,cid=c957,aka=c957]:0.800000,160[&def=genemark-DS113680-processed-gene-0.32-mRNA-1,cid=c849,aka=c849]:0.800000,161[&def=genemark-DS114259-processed-gene-0.7-mRNA-1,cid=c859,aka=c859]:0.800000,162[&def=genemark-DS113903-processed-gene-0.19-mRNA-1,cid=c944,aka=c944]:0.800000,163[&def=genemark-DS113380-processed-gene-0.37-mRNA-1,cid=c1019,aka=c1019]:0.800000,164[&def=augustus_masked-DS113669-processed-gene-0.6-mRNA-1,cid=c953,aka=c953]:0.800000,165[&def=augustus_masked-DS113311-processed-gene-0.22-mRNA-1,cid=c910,aka=c910]:0.800000,166[&def=genemark-DS113281-processed-gene-0.42-mRNA-1,cid=c924,aka=c924]:0.800000,167[&def=augustus_masked-DS113427-processed-gene-0.11-mRNA-1,cid=c891,aka=c891]:0.800000,168[&def=genemark-DS114233-processed-gene-0.9-mRNA-1,cid=c1061,aka=c1061]:0.800000,169[&def=genemark-DS113410-processed-gene-0.47-mRNA-1,cid=c898,aka=c898]:0.800000,(618[&def=augustus_masked-DS113367-processed-gene-0.8-mRNA-1,cid=c1539,aka=c1539]:0.700000,619[&def=augustus_masked-DS113227-processed-gene-0.2-mRNA-1,cid=c1537,aka=c1537]:0.700000,620[&def=augustus_masked-DS113364-processed-gene-0.8-mRNA-1,cid=c1538,aka=c1538]:0.700000)c1122[&cid=c1122,aka=c1122]:0.800000,170[&def=genemark-DS113727-processed-gene-0.24-mRNA-1,cid=c1075,aka=c1075]:0.800000,171[&def=genemark-DS113427-processed-gene-0.36-mRNA-1,cid=c889,aka=c889]:0.800000,172[&def=genemark-DS113809-processed-gene-0.18-mRNA-1,cid=c1093,aka=c1093]:0.800000,173[&def=augustus_masked-DS113183-processed-gene-3.7-mRNA-1,cid=c950,aka=c950]:0.800000,174[&def=genemark-DS113538-processed-gene-0.19-mRNA-1,cid=c893,aka=c893]:0.800000,175[&def=augustus_masked-DS113209-processed-gene-0.12-mRNA-1,cid=c1035,aka=c1035]:0.800000,176[&def=augustus_masked-DS113355-processed-gene-0.1-mRNA-1,cid=c1056,aka=c1056]:0.800000,177[&def=augustus_masked-DS113645-processed-gene-0.13-mRNA-1,cid=c842,aka=c842]:0.800000,178[&def=augustus_masked-DS114131-processed-gene-0.3-mRNA-1,cid=c917,aka=c917]:0.800000,179[&def=augustus_masked-DS113236-processed-gene-0.1-mRNA-1,cid=c1083,aka=c1083]:0.800000,180[&def=genemark-DS113720-processed-gene-0.10-mRNA-1,cid=c1068,aka=c1068]:0.800000,181[&def=genemark-DS113341-processed-gene-0.64-mRNA-1,cid=c824,aka=c824]:0.800000,182[&def=augustus_masked-DS113178-processed-gene-4.4-mRNA-1,cid=c864,aka=c864]:0.800000,183[&def=augustus_masked-DS113224-processed-gene-1.51-mRNA-1,cid=c948,aka=c948]:0.800000,184[&def=genemark-DS113512-processed-gene-0.15-mRNA-1,cid=c978,aka=c978]:0.800000,185[&def=genemark-DS113405-processed-gene-0.62-mRNA-1,cid=c1017,aka=c1017]:0.800000,186[&def=augustus_masked-DS113333-processed-gene-0.21-mRNA-1,cid=c963,aka=c963]:0.800000,187[&def=augustus_masked-DS113243-processed-gene-0.24-mRNA-1,cid=c1008,aka=c1008]:0.800000,188[&def=augustus_masked-DS114075-processed-gene-0.4-mRNA-1,cid=c1040,aka=c1040]:0.800000,(621[&def=snap_masked-DS113519-processed-gene-0.54-mRNA-1,cid=c1684,aka=c1684]:0.600000,622[&def=genemark-DS113306-processed-gene-0.91-mRNA-1,cid=c1685,aka=c1685]:0.600000)c1196[&cid=c1196,aka=c1196]:0.800000,189[&def=genemark-DS113497-processed-gene-0.58-mRNA-1,cid=c1024,aka=c1024]:0.800000,(623[&def=augustus_masked-DS113199-processed-gene-1.82-mRNA-1,cid=c1540,aka=c1540]:0.700000,((810[&def=augustus_masked-DS113219-processed-gene-0.52-mRNA-1,cid=c1748,aka=c1748]:0.500000,811[&def=augustus_masked-DS113319-processed-gene-0.2-mRNA-1,cid=c1749,aka=c1749]:0.500000)c1649[&cid=c1649,aka=c1649]:0.600000,(812[&def=augustus_masked-DS113329-processed-gene-0.4-mRNA-1,cid=c1791,aka=c1791]:0.200000,813[&def=genemark-DS113231-processed-gene-0.56-mRNA-1,cid=c1790,aka=c1790]:0.200000)c1648[&cid=c1648,aka=c1648]:0.600000)c1541[&cid=c1541,aka=c1541]:0.700000)c1181[&cid=c1181,aka=c1181]:0.800000,190[&def=genemark-DS113264-processed-gene-0.80-mRNA-1,cid=c980,aka=c980]:0.800000,191[&def=augustus_masked-DS113296-processed-gene-0.6-mRNA-1,cid=c872,aka=c872]:0.800000,192[&def=snap_masked-DS113914-processed-gene-0.27-mRNA-1,cid=c997,aka=c997]:0.800000,(624[&def=augustus_masked-DS113763-processed-gene-0.0-mRNA-1,cid=c1780,aka=c1780]:0.400000,625[&def=augustus_masked-DS114680-processed-gene-0.0-mRNA-1,cid=c1781,aka=c1781]:0.400000)c1166[&cid=c1166,aka=c1166]:0.800000,193[&def=genemark-DS113341-processed-gene-0.76-mRNA-1,cid=c854,aka=c854]:0.800000,194[&def=genemark-DS113201-processed-gene-1.77-mRNA-1,cid=c931,aka=c931]:0.800000,195[&def=genemark-DS113357-processed-gene-0.54-mRNA-1,cid=c916,aka=c916]:0.800000,196[&def=augustus_masked-DS113271-processed-gene-0.14-mRNA-1,cid=c1009,aka=c1009]:0.800000,197[&def=genemark-DS113554-processed-gene-0.29-mRNA-1,cid=c1073,aka=c1073]:0.800000,198[&def=genemark-DS113525-processed-gene-0.34-mRNA-1,cid=c885,aka=c885]:0.800000,(626[&def=snap_masked-DS113180-processed-gene-2.87-mRNA-1,cid=c1773,aka=c1773]:0.400000,627[&def=genemark-DS113183-processed-gene-1.62-mRNA-1,cid=c1772,aka=c1772]:0.400000)c1142[&cid=c1142,aka=c1142]:0.800000,199[&def=genemark-DS113214-processed-gene-0.28-mRNA-1,cid=c1034,aka=c1034]:0.800000,200[&def=genemark-DS113514-processed-gene-0.51-mRNA-1,cid=c838,aka=c838]:0.800000,201[&def=augustus_masked-DS113345-processed-gene-0.5-mRNA-1,cid=c1029,aka=c1029]:0.800000,202[&def=genemark-DS113629-processed-gene-0.31-mRNA-1,cid=c1060,aka=c1060]:0.800000,203[&def=genemark-DS114577-processed-gene-0.7-mRNA-1,cid=c1047,aka=c1047]:0.800000,(628[&def=genemark-DS113344-processed-gene-0.48-mRNA-1,cid=c1542,aka=c1542]:0.700000,629[&def=augustus_masked-DS113758-processed-gene-0.2-mRNA-1,cid=c1543,aka=c1543]:0.700000)c1137[&cid=c1137,aka=c1137]:0.800000,204[&def=genemark-DS113543-processed-gene-0.39-mRNA-1,cid=c996,aka=c996]:0.800000,(630[&def=genemark-DS113512-processed-gene-0.13-mRNA-1,cid=c1545,aka=c1545]:0.700000,631[&def=augustus_masked-DS113215-processed-gene-1.5-mRNA-1,cid=c1544,aka=c1544]:0.700000)c1163[&cid=c1163,aka=c1163]:0.800000,(632[&def=augustus_masked-DS115641-processed-gene-0.0-mRNA-1,cid=c1548,aka=c1548]:0.700000,(776[&def=snap_masked-DS113296-processed-gene-0.94-mRNA-1,cid=c1807,aka=c1807]:0.000000,777[&def=augustus_masked-DS113846-processed-gene-0.9-mRNA-1,cid=c1806,aka=c1806]:0.000000)c1549[&cid=c1549,aka=c1549]:0.700000,633[&def=augustus_masked-DS113203-processed-gene-0.8-mRNA-1,cid=c1546,aka=c1546]:0.700000,634[&def=augustus_masked-DS113310-processed-gene-0.20-mRNA-1,cid=c1547,aka=c1547]:0.700000)c1189[&cid=c1189,aka=c1189]:0.800000,205[&def=augustus_masked-DS113624-processed-gene-0.0-mRNA-1,cid=c1064,aka=c1064]:0.800000,206[&def=genemark-DS113432-processed-gene-0.42-mRNA-1,cid=c1078,aka=c1078]:0.800000,207[&def=augustus_masked-DS113565-processed-gene-0.0-mRNA-1,cid=c1018,aka=c1018]:0.800000,208[&def=augustus_masked-DS113441-processed-gene-0.7-mRNA-1,cid=c1038,aka=c1038]:0.800000,209[&def=genemark-DS113433-processed-gene-0.48-mRNA-1,cid=c835,aka=c835]:0.800000,210[&def=genemark-DS113862-processed-gene-0.7-mRNA-1,cid=c991,aka=c991]:0.800000,211[&def=genemark-DS113553-processed-gene-0.40-mRNA-1,cid=c1059,aka=c1059]:0.800000,212[&def=genemark-DS113257-processed-gene-0.69-mRNA-1,cid=c927,aka=c927]:0.800000,213[&def=genemark-DS113858-processed-gene-0.16-mRNA-1,cid=c962,aka=c962]:0.800000,(635[&def=genemark-DS113427-processed-gene-0.23-mRNA-1,cid=c1695,aka=c1695]:0.600000,(778[&def=augustus_masked-DS113405-processed-gene-0.0-mRNA-1,cid=c1804,aka=c1804]:0.000000,779[&def=augustus_masked-DS113445-processed-gene-0.5-mRNA-1,cid=c1805,aka=c1805]:0.000000)c1697[&cid=c1697,aka=c1697]:0.600000,636[&def=genemark-DS113541-processed-gene-0.43-mRNA-1,cid=c1696,aka=c1696]:0.600000)c1131[&cid=c1131,aka=c1131]:0.800000,214[&def=snap_masked-DS113718-processed-gene-0.34-mRNA-1,cid=c850,aka=c850]:0.800000,215[&def=genemark-DS113473-processed-gene-0.24-mRNA-1,cid=c1066,aka=c1066]:0.800000,216[&def=augustus_masked-DS114561-processed-gene-0.1-mRNA-1,cid=c973,aka=c973]:0.800000,(637[&def=genemark-DS113459-processed-gene-0.46-mRNA-1,cid=c1637,aka=c1637]:0.600000,638[&def=genemark-DS113372-processed-gene-0.14-mRNA-1,cid=c1636,aka=c1636]:0.600000,639[&def=genemark-DS113227-processed-gene-0.27-mRNA-1,cid=c1635,aka=c1635]:0.600000)c1175[&cid=c1175,aka=c1175]:0.800000,217[&def=genemark-DS113707-processed-gene-0.11-mRNA-1,cid=c970,aka=c970]:0.800000,218[&def=genemark-DS113209-processed-gene-1.43-mRNA-1,cid=c911,aka=c911]:0.800000,(640[&def=genemark-DS113298-processed-gene-0.69-mRNA-1,cid=c1550,aka=c1550]:0.700000,(780[&def=augustus_masked-DS113718-processed-gene-0.0-mRNA-1,cid=c1777,aka=c1777]:0.400000,781[&def=augustus_masked-DS113816-processed-gene-0.1-mRNA-1,cid=c1776,aka=c1776]:0.400000)c1551[&cid=c1551,aka=c1551]:0.700000)c1193[&cid=c1193,aka=c1193]:0.800000,219[&def=genemark-DS113991-processed-gene-0.12-mRNA-1,cid=c941,aka=c941]:0.800000,220[&def=genemark-DS113336-processed-gene-0.51-mRNA-1,cid=c1011,aka=c1011]:0.800000,221[&def=genemark-DS113484-processed-gene-0.33-mRNA-1,cid=c901,aka=c901]:0.800000,(641[&def=genemark-DS113415-processed-gene-0.36-mRNA-1,cid=c1739,aka=c1739]:0.500000,642[&def=genemark-DS114199-processed-gene-0.3-mRNA-1,cid=c1740,aka=c1740]:0.500000)c1165[&cid=c1165,aka=c1165]:0.800000,222[&def=genemark-DS116332-processed-gene-0.0-mRNA-1,cid=c829,aka=c829]:0.800000,223[&def=genemark-DS113218-processed-gene-0.42-mRNA-1,cid=c1046,aka=c1046]:0.800000,(643[&def=augustus_masked-DS113814-processed-gene-0.0-mRNA-1,cid=c1552,aka=c1552]:0.700000,(782[&def=augustus_masked-DS114152-processed-gene-0.2-mRNA-1,cid=c1621,aka=c1621]:0.600000,783[&def=genemark-DS113209-processed-gene-1.45-mRNA-1,cid=c1622,aka=c1622]:0.600000)c1553[&cid=c1553,aka=c1553]:0.700000)c1148[&cid=c1148,aka=c1148]:0.800000,(644[&def=augustus_masked-DS113361-processed-gene-0.8-mRNA-1,cid=c1555,aka=c1555]:0.700000,645[&def=augustus_masked-DS113626-processed-gene-0.2-mRNA-1,cid=c1554,aka=c1554]:0.700000,646[&def=augustus_masked-DS113179-processed-gene-2.1-mRNA-1,cid=c1556,aka=c1556]:0.700000)c1102[&cid=c1102,aka=c1102]:0.800000,224[&def=genemark-DS113212-processed-gene-0.58-mRNA-1,cid=c984,aka=c984]:0.800000,225[&def=augustus_masked-DS113522-processed-gene-0.6-mRNA-1,cid=c845,aka=c845]:0.800000,226[&def=maker-DS113398-snap-gene-0.95-mRNA-1,cid=c1088,aka=c1088]:0.800000,(647[&def=genemark-DS113554-processed-gene-0.12-mRNA-1,cid=c1558,aka=c1558]:0.700000,648[&def=genemark-DS113554-processed-gene-0.11-mRNA-1,cid=c1557,aka=c1557]:0.700000)c1116[&cid=c1116,aka=c1116]:0.800000,227[&def=snap_masked-DS113880-processed-gene-0.22-mRNA-1,cid=c884,aka=c884]:0.800000,((784[&def=augustus_masked-DS113653-processed-gene-0.10-mRNA-1,cid=c1682,aka=c1682]:0.600000,(814[&def=genemark-DS113762-processed-gene-0.10-mRNA-1,cid=c1756,aka=c1756]:0.500000,815[&def=augustus_masked-DS113331-processed-gene-0.13-mRNA-1,cid=c1757,aka=c1757]:0.500000)c1683[&cid=c1683,aka=c1683]:0.600000)c1560[&cid=c1560,aka=c1560]:0.700000,649[&def=augustus_masked-DS113884-processed-gene-0.3-mRNA-1,cid=c1559,aka=c1559]:0.700000)c1169[&cid=c1169,aka=c1169]:0.800000,228[&def=genemark-DS114021-processed-gene-0.9-mRNA-1,cid=c879,aka=c879]:0.800000,(650[&def=augustus_masked-DS113184-processed-gene-0.18-mRNA-1,cid=c1702,aka=c1702]:0.600000,651[&def=genemark-DS113291-processed-gene-0.99-mRNA-1,cid=c1703,aka=c1703]:0.600000)c1117[&cid=c1117,aka=c1117]:0.800000,229[&def=augustus_masked-DS113441-processed-gene-0.4-mRNA-1,cid=c856,aka=c856]:0.800000,230[&def=genemark-DS113753-processed-gene-0.9-mRNA-1,cid=c922,aka=c922]:0.800000,231[&def=augustus_masked-DS113196-processed-gene-1.38-mRNA-1,cid=c907,aka=c907]:0.800000,232[&def=genemark-DS113296-processed-gene-0.53-mRNA-1,cid=c1027,aka=c1027]:0.800000,(652[&def=augustus_masked-DS114180-processed-gene-0.2-mRNA-1,cid=c1562,aka=c1562]:0.700000,653[&def=augustus_masked-DS113496-processed-gene-0.6-mRNA-1,cid=c1561,aka=c1561]:0.700000)c1152[&cid=c1152,aka=c1152]:0.800000,(654[&def=genemark-DS113586-processed-gene-0.48-mRNA-1,cid=c1563,aka=c1563]:0.700000,655[&def=genemark-DS113228-processed-gene-1.51-mRNA-1,cid=c1564,aka=c1564]:0.700000)c1134[&cid=c1134,aka=c1134]:0.800000,233[&def=genemark-DS113207-processed-gene-1.76-mRNA-1,cid=c904,aka=c904]:0.800000,234[&def=augustus_masked-DS113409-processed-gene-0.0-mRNA-1,cid=c951,aka=c951]:0.800000,235[&def=genemark-DS113497-processed-gene-0.54-mRNA-1,cid=c938,aka=c938]:0.800000,(656[&def=augustus_masked-DS113279-processed-gene-0.28-mRNA-1,cid=c1565,aka=c1565]:0.700000,657[&def=augustus_masked-DS113677-processed-gene-0.9-mRNA-1,cid=c1566,aka=c1566]:0.700000)c1133[&cid=c1133,aka=c1133]:0.800000,236[&def=genemark-DS113630-processed-gene-0.29-mRNA-1,cid=c943,aka=c943]:0.800000,237[&def=genemark-DS114432-processed-gene-0.1-mRNA-1,cid=c895,aka=c895]:0.800000,238[&def=genemark-DS113340-processed-gene-0.32-mRNA-1,cid=c923,aka=c923]:0.800000,(658[&def=augustus_masked-DS113423-processed-gene-0.11-mRNA-1,cid=c1704,aka=c1704]:0.600000,659[&def=augustus_masked-DS113183-processed-gene-2.5-mRNA-1,cid=c1705,aka=c1705]:0.600000,660[&def=augustus_masked-DS113876-processed-gene-0.0-mRNA-1,cid=c1706,aka=c1706]:0.600000)c1168[&cid=c1168,aka=c1168]:0.800000,(661[&def=augustus_masked-DS113532-processed-gene-0.3-mRNA-1,cid=c1567,aka=c1567]:0.700000,(785[&def=snap_masked-DS113185-processed-gene-2.83-mRNA-1,cid=c1671,aka=c1671]:0.600000,786[&def=augustus_masked-DS114002-processed-gene-0.0-mRNA-1,cid=c1670,aka=c1670]:0.600000,787[&def=augustus_masked-DS113240-processed-gene-0.20-mRNA-1,cid=c1669,aka=c1669]:0.600000)c1568[&cid=c1568,aka=c1568]:0.700000)c1144[&cid=c1144,aka=c1144]:0.800000,239[&def=augustus_masked-DS113259-processed-gene-0.7-mRNA-1,cid=c986,aka=c986]:0.800000,240[&def=genemark-DS113236-processed-gene-0.34-mRNA-1,cid=c1062,aka=c1062]:0.800000,241[&def=genemark-DS113250-processed-gene-0.53-mRNA-1,cid=c1095,aka=c1095]:0.800000,242[&def=genemark-DS113616-processed-gene-0.13-mRNA-1,cid=c956,aka=c956]:0.800000,(662[&def=augustus_masked-DS113286-processed-gene-0.21-mRNA-1,cid=c1569,aka=c1569]:0.700000,663[&def=genemark-DS113552-processed-gene-0.16-mRNA-1,cid=c1570,aka=c1570]:0.700000)c1107[&cid=c1107,aka=c1107]:0.800000,243[&def=genemark-DS115054-processed-gene-0.2-mRNA-1,cid=c934,aka=c934]:0.800000,244[&def=genemark-DS113233-processed-gene-1.37-mRNA-1,cid=c848,aka=c848]:0.800000,245[&def=augustus_masked-DS113733-processed-gene-0.2-mRNA-1,cid=c1072,aka=c1072]:0.800000,(664[&def=augustus_masked-DS113530-processed-gene-0.2-mRNA-1,cid=c1571,aka=c1571]:0.700000,665[&def=genemark-DS113184-processed-gene-1.29-mRNA-1,cid=c1572,aka=c1572]:0.700000)c1125[&cid=c1125,aka=c1125]:0.800000,246[&def=genemark-DS113348-processed-gene-0.67-mRNA-1,cid=c1057,aka=c1057]:0.800000,247[&def=genemark-DS113478-processed-gene-0.30-mRNA-1,cid=c959,aka=c959]:0.800000,(666[&def=augustus_masked-DS113677-processed-gene-0.7-mRNA-1,cid=c1573,aka=c1573]:0.700000,(788[&def=augustus_masked-DS113288-processed-gene-0.28-mRNA-1,cid=c1639,aka=c1639]:0.600000,789[&def=genemark-DS113668-processed-gene-0.14-mRNA-1,cid=c1638,aka=c1638]:0.600000)c1574[&cid=c1574,aka=c1574]:0.700000)c1182[&cid=c1182,aka=c1182]:0.800000,248[&def=genemark-DS113348-processed-gene-0.27-mRNA-1,cid=c867,aka=c867]:0.800000,(667[&def=augustus_masked-DS114558-processed-gene-0.0-mRNA-1,cid=c1575,aka=c1575]:0.700000,((816[&def=augustus_masked-DS114186-processed-gene-0.7-mRNA-1,cid=c1723,aka=c1723]:0.500000,817[&def=genemark-DS113245-processed-gene-0.45-mRNA-1,cid=c1722,aka=c1722]:0.500000)c1694[&cid=c1694,aka=c1694]:0.600000,790[&def=augustus_masked-DS113714-processed-gene-0.6-mRNA-1,cid=c1692,aka=c1692]:0.600000,791[&def=augustus_masked-DS113709-processed-gene-0.2-mRNA-1,cid=c1693,aka=c1693]:0.600000)c1576[&cid=c1576,aka=c1576]:0.700000)c1200[&cid=c1200,aka=c1200]:0.800000,249[&def=genemark-DS113201-processed-gene-0.23-mRNA-1,cid=c1021,aka=c1021]:0.800000,((792[&def=augustus_masked-DS113192-processed-gene-1.47-mRNA-1,cid=c1753,aka=c1753]:0.500000,793[&def=genemark-DS113384-processed-gene-0.41-mRNA-1,cid=c1752,aka=c1752]:0.500000)c1578[&cid=c1578,aka=c1578]:0.700000,668[&def=augustus_masked-DS113853-processed-gene-0.0-mRNA-1,cid=c1577,aka=c1577]:0.700000)c1185[&cid=c1185,aka=c1185]:0.800000,250[&def=genemark-DS113558-processed-gene-0.19-mRNA-1,cid=c874,aka=c874]:0.800000,((794[&def=augustus_masked-DS113342-processed-gene-0.7-mRNA-1,cid=c1712,aka=c1712]:0.600000,795[&def=genemark-DS113416-processed-gene-0.60-mRNA-1,cid=c1711,aka=c1711]:0.600000)c1580[&cid=c1580,aka=c1580]:0.700000,669[&def=genemark-DS115188-processed-gene-0.5-mRNA-1,cid=c1579,aka=c1579]:0.700000)c1138[&cid=c1138,aka=c1138]:0.800000,251[&def=genemark-DS113323-processed-gene-0.82-mRNA-1,cid=c1052,aka=c1052]:0.800000,252[&def=genemark-DS113258-processed-gene-0.112-mRNA-1,cid=c1033,aka=c1033]:0.800000,253[&def=genemark-DS113495-processed-gene-0.11-mRNA-1,cid=c1007,aka=c1007]:0.800000,254[&def=genemark-DS113366-processed-gene-0.53-mRNA-1,cid=c896,aka=c896]:0.800000,255[&def=snap_masked-DS113457-processed-gene-0.76-mRNA-1,cid=c977,aka=c977]:0.800000,256[&def=snap_masked-DS113535-processed-gene-0.54-mRNA-1,cid=c937,aka=c937]:0.800000,257[&def=genemark-DS113819-processed-gene-0.10-mRNA-1,cid=c1076,aka=c1076]:0.800000,258[&def=genemark-DS113636-processed-gene-0.29-mRNA-1,cid=c899,aka=c899]:0.800000,259[&def=genemark-DS114108-processed-gene-0.6-mRNA-1,cid=c855,aka=c855]:0.800000,(670[&def=augustus_masked-DS115149-processed-gene-0.0-mRNA-1,cid=c1581,aka=c1581]:0.700000,671[&def=augustus_masked-DS119183-processed-gene-0.0-mRNA-1,cid=c1586,aka=c1586]:0.700000,672[&def=genemark-DS113531-processed-gene-0.14-mRNA-1,cid=c1585,aka=c1585]:0.700000,673[&def=genemark-DS113677-processed-gene-0.34-mRNA-1,cid=c1582,aka=c1582]:0.700000,674[&def=augustus_masked-DS113259-processed-gene-0.19-mRNA-1,cid=c1584,aka=c1584]:0.700000,675[&def=genemark-DS113381-processed-gene-0.35-mRNA-1,cid=c1583,aka=c1583]:0.700000)c1162[&cid=c1162,aka=c1162]:0.800000,260[&def=genemark-DS114555-processed-gene-0.10-mRNA-1,cid=c947,aka=c947]:0.800000,261[&def=augustus_masked-DS113991-processed-gene-0.5-mRNA-1,cid=c841,aka=c841]:0.800000,(676[&def=genemark-DS113409-processed-gene-0.49-mRNA-1,cid=c1587,aka=c1587]:0.700000,((818[&def=genemark-DS113796-processed-gene-0.32-mRNA-1,cid=c1811,aka=c1811]:0.000000,819[&def=genemark-DS114481-processed-gene-0.11-mRNA-1,cid=c1810,aka=c1810]:0.000000)c1657[&cid=c1657,aka=c1657]:0.600000,796[&def=genemark-DS113281-processed-gene-0.43-mRNA-1,cid=c1656,aka=c1656]:0.600000)c1588[&cid=c1588,aka=c1588]:0.700000)c1157[&cid=c1157,aka=c1157]:0.800000,262[&def=genemark-DS114336-processed-gene-0.8-mRNA-1,cid=c873,aka=c873]:0.800000,263[&def=genemark-DS113744-processed-gene-0.23-mRNA-1,cid=c832,aka=c832]:0.800000,264[&def=genemark-DS113181-processed-gene-3.33-mRNA-1,cid=c932,aka=c932]:0.800000,265[&def=genemark-DS113183-processed-gene-3.45-mRNA-1,cid=c1049,aka=c1049]:0.800000,266[&def=augustus_masked-DS113352-processed-gene-0.8-mRNA-1,cid=c915,aka=c915]:0.800000,267[&def=genemark-DS113280-processed-gene-0.44-mRNA-1,cid=c860,aka=c860]:0.800000,268[&def=augustus_masked-DS113178-processed-gene-3.43-mRNA-1,cid=c1023,aka=c1023]:0.800000,(677[&def=augustus_masked-DS113863-processed-gene-0.5-mRNA-1,cid=c1716,aka=c1716]:0.600000,678[&def=snap_masked-DS113222-processed-gene-0.78-mRNA-1,cid=c1715,aka=c1715]:0.600000)c1123[&cid=c1123,aka=c1123]:0.800000,269[&def=augustus_masked-DS113221-processed-gene-0.18-mRNA-1,cid=c1079,aka=c1079]:0.800000,270[&def=augustus_masked-DS114019-processed-gene-0.5-mRNA-1,cid=c890,aka=c890]:0.800000,271[&def=genemark-DS113606-processed-gene-0.23-mRNA-1,cid=c969,aka=c969]:0.800000,(679[&def=augustus_masked-DS113276-processed-gene-0.16-mRNA-1,cid=c1590,aka=c1590]:0.700000,680[&def=augustus_masked-DS113364-processed-gene-0.1-mRNA-1,cid=c1589,aka=c1589]:0.700000)c1170[&cid=c1170,aka=c1170]:0.800000,(681[&def=augustus_masked-DS113202-processed-gene-0.9-mRNA-1,cid=c1591,aka=c1591]:0.700000,(797[&def=genemark-DS113337-processed-gene-0.31-mRNA-1,cid=c1698,aka=c1698]:0.600000,798[&def=augustus_masked-DS113437-processed-gene-0.6-mRNA-1,cid=c1700,aka=c1700]:0.600000,799[&def=augustus_masked-DS113292-processed-gene-0.4-mRNA-1,cid=c1699,aka=c1699]:0.600000,800[&def=snap_masked-DS113434-processed-gene-0.69-mRNA-1,cid=c1701,aka=c1701]:0.600000)c1598[&cid=c1598,aka=c1598]:0.700000,682[&def=augustus_masked-DS113374-processed-gene-0.11-mRNA-1,cid=c1593,aka=c1593]:0.700000,683[&def=augustus_masked-DS113244-processed-gene-0.17-mRNA-1,cid=c1596,aka=c1596]:0.700000,(801[&def=genemark-DS113558-processed-gene-0.35-mRNA-1,cid=c1633,aka=c1633]:0.600000,802[&def=augustus_masked-DS114168-processed-gene-0.3-mRNA-1,cid=c1634,aka=c1634]:0.600000)c1597[&cid=c1597,aka=c1597]:0.700000,684[&def=augustus_masked-DS113483-processed-gene-0.6-mRNA-1,cid=c1594,aka=c1594]:0.700000,685[&def=augustus_masked-DS113894-processed-gene-0.8-mRNA-1,cid=c1592,aka=c1592]:0.700000,686[&def=genemark-DS113229-processed-gene-1.70-mRNA-1,cid=c1595,aka=c1595]:0.700000)c1197[&cid=c1197,aka=c1197]:0.800000,272[&def=genemark-DS113249-processed-gene-0.107-mRNA-1,cid=c1020,aka=c1020]:0.800000,273[&def=genemark-DS113805-processed-gene-0.11-mRNA-1,cid=c926,aka=c926]:0.800000,274[&def=genemark-DS113320-processed-gene-0.44-mRNA-1,cid=c828,aka=c828]:0.800000,275[&def=augustus_masked-DS113732-processed-gene-0.5-mRNA-1,cid=c900,aka=c900]:0.800000,276[&def=genemark-DS113708-processed-gene-0.12-mRNA-1,cid=c1043,aka=c1043]:0.800000,277[&def=genemark-DS113797-processed-gene-0.17-mRNA-1,cid=c1087,aka=c1087]:0.800000,278[&def=genemark-DS114029-processed-gene-0.13-mRNA-1,cid=c1092,aka=c1092]:0.800000)c822[&cid=c822,aka=c822]:1.000000)c0[&cid=c0,aka=c0]:1.000000)[&cmd=##CLUSTERS:-k:3	-g:0.1	-p:1000	-s:20	-f:contigSrt.top_17290_longest.all.maker.proteins.kinannote_kinases.fasta];
+END;
+BEGIN NOTES;
+[! Notes block written by Bio::Phylo::Project 0.58 on Wed Jun 29 16:41:45 2016 ]
+END;
